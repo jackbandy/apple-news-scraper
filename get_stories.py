@@ -15,6 +15,7 @@ import re
 import csv
 import json
 import fcntl
+import signal
 import datetime
 import subprocess
 from time import sleep
@@ -34,6 +35,7 @@ from config import (
     COLLECT_TOP_STORIES, APP_PATH,
     MIN_STORY_CELL_HEIGHT, TAB_BAR_HEIGHT, SAFE_TAP_MARGIN, MAX_TOP_STORIES,
     MAX_TOP_HOME, MAX_READER_FAVORITES, MAX_POPULAR_STORIES, MAX_TRENDING,
+    MAX_RUN_SECONDS,
 )
 
 
@@ -49,6 +51,13 @@ def main():
         print("Another instance is already running — exiting")
         lock_fd.close()
         return
+
+    if MAX_RUN_SECONDS > 0:
+        def _timeout_handler(signum, frame):
+            print("Run exceeded {} seconds — terminating".format(MAX_RUN_SECONDS))
+            raise SystemExit(1)
+        signal.signal(signal.SIGALRM, _timeout_handler)
+        signal.alarm(MAX_RUN_SECONDS)
 
     # Terminate the app cleanly before wiping data (avoids the app rewriting
     # cache files as we delete them)

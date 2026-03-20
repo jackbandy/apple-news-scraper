@@ -35,6 +35,8 @@
       </label>
       <label>Publication <select id="filter-pub"><option value="">All</option></select></label>
       <label>Search <input type="text" id="search" placeholder="headline, publication…" /></label>
+      <label><input type="checkbox" id="filter-edited" /> Edited headlines only</label>
+      <label><input type="checkbox" id="filter-has-link" /> Has link only</label>
       <span id="result-count"></span>
     </div>
     <div id="table-wrap">
@@ -43,7 +45,6 @@
         <thead><tr>
           <th data-col="section">Section</th>
           <th data-col="headline">Headline</th>
-          <th>Edited</th>
           <th data-col="publication">Publication</th>
           <th data-col="first_seen">Initial Observation</th>
           <th data-col="last_seen">Most Recent Observation</th>
@@ -66,6 +67,10 @@
     <button id="modal-close">&times;</button>
     <h2 id="modal-headline"></h2>
     <div class="modal-pub" id="modal-pub"></div>
+    <div id="modal-headlines" style="display:none">
+      <p class="modal-headline-row"><span class="modal-headline-label">Apple News headline:</span> <span id="modal-display-headline"></span></p>
+      <p class="modal-headline-row"><span class="modal-headline-label">Article headline:</span> <span id="modal-article-headline"></span></p>
+    </div>
     <table>
       <thead><tr><th>Observed At</th><th>Section</th><th>Rank</th></tr></thead>
       <tbody id="modal-body"></tbody>

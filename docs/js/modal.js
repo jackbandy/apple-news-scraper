@@ -1,6 +1,16 @@
 function openModal(s) {
-  document.getElementById('modal-headline').textContent = s.headline || '—';
+  const isEdited = s.section === 'top' && s.article_headline && s.headline !== s.article_headline;
+  document.getElementById('modal-headline').textContent = isEdited ? s.article_headline : (s.headline || '—');
   document.getElementById('modal-pub').textContent = s.publication || '';
+
+  const headlinesEl = document.getElementById('modal-headlines');
+  if (isEdited) {
+    document.getElementById('modal-display-headline').textContent = s.headline;
+    document.getElementById('modal-article-headline').textContent = s.article_headline;
+    headlinesEl.style.display = '';
+  } else {
+    headlinesEl.style.display = 'none';
+  }
 
   const link = document.getElementById('modal-link');
   link.href = s.link || '#';

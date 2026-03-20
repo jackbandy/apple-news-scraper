@@ -29,3 +29,6 @@ MAX_TOP_HOME = 7          # total top stories including plus and audio rows
 MAX_READER_FAVORITES = 4  # reader favorites appearing before the next header
 MAX_POPULAR_STORIES = 5   # "Popular in News+" stories
 MAX_TRENDING = 4          # trending stories
+
+# Maximum wall-clock seconds a single run may take before it is killed (0 = no limit)
+MAX_RUN_SECONDS = 900     # 15 minutes

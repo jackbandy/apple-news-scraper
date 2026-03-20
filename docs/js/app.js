@@ -6,7 +6,7 @@ fetch('../data_output/stories.csv')
       'Could not load data. Run a local server (e.g. python3 -m http.server) from the repo root. (' + err.message + ')';
   });
 
-['filter-section', 'filter-pub', 'search'].forEach(id =>
+['filter-section', 'filter-pub', 'search', 'filter-edited', 'filter-has-link'].forEach(id =>
   document.getElementById(id).addEventListener('input', render)
 );
 

@@ -30,13 +30,17 @@ function populateFilters() {
 }
 
 function getFiltered() {
-  const section = document.getElementById('filter-section').value;
-  const pub     = document.getElementById('filter-pub').value;
-  const q       = document.getElementById('search').value.toLowerCase();
+  const section  = document.getElementById('filter-section').value;
+  const pub      = document.getElementById('filter-pub').value;
+  const q        = document.getElementById('search').value.toLowerCase();
+  const edited   = document.getElementById('filter-edited').checked;
+  const hasLink  = document.getElementById('filter-has-link').checked;
   return stories.filter(s => {
     if (section && s.section !== section) return false;
     if (pub     && s.publication !== pub) return false;
     if (q       && !`${s.headline} ${s.publication}`.toLowerCase().includes(q)) return false;
+    if (edited  && !(s.section === 'top' && s.article_headline && s.headline !== s.article_headline)) return false;
+    if (hasLink && !s.link) return false;
     return true;
   });
 }
