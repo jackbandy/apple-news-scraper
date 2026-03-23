@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-23 11:00:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AKfgKC2M7QQOljKGjfk7wHQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-23 11:00:13",
+      "pub_time": "2026-03-23 10:56:15",
+      "publication": "NBC News",
+      "headline": "Trump backs off escalation but Iran war goes on amid “productive” talks",
+      "article_headline": "Trump backs off escalation but Iran war goes on amid “productive” talks"
+    },
+    {
+      "link": "https://apple.news/AaRWqxH25SqiienlYqdayWg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-23 11:00:13",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "headline": "ICE officers make their way to airports after Trump order amid partial shutdown",
+      "article_headline": "ICE officers make their way to airports after Trump order amid partial shutdown"
+    },
+    {
+      "link": "https://apple.news/AcrdALphDT7Guu_ImKp32rA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-23 11:00:13",
+      "pub_time": "2026-03-23 10:56:13",
+      "publication": "USA TODAY",
+      "headline": "Pilot, copilot killed after passenger jet hits truck at LaGuardia Airport",
+      "article_headline": "Pilot, copilot killed after passenger jet hits truck at LaGuardia Airport"
+    },
+    {
+      "link": "https://apple.news/AJ8k8wXRsSHa3tQ_uBtiIsg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-23 11:00:13",
+      "pub_time": "2026-03-23 10:56:41",
+      "publication": "NPR",
+      "headline": "With more older drivers on the road, states try to balance safety and mobility",
+      "article_headline": "With more older drivers on the road, states try to balance safety and mobility"
+    },
+    {
+      "link": "https://apple.news/AcrdALphDT7Guu_ImKp32rA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-23 11:00:13",
+      "pub_time": "2026-03-23 10:56:13",
+      "publication": "USA TODAY",
+      "headline": "Pilot, copilot killed after passenger jet hits truck at LaGuardia Airport",
+      "article_headline": "Pilot, copilot killed after passenger jet hits truck at LaGuardia Airport"
+    },
+    {
+      "link": "https://apple.news/AJ8k8wXRsSHa3tQ_uBtiIsg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-23 11:00:13",
+      "pub_time": "2026-03-23 10:56:41",
+      "publication": "NPR",
+      "headline": "With more older drivers on the road, states try to balance safety and mobility",
+      "article_headline": "With more older drivers on the road, states try to balance safety and mobility"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-23 11:00:13",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "headline": "How the Midwest became the place to move",
+      "article_headline": ""
+    }
+  ]
+}
