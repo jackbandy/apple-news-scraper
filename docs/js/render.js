@@ -38,9 +38,10 @@ function render() {
       : esc(displayHeadline) || '—';
     const isEdited = s.section === 'top' && s.article_headline && s.headline !== s.article_headline;
     const editedBadge = isEdited ? ' <span class="badge-edited">edited</span>' : '';
+    const labelBadge = s.label ? ` <span class="badge-label">${esc(s.label)}</span>` : '';
     tr.innerHTML = `
       <td>${badge(s.section)}</td>
-      <td class="headline">${link}${countNote}${editedBadge}</td>
+      <td class="headline">${link}${countNote}${editedBadge}${labelBadge}</td>
       <td class="pub">${esc(s.publication) || '—'}</td>
       <td class="time">${fmtDate(s.first_seen)}</td>
       <td class="time">${fmtDate(s.last_seen)}</td>`;
