@@ -420,20 +420,23 @@ def collect_home_page(driver, run_time):
             x_c = max(80, min(s['x'] + s['w'] // 2, window_width - 80))
             y_c = max(100, min(s['y'] + s['h'] // 2, safe_y - 20))
 
-            publication, headline, pub_time = '', '', ''
+            publication, author, headline, pub_time = '', '', '', ''
             try:
                 if section == 'trending':
-                    # Trending label format: "Headline, time ago[, Author]"
-                    # Split on the time marker so we don't include it in the
-                    # headline and can extract the author that follows it.
+                    # Trending label format: "Headline[, Apple News Plus], time ago[, Author]"
+                    # Split on the time marker to isolate headline and author.
+                    # Publication is not present in trending cell labels; it is
+                    # filled in from the article view (get_article_headline) below.
                     tm = re.search(r',\s*\d+\s+(?:minute|hour|day|week|month)s?\s+ago', label)
                     if tm:
                         headline = label[:tm.start()].strip()
-                        publication = label[tm.end():].lstrip(', ').strip()
+                        # Strip trailing ", Apple News Plus" that sometimes precedes the time marker
+                        headline = re.sub(r',\s*Apple News Plus\s*$', '', headline).strip()
+                        author = label[tm.end():].lstrip(', ').strip()
                     else:
                         headline = label.strip()
                 else:
-                    publication, headline, _ = parse_cell_label(label)
+                    publication, headline, author = parse_cell_label(label)
                 pub_time = parse_pub_date(label)
             except Exception:
                 pass
@@ -468,7 +471,7 @@ def collect_home_page(driver, run_time):
             if not publication:
                 publication = article_publication
 
-            stories.append((link, rank, section, run_time, pub_time, publication, headline, article_headline))
+            stories.append((link, rank, section, run_time, pub_time, publication, author, headline, article_headline))
             print("  [{}/{}]{}".format(section, rank, ' (no link)' if not link else ''))
             print("    Publisher:        {}".format(publication or '—'))
             print("    Display Headline: {}".format(headline))
@@ -565,9 +568,9 @@ def collect_top_stories_view(driver, run_time):
             x_c = max(80, min(s['x'] + s['w'] // 2, window_width - 80))
             y_c = max(100, min(s['y'] + s['h'] // 2, safe_y - 20))
 
-            publication, headline, pub_time = '', '', ''
+            publication, author, headline, pub_time = '', '', '', ''
             try:
-                publication, headline, _ = parse_cell_label(s['label'])
+                publication, headline, author = parse_cell_label(s['label'])
                 pub_time = parse_pub_date(s['label'])
             except Exception:
                 pass
@@ -590,7 +593,7 @@ def collect_top_stories_view(driver, run_time):
             if not publication:
                 publication = article_publication
 
-            stories.append((link, rank, 'top', run_time, pub_time, publication, headline, article_headline))
+            stories.append((link, rank, 'top', run_time, pub_time, publication, author, headline, article_headline))
             print("  [top/{}]".format(rank))
             print("    Publisher:        {}".format(publication or '—'))
             print("    Display Headline: {}".format(headline))
@@ -615,7 +618,7 @@ def save_stories(stories):
     with open(output_file, 'a', newline='') as f:
         writer = csv.writer(f)
         if write_header:
-            writer.writerow(['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'headline', 'article_headline'])
+            writer.writerow(['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'author', 'headline', 'article_headline'])
         for row in stories:
             writer.writerow(row)
 
@@ -627,7 +630,7 @@ def save_json(stories, run_time):
     filename = run_time.replace(':', '-').replace(' ', '_') + '.json'
     path = os.path.join(json_folder, filename)
 
-    keys = ['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'headline', 'article_headline']
+    keys = ['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'author', 'headline', 'article_headline']
     records = [dict(zip(keys, row)) for row in stories]
 
     payload = {
