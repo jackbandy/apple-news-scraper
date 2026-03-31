@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-03-31 11:00:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AWhJF2NS3Rvmig6Qjm0S-zQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-31 11:00:13",
+      "pub_time": "2026-03-31 10:56:14",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Trump slams allies after Italy blocks U.S. use of air base for Iran war, MORE DETAILS",
+      "article_headline": "Trump slams allies after Italy blocks U.S. use of air base for Iran war"
+    },
+    {
+      "link": "https://apple.news/Ao4mF3eCaR8KgS6KLPX5qKA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-31 11:00:13",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Supreme Court rules against Colorado’s ban on conversion therapy aimed at LGBTQ+ youth",
+      "article_headline": "Supreme Court rules against Colorado’s ban on conversion therapy aimed at LGBTQ+ youth"
+    },
+    {
+      "link": "https://apple.news/AKiR63qiZT4-soJyz3vK-8Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-31 11:00:13",
+      "pub_time": "2026-03-31 10:57:13",
+      "publication": "POLITICO",
+      "author": "Josh Gerstein",
+      "headline": "The man behind Donald Trump’s push to end birthright citizenship",
+      "article_headline": "The man behind Donald Trump’s push to end birthright citizenship"
+    },
+    {
+      "link": "https://apple.news/AKiR63qiZT4-soJyz3vK-8Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-31 11:00:13",
+      "pub_time": "2026-03-31 10:56:47",
+      "publication": "POLITICO",
+      "author": "Josh Gerstein",
+      "headline": "The man behind Donald Trump’s push to end birthright citizenship",
+      "article_headline": "The man behind Donald Trump’s push to end birthright citizenship"
+    },
+    {
+      "link": "https://apple.news/ACp4QA4RiTYSi8E4frPfdGQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-31 11:00:13",
+      "pub_time": "2026-03-31 10:57:14",
+      "publication": "NPR",
+      "author": "Kerry Klein",
+      "headline": "In a town close to the farmworker movement, some struggle to process Chavez allegations",
+      "article_headline": "In a town close to the farmworker movement, some struggle to process Chavez allegations"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-31 11:00:13",
+      "pub_time": "2026-03-31 10:56:42",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "How the Artemis II rocket will get NASA astronauts to the moon and back",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ACp4QA4RiTYSi8E4frPfdGQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-31 11:00:13",
+      "pub_time": "2026-03-31 10:57:01",
+      "publication": "NPR",
+      "author": "Kerry Klein",
+      "headline": "In a town close to the farmworker movement, some struggle to process Chavez allegations",
+      "article_headline": "In a town close to the farmworker movement, some struggle to process Chavez allegations"
+    }
+  ]
+}
