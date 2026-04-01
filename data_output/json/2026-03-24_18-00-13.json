@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-24 18:00:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AfA368EBPQ1yvrU3Q13Kk3A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-24 18:00:13",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "headline": "Airport disruptions abound as senators chase deal to end Homeland Security budget standoff",
+      "article_headline": "Airport disruptions abound as senators chase deal to end Homeland Security budget standoff"
+    },
+    {
+      "link": "https://apple.news/ANVP-mYQISKS3yrPDS9aETQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-24 18:00:13",
+      "pub_time": "2026-03-24 16:00:42",
+      "publication": "POLITICO",
+      "headline": "Pentagon prepares to send another 3,000 troops to Middle East",
+      "article_headline": "Pentagon prepares to send another 3,000 troops to Middle East"
+    },
+    {
+      "link": "https://apple.news/AXJsinQMQQjqBPHKzIGHyCg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-24 18:00:13",
+      "pub_time": "2026-03-24 16:01:09",
+      "publication": "Los Angeles Times",
+      "headline": "Divided Supreme Court weighs the right to seek asylum at the southern border",
+      "article_headline": "Divided Supreme Court weighs the right to seek asylum at the southern border"
+    },
+    {
+      "link": "https://apple.news/AiVX5KlwjR7OB6qCUk6sb5Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-24 18:00:13",
+      "pub_time": "2026-03-24 16:01:42",
+      "publication": "The Wall Street Journal",
+      "headline": "Dozens of close calls on runways preceded deadly LaGuardia crash",
+      "article_headline": "Dozens of close calls on runways preceded deadly LaGuardia crash"
+    },
+    {
+      "link": "https://apple.news/A0zSliLpORzabw-QA81sysQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-24 18:00:13",
+      "pub_time": "2026-03-24 16:02:15",
+      "publication": "Fox News",
+      "headline": "NATO scrambles jets as Russia fires nearly 400 drones toward Ukraine, signaling new spring offensive",
+      "article_headline": "NATO scrambles jets as Russia fires nearly 400 drones toward Ukraine, signaling new spring offensive"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-24 18:00:13",
+      "pub_time": "2026-03-24 16:02:42",
+      "publication": "National Geographic",
+      "headline": "What a 55,000-year-old fetus reveals about the decline of Neanderthals",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-24 18:00:13",
+      "pub_time": "2026-03-24 17:51:10",
+      "publication": "The Wall Street Journal",
+      "headline": "Block CFO Says Deep Job Cuts From AI Are an Inevitability for Companies",
+      "article_headline": ""
+    }
+  ]
+}

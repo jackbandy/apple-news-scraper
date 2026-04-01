@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-01 00:40:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AlCeacaKvRcC1D4-XuM5XTg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-01 00:40:13",
+      "pub_time": "2026-04-01 00:07:15",
+      "publication": "Reuters",
+      "author": "Nandita Bose, Steven Scheer, and Yomna Ehab",
+      "headline": "U.S. eyes a swift end to war as fresh attacks hit Gulf states and Iran",
+      "article_headline": "U.S. eyes a swift end to war as fresh attacks hit Gulf states and Iran"
+    },
+    {
+      "link": "https://apple.news/AyoO9wBLfQgON9_UlCp-DPA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-01 00:40:13",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump signs order to restrict mail-in voting and create national voter list",
+      "article_headline": "Trump signs order to restrict mail-in voting and create national voter list"
+    },
+    {
+      "link": "https://apple.news/A1eCOe0UnQbGHWN9aV9Owqg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-01 00:40:13",
+      "pub_time": "2026-04-01 00:07:14",
+      "publication": "Philadelphia Inquirer",
+      "author": "Susan Snyder",
+      "headline": "Judge rules University of Pennsylvania must provide list of Jewish employees to Trump administration",
+      "article_headline": "Judge rules University of Pennsylvania must provide list of Jewish employees to Trump administration"
+    },
+    {
+      "link": "https://apple.news/ACl8XPq3oT_adH80dPlXW4g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-01 00:40:13",
+      "pub_time": "2026-04-01 00:07:42",
+      "publication": "The Washington Post",
+      "author": "Scott Nover and Mustafa Salim",
+      "headline": "American journalist Shelly Kittleson kidnapped in Baghdad",
+      "article_headline": "American journalist Shelly Kittleson kidnapped in Baghdad"
+    },
+    {
+      "link": "https://apple.news/A1eCOe0UnQbGHWN9aV9Owqg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-01 00:40:13",
+      "pub_time": "2026-04-01 00:07:15",
+      "publication": "Philadelphia Inquirer",
+      "author": "Susan Snyder",
+      "headline": "Judge rules University of Pennsylvania must provide list of Jewish employees to Trump administration",
+      "article_headline": "Judge rules University of Pennsylvania must provide list of Jewish employees to Trump administration"
+    },
+    {
+      "link": "https://apple.news/ACl8XPq3oT_adH80dPlXW4g",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-01 00:40:13",
+      "pub_time": "2026-04-01 00:07:42",
+      "publication": "The Washington Post",
+      "author": "Scott Nover and Mustafa Salim",
+      "headline": "American journalist Shelly Kittleson kidnapped in Baghdad",
+      "article_headline": "American journalist Shelly Kittleson kidnapped in Baghdad"
+    },
+    {
+      "link": "https://apple.news/AQsVLflLqT8ulS0k6wOntQA",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-01 00:40:13",
+      "pub_time": "2026-04-01 00:08:10",
+      "publication": "NBC News",
+      "author": "Denise Chow, Jay Blackman, and Al Roker",
+      "headline": "These astronauts may soon travel farther from Earth than any human has before",
+      "article_headline": "Going the farthest: Meet the four astronauts on NASA's Artemis II moon mission"
+    }
+  ]
+}

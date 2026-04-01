@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-25 21:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ApExFfOh2R1-M7rzpX8dtSQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-25 21:20:13",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "headline": "Verdicts against Meta, YouTube reshape legal protections for Big Tech",
+      "article_headline": "Verdicts against Meta, YouTube reshape legal protections for Big Tech"
+    },
+    {
+      "link": "https://apple.news/AewAu4whpSIakAVLIjSaOew",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-25 21:20:13",
+      "pub_time": "",
+      "publication": "Bloomberg",
+      "headline": "DOJ agrees to pay $1.25 million settlement to former Trump adviser Michael Flynn",
+      "article_headline": "DOJ agrees to pay $1.25 million settlement to former Trump adviser Michael Flynn"
+    },
+    {
+      "link": "https://apple.news/Ae5dR7-13SeylNqRPm4HgqQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-25 21:20:13",
+      "pub_time": "2026-03-25 20:43:14",
+      "publication": "BBC News",
+      "headline": "Iranians mark their New Year with anger, fear, and defiance",
+      "article_headline": "Iranians mark their New Year with anger, fear, and defiance"
+    },
+    {
+      "link": "https://apple.news/AgbTMUSkER42d00c1XlHjwg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-25 21:20:13",
+      "pub_time": "2026-03-25 20:43:41",
+      "publication": "The Guardian",
+      "headline": "Strike on alleged drug vessel kills 4 people in the Caribbean, U.S. military says",
+      "article_headline": "Strike on alleged drug vessel kills 4 people in the Caribbean, U.S. military says"
+    },
+    {
+      "link": "https://apple.news/Ae5dR7-13SeylNqRPm4HgqQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-25 21:20:13",
+      "pub_time": "2026-03-25 20:43:15",
+      "publication": "BBC News",
+      "headline": "Iranians mark their New Year with anger, fear, and defiance",
+      "article_headline": "Iranians mark their New Year with anger, fear, and defiance"
+    },
+    {
+      "link": "https://apple.news/AgbTMUSkER42d00c1XlHjwg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-03-25 21:20:13",
+      "pub_time": "2026-03-25 20:43:42",
+      "publication": "The Guardian",
+      "headline": "Strike on alleged drug vessel kills 4 people in the Caribbean, U.S. military says",
+      "article_headline": "Strike on alleged drug vessel kills 4 people in the Caribbean, U.S. military says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-25 21:20:13",
+      "pub_time": "2026-03-25 20:44:10",
+      "publication": "The Wall Street Journal",
+      "headline": "ICE has left Minneapolis. The economic hangover hasn’t.",
+      "article_headline": ""
+    }
+  ]
+}

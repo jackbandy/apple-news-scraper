@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-03-31 06:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AFDFigRTbReKc1CPn79SmeA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-31 06:20:13",
+      "pub_time": "2026-03-31 06:16:14",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. strikes city of Iranian nuclear site while Tehran hits fully loaded oil tanker off Dubai coast",
+      "article_headline": "US strikes a city home to an Iranian nuclear site while Tehran hits oil tanker off Dubai coast"
+    },
+    {
+      "link": "https://apple.news/AZXAWsaWBRVm_HZZ8Ce2wIQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-31 06:20:13",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "Lawmakers stare down extended DHS shutdown as TSA pressure lifts for now",
+      "article_headline": "Lawmakers stare down extended DHS shutdown as TSA pressure lifts for now"
+    },
+    {
+      "link": "https://apple.news/AOHIxpiBoSGmBW5Y4leW6xA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-31 06:20:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "New Heart Association diet advice contradicts government recommendations",
+      "article_headline": "Heart Association Clashes With RFK Jr. Over Red Meat, Dairy and Beef Tallow"
+    },
+    {
+      "link": "https://apple.news/AU0p5IelrS_Krm6WntHeAzw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-31 06:20:13",
+      "pub_time": "2026-03-31 06:16:41",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Huge fires at Russian oil facilities following Ukraine strikes, satellite images show",
+      "article_headline": "Huge fires at Russian oil facilities following Ukraine strikes, satellite images show"
+    },
+    {
+      "link": "https://apple.news/AU0p5IelrS_Krm6WntHeAzw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-31 06:20:13",
+      "pub_time": "2026-03-31 06:16:13",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Huge fires at Russian oil facilities following Ukraine strikes, satellite images show",
+      "article_headline": "Huge fires at Russian oil facilities following Ukraine strikes, satellite images show"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-31 06:20:13",
+      "pub_time": "2026-03-31 06:16:40",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Trump releases first renderings of massive Miami high-rise presidential library",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-31 06:20:13",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "How to keep the suburbs tenant-free",
+      "article_headline": ""
+    }
+  ]
+}

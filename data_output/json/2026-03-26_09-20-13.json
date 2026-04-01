@@ -1,0 +1,76 @@
+{
+  "run_time": "2026-03-26 09:20:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A9TBFuEnGSqSy1ZGdTIwstA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-26 09:20:13",
+      "pub_time": "2026-03-26 09:11:14",
+      "publication": "Reuters",
+      "headline": "Trump urges Iran to act quickly on ceasefire plan",
+      "article_headline": "Trump urges Iran to act quickly on ceasefire plan"
+    },
+    {
+      "link": "https://apple.news/AHhbpntfVRcGbc72-xqXC4w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-26 09:20:13",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "headline": "Missed paychecks and airport delays: Pressure mounts on Congress to end the funding shutdown",
+      "article_headline": "Missed paychecks and airport delays: Pressure mounts on Congress to end the funding shutdown"
+    },
+    {
+      "link": "https://apple.news/AdFqnhQE9RB67cCcNInKaJw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-26 09:20:13",
+      "pub_time": "",
+      "publication": "ESPN",
+      "headline": "Transgender women banned from Olympics by new IOC policy",
+      "article_headline": "Transgender women banned from Olympics by new IOC policy"
+    },
+    {
+      "link": "https://apple.news/AS8aePRQ0SQKsW5XKqsRxIg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-26 09:20:13",
+      "pub_time": "2026-03-26 09:11:41",
+      "publication": "Los Angeles Times",
+      "headline": "$8.71 a gallon? Welcome to L.A.’s most infamous gas station",
+      "article_headline": "$8.71 a gallon? Welcome to L.A.’s most infamous gas station"
+    },
+    {
+      "link": "https://apple.news/AS8aePRQ0SQKsW5XKqsRxIg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-03-26 09:20:13",
+      "pub_time": "2026-03-26 09:11:14",
+      "publication": "Los Angeles Times",
+      "headline": "$8.71 a gallon? Welcome to L.A.’s most infamous gas station",
+      "article_headline": "$8.71 a gallon? Welcome to L.A.’s most infamous gas station"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-26 09:20:13",
+      "pub_time": "",
+      "publication": "Business Insider",
+      "headline": "Census report shows America’s fastest-growing and fastest-shrinking cities",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-26 09:20:13",
+      "pub_time": "2026-03-26 09:11:55",
+      "publication": "The Wall Street Journal",
+      "headline": "He had a full ride at Duke — until America cut him off",
+      "article_headline": ""
+    }
+  ]
+}
