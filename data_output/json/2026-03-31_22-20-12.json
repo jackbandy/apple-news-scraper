@@ -1,0 +1,61 @@
+{
+  "run_time": "2026-03-31 22:20:12",
+  "story_count": 5,
+  "stories": [
+    {
+      "link": "https://apple.news/AB4Y476iRTPqeKd7Obr9HsQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-03-31 22:20:12",
+      "pub_time": "2026-03-31 21:20:13",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "U.S. says Iran war at decisive moment, Tehran threatens businesses in region, MORE DETAILS",
+      "article_headline": "U.S. says Iran war at decisive moment, Tehran threatens businesses in region"
+    },
+    {
+      "link": "https://apple.news/AyoO9wBLfQgON9_UlCp-DPA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-03-31 22:20:12",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump signs order to restrict mail-in voting and create national voter list",
+      "article_headline": "Trump signs order to restrict mail-in voting and create national voter list"
+    },
+    {
+      "link": "https://apple.news/ACl8XPq3oT_adH80dPlXW4g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-03-31 22:20:12",
+      "pub_time": "2026-03-31 21:21:22",
+      "publication": "The Washington Post",
+      "author": "Scott Nover and Mustafa Salim",
+      "headline": "American journalist Shelly Kittleson kidnapped in Baghdad",
+      "article_headline": "American journalist Shelly Kittleson kidnapped in Baghdad"
+    },
+    {
+      "link": "https://apple.news/ARTc3rQ1WTLC644USNKFEBw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-03-31 22:20:12",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Tiger Woods is stepping away from golf to seek treatment",
+      "article_headline": "Tiger Woods stepping away from golf to seek treatment"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-03-31 22:20:12",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "The former spy who helped stop Iran from getting a nuclear bomb, Audio, 1 min",
+      "article_headline": ""
+    }
+  ]
+}
