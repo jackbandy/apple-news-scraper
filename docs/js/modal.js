@@ -3,6 +3,14 @@ function openModal(s) {
   document.getElementById('modal-headline').textContent = isEdited ? s.article_headline : (s.headline || '—');
   document.getElementById('modal-pub').textContent = s.publication || '';
 
+  const bylineEl = document.getElementById('modal-byline');
+  if (s.author) {
+    bylineEl.textContent = `By ${s.author}`;
+    bylineEl.style.display = '';
+  } else {
+    bylineEl.style.display = 'none';
+  }
+
   const headlinesEl = document.getElementById('modal-headlines');
   if (isEdited) {
     document.getElementById('modal-display-headline').textContent = s.headline;
