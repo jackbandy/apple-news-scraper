@@ -195,6 +195,10 @@ def main():
         # This is only set when wda_needs_rebuild() detected a version mismatch,
         # so normal runs pay no build overhead.
         options.set_capability('usePrebuiltWDA', False)
+        # A fresh WDA build from source can take several minutes. Raise both
+        # timeouts so Appium doesn't give up before the build finishes.
+        options.set_capability('wdaLaunchTimeout', 300000)    # 5 min
+        options.set_capability('wdaConnectionTimeout', 300000)  # 5 min
 
     try:
         driver = webdriver.Remote(
@@ -229,7 +233,8 @@ def main():
                 tap(driver, 100,
                     top_stories_el.location['y'] + top_stories_el.size['height'] // 2)
                 sleep(4)
-                ranked = collect_top_stories_view(driver, run_time)
+                home_links = {row[0] for row in all_stories if row[0]}
+                ranked = collect_top_stories_view(driver, run_time, seen_links=home_links)
                 all_stories.extend(ranked)
             else:
                 print("Could not find 'Top Stories' element, skipping")
@@ -504,12 +509,13 @@ def collect_home_page(driver, run_time):
     return stories
 
 
-def collect_top_stories_view(driver, run_time):
+def collect_top_stories_view(driver, run_time, seen_links=None):
     '''
     In the Top Stories view, scroll through cells and collect links via
-    long-press → Copy Link. Assigns a numeric rank to each story.
-    New stories are always saved; previously-seen stories are saved only
-    if rank <= 5. Stops after MAX_TOP_STORIES ranked.
+    long-press → Copy Link. Assigns a numeric rank to each story reflecting
+    its true position in the feed. Stories whose links are in seen_links
+    (already collected from the home page) are counted for ranking but not
+    added to the output. Stops after MAX_TOP_STORIES ranked.
 
     Cell positions are snapshotted at the start of each scroll attempt
     to avoid stale element errors.
@@ -517,6 +523,8 @@ def collect_top_stories_view(driver, run_time):
     stories = []
     seen_this_run = set()
     rank = 0
+    if seen_links is None:
+        seen_links = set()
 
     window_size = driver.get_window_size()
     window_height = window_size['height']
@@ -588,6 +596,10 @@ def collect_top_stories_view(driver, run_time):
                 continue
             seen_this_run.add(link)
             rank += 1
+
+            if link in seen_links:
+                print("  [top/{}] (already collected from home page, skipping)".format(rank))
+                continue
 
             article_headline, article_publication = get_article_headline(driver, x_c, y_c, window_height)
             if not publication:
