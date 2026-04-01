@@ -1,0 +1,127 @@
+{
+  "run_time": "2026-04-01 00:20:12",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AlCeacaKvRcC1D4-XuM5XTg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-01 00:20:12",
+      "pub_time": "2026-04-01 00:07:13",
+      "publication": "Reuters",
+      "author": "Nandita Bose, Steven Scheer, and Yomna Ehab",
+      "headline": "U.S. eyes a swift end to war as fresh attacks hit Gulf states and Iran",
+      "article_headline": "U.S. eyes a swift end to war as fresh attacks hit Gulf states and Iran"
+    },
+    {
+      "link": "https://apple.news/AyoO9wBLfQgON9_UlCp-DPA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-01 00:20:12",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump signs order to restrict mail-in voting and create national voter list",
+      "article_headline": "Trump signs order to restrict mail-in voting and create national voter list"
+    },
+    {
+      "link": "https://apple.news/A1eCOe0UnQbGHWN9aV9Owqg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-01 00:20:12",
+      "pub_time": "2026-04-01 00:07:13",
+      "publication": "Philadelphia Inquirer",
+      "author": "Susan Snyder",
+      "headline": "Judge rules University of Pennsylvania must provide list of Jewish employees to Trump administration",
+      "article_headline": "Judge rules University of Pennsylvania must provide list of Jewish employees to Trump administration"
+    },
+    {
+      "link": "https://apple.news/ACl8XPq3oT_adH80dPlXW4g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-01 00:20:12",
+      "pub_time": "2026-04-01 00:07:40",
+      "publication": "The Washington Post",
+      "author": "Scott Nover and Mustafa Salim",
+      "headline": "American journalist Shelly Kittleson kidnapped in Baghdad",
+      "article_headline": "American journalist Shelly Kittleson kidnapped in Baghdad"
+    },
+    {
+      "link": "https://apple.news/A1eCOe0UnQbGHWN9aV9Owqg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-01 00:20:12",
+      "pub_time": "2026-04-01 00:07:13",
+      "publication": "Philadelphia Inquirer",
+      "author": "Susan Snyder",
+      "headline": "Judge rules University of Pennsylvania must provide list of Jewish employees to Trump administration",
+      "article_headline": "Judge rules University of Pennsylvania must provide list of Jewish employees to Trump administration"
+    },
+    {
+      "link": "https://apple.news/ACl8XPq3oT_adH80dPlXW4g",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-01 00:20:12",
+      "pub_time": "2026-04-01 00:07:40",
+      "publication": "The Washington Post",
+      "author": "Scott Nover and Mustafa Salim",
+      "headline": "American journalist Shelly Kittleson kidnapped in Baghdad",
+      "article_headline": "American journalist Shelly Kittleson kidnapped in Baghdad"
+    },
+    {
+      "link": "https://apple.news/AQsVLflLqT8ulS0k6wOntQA",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-01 00:20:12",
+      "pub_time": "2026-04-01 00:08:07",
+      "publication": "NBC News",
+      "author": "Denise Chow, Jay Blackman, and Al Roker",
+      "headline": "These astronauts may soon travel farther from Earth than any human has before",
+      "article_headline": "Going the farthest: Meet the four astronauts on NASA's Artemis II moon mission"
+    },
+    {
+      "link": "https://apple.news/AT703yQzQSx-F5Idd7zY65g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-01 00:20:12",
+      "pub_time": "2026-03-31 12:23:41",
+      "publication": "BuzzFeed",
+      "author": "Dannica Ramirez",
+      "headline": "\"It's A Total Scam\": People Are Sharing The Common, Everyday Household Items That Are Actually A Waste Of Money, And You Probably Have At Least Two Of Them",
+      "article_headline": "\"It's A Total Scam\": People Are Sharing The Common, Everyday Household Items That Are Actually A Waste Of Money, And You Probably Have At Least Two Of Them"
+    },
+    {
+      "link": "https://apple.news/A6uGsVUPJQDaVnm1UK0FQew",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-01 00:20:12",
+      "pub_time": "2026-03-31 07:24:08",
+      "publication": "Travel + Leisure",
+      "author": "Patricia Doherty",
+      "headline": "These U.S. Lake Towns Let You Retire on $2,500 a Month—With Waterfront Views Included",
+      "article_headline": "These U.S. Lake Towns Let You Retire on $2,500 a Month—With Waterfront Views Included"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-01 00:20:12",
+      "pub_time": "2026-03-31 20:24:42",
+      "publication": "",
+      "author": "Dawn Gilbertson",
+      "headline": "The Highs and Lows of My $939 Upgrade to United Business Class",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/ADbDkpOVlShuRD-tBZowU4Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-01 00:20:12",
+      "pub_time": "2026-03-31 17:24:54",
+      "publication": "Reader’s Digest",
+      "author": "Marc Saltzman",
+      "headline": "Warning! Amazon Quietly Changed This Popular Feature, and Now Strangers Can Access Your Address—Here's What to Do About It",
+      "article_headline": "Warning! Amazon Quietly Changed This Popular Feature, and Now Strangers Can Access Your Address—Here's What to Do About It"
+    }
+  ]
+}
