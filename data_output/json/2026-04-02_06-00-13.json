@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-02 06:00:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ay_YuLntjTD2RHSAhbGBMVQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-02 06:00:13",
+      "pub_time": "2026-04-02 05:36:15",
+      "publication": "Reuters",
+      "author": "Steve Holland and Enas Alashray",
+      "headline": "Hopes dim for swift end to war in Iran after Trump’s speech",
+      "article_headline": "Hopes dim for swift end to war in Iran after Trump’s speech"
+    },
+    {
+      "link": "https://apple.news/AgC047p_bSPSXvB59EGMryg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-02 06:00:13",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Deal to end Homeland Security shutdown reached, GOP leaders say",
+      "article_headline": "Deal to end Homeland Security shutdown reached, GOP leaders say"
+    },
+    {
+      "link": "https://apple.news/AxhAY4WsVS9G5rUTTbz2psw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-02 06:00:13",
+      "pub_time": "2026-04-02 05:36:15",
+      "publication": "The Washington Post",
+      "author": "Jonathan Edwards and Dan Diamond",
+      "headline": "Ballroom commission changed documents at White House’s request",
+      "article_headline": "Ballroom commission changed documents at White House’s request"
+    },
+    {
+      "link": "https://apple.news/A4tcmfGhBQ3OrBsbBtBZ3-w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-02 06:00:13",
+      "pub_time": "2026-04-02 05:36:43",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "DNA testing confirms new victim of serial killer Ted Bundy, a Utah teen in 1974",
+      "article_headline": "DNA testing confirms new victim of serial killer Ted Bundy, a Utah teen in 1974"
+    },
+    {
+      "link": "https://apple.news/AxhAY4WsVS9G5rUTTbz2psw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-02 06:00:13",
+      "pub_time": "2026-04-02 05:36:16",
+      "publication": "The Washington Post",
+      "author": "Jonathan Edwards and Dan Diamond",
+      "headline": "Ballroom commission changed documents at White House’s request",
+      "article_headline": "Ballroom commission changed documents at White House’s request"
+    },
+    {
+      "link": "https://apple.news/A4tcmfGhBQ3OrBsbBtBZ3-w",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-02 06:00:13",
+      "pub_time": "2026-04-02 05:36:44",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "DNA testing confirms new victim of serial killer Ted Bundy, a Utah teen in 1974",
+      "article_headline": "DNA testing confirms new victim of serial killer Ted Bundy, a Utah teen in 1974"
+    },
+    {
+      "link": "https://apple.news/AhihBwwafRJOQpa0BE247_Q",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-02 06:00:13",
+      "pub_time": "",
+      "publication": "STAT",
+      "author": "",
+      "headline": "FDA approves a second GLP-1 weight-loss pill",
+      "article_headline": "FDA approves a second GLP-1 weight-loss pill"
+    }
+  ]
+}
