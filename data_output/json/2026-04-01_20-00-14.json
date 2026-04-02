@@ -1,0 +1,28 @@
+{
+  "run_time": "2026-04-01 20:00:14",
+  "story_count": 2,
+  "stories": [
+    {
+      "link": "https://apple.news/A1oRjhsHKQIaBQyfMr2lQUw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-01 20:00:14",
+      "pub_time": "2026-04-01 19:59:15",
+      "publication": "The Washington Post",
+      "author": "Washington Post staff",
+      "headline": "Trump expected to give updates on Iran war in address to nation",
+      "article_headline": "Live updates: Trump to address nation, give updates on Iran war"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-01 20:00:14",
+      "pub_time": "",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "NASA’s Artemis II rocket launches astronauts on historic moon mission",
+      "article_headline": ""
+    }
+  ]
+}
