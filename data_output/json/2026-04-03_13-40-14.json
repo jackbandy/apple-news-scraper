@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-03 13:40:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A6BxvO9rgSn-oAIGk7Ww16Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-03 13:40:14",
+      "pub_time": "2026-04-03 12:40:15",
+      "publication": "DEVELOPING",
+      "author": "Alex Horton and Tara Copp",
+      "headline": "The Washington Post, 1 rescued after U.S. fighter-jet crash in Iran; search ongoing",
+      "article_headline": "1 rescued after U.S. fighter jet shot down in Iran; search ongoing for crew member"
+    },
+    {
+      "link": "https://apple.news/A4VfwX08BQd6--05XL6EDJg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-03 13:40:14",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Trump asks Congress to supersize military budget, slash domestic programs",
+      "article_headline": "Trump asks Congress to supersize military budget, slash domestic programs"
+    },
+    {
+      "link": "https://apple.news/A69KoPMaESEeLbioFcSlKag",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-03 13:40:14",
+      "pub_time": "2026-04-03 12:41:17",
+      "publication": "NPR",
+      "author": "Sergio Martínez-Beltrán",
+      "headline": "Inside the largest — and one of the deadliest — ICE detention facilities in the U.S.",
+      "article_headline": "Inside the largest — and one of the deadliest — ICE detention facilities in the U.S."
+    },
+    {
+      "link": "https://apple.news/ADQ_QEUF4S32uvc-jU5MsKQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-03 13:40:14",
+      "pub_time": "2026-04-03 12:41:44",
+      "publication": "NBC News",
+      "author": "Jay Ganglani and Manish Paudel",
+      "headline": "Fraud at 29,029 feet: Mount Everest climbers targeted in alleged $20 million rescue-insurance scam",
+      "article_headline": "Fraud at 29,029 feet: Mount Everest climbers targeted in alleged $20 million rescue-insurance scam"
+    },
+    {
+      "link": "https://apple.news/AXUsWF5a2QAKGC1uA9in2-g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-03 13:40:14",
+      "pub_time": "",
+      "publication": "Popular Science",
+      "author": "",
+      "headline": "Artemis II crew snaps stunning portrait of Earth on their way to the moon",
+      "article_headline": "Artemis II crew snaps stunning portrait of Earth on their way to the moon"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-03 13:40:14",
+      "pub_time": "2026-04-03 12:42:45",
+      "publication": "WIRED",
+      "author": "Ruchi Kumar",
+      "headline": "The broken system that keeps shipping crews stranded in the Strait of Hormuz",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A03MPlcsFRaKLl-zhlo5jTg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-03 13:40:14",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, City Hall’s fine mess: City workers owe millions, remain on the payroll",
+      "article_headline": "City Hall’s fine mess: City workers owe millions, remain on the payroll"
+    }
+  ]
+}
