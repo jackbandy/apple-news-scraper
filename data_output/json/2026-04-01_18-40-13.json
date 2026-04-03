@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-01 18:40:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ac6AAV7LwQN63ESxz8cHCAg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-01 18:40:13",
+      "pub_time": "2026-04-01 18:32:14",
+      "publication": "NPR",
+      "author": "Danielle Kurtzleben",
+      "headline": "Trump to address nation at critical moment in his war with Iran",
+      "article_headline": "Trump to address nation at critical moment in his war with Iran"
+    },
+    {
+      "link": "https://apple.news/Atcz_1N3FRoGDOt0z2u8-eg?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RHaXcwUENiblNaQ0UtUnRya2N1bnhnI25mZl9paWQ%3D",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-01 18:40:13",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Science, NASA just launched Artemis II, the first crewed moon mission in more than 50 years",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A7A_UEe7PSfmyZC8q2aS20g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-01 18:40:13",
+      "pub_time": "2026-04-01 18:32:15",
+      "publication": "NBC News",
+      "author": "Sahil Kapur and Kyle Stewart",
+      "headline": "Republican leaders announce 2-track plan to end the DHS shutdown",
+      "article_headline": "Republican leaders announce 2-track plan to end the DHS shutdown"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-01 18:40:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "With Trump looking on, justices tread cautiously on birthright-citizenship",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-01 18:40:13",
+      "pub_time": "2026-04-01 18:33:01",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe and Mariana Alfaro",
+      "headline": "Marines scramble to reassure families after report of ICE at boot camp",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-01 18:40:13",
+      "pub_time": "",
+      "publication": "Vanity Fair",
+      "author": "",
+      "headline": "Inside the succession drama roiling the maker of the world’s favorite gun, Audio, 1 min",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-01 18:40:13",
+      "pub_time": "2026-04-01 18:32:37",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe and Mariana Alfaro",
+      "headline": "Marines scramble to reassure families after report of ICE at boot camp",
+      "article_headline": ""
+    }
+  ]
+}

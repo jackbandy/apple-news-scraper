@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-02 20:00:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Al_XxvILRSMqs3K5t0BTIXA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-02 20:00:13",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump ousts Attorney General Pam Bondi",
+      "article_headline": "Trump ousts Attorney General Pam Bondi"
+    },
+    {
+      "link": "https://apple.news/ApaDwtSysTb2Vq8ePY-ZSgA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-02 20:00:13",
+      "pub_time": "2026-04-02 19:00:42",
+      "publication": "The Guardian",
+      "author": "Dan Sabbagh",
+      "headline": "Trump warns Tehran “more to follow” after strike destroys Iran’s largest bridge",
+      "article_headline": "Trump warns Tehran “more to follow” after strike destroys Iran’s largest bridge"
+    },
+    {
+      "link": "https://apple.news/AEWaqy0s1RoaNaf6e3pp51g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-02 20:00:13",
+      "pub_time": "2026-04-02 19:01:10",
+      "publication": "The Wall Street Journal",
+      "author": "Marcus Weisgerber and Michael R. Gordon",
+      "headline": "Hegseth removes Army chief in latest purge of military’s top ranks",
+      "article_headline": "Hegseth Removes Army Chief in Latest Purge of Military’s Top Ranks"
+    },
+    {
+      "link": "https://apple.news/AyTTPhWcKTkqipe8KjWd0wA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-02 20:00:13",
+      "pub_time": "2026-04-02 19:01:43",
+      "publication": "The Washington Post",
+      "author": "David J. Lynch and Dan Diamond",
+      "headline": "Trump sets 100% drug tariffs on companies that haven’t lowered prices",
+      "article_headline": "Trump sets 100% drug tariffs on companies that haven’t lowered prices"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-02 20:00:13",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "A journey to the site of California’s deadliest avalanche, Audio, 1 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A-IhIj1LNRJCrY1FQoGQzcQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-02 20:00:13",
+      "pub_time": "2026-04-02 19:31:59",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Exit of Trump officials including FBI director Patel under discussion, Atlantic reports",
+      "article_headline": "Exit of Trump officials including FBI director Patel under discussion, Atlantic reports"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-02 20:00:13",
+      "pub_time": "2026-04-02 19:20:27",
+      "publication": "The Hollywood Reporter",
+      "author": "Chris Gardner",
+      "headline": "Megan Thee Stallion Returns to Sold-Out 'Moulin Rouge’ After Absence for “Extreme Exhaustion”",
+      "article_headline": ""
+    }
+  ]
+}

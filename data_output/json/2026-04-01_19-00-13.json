@@ -1,0 +1,72 @@
+{
+  "run_time": "2026-04-01 19:00:13",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-01 19:00:13",
+      "pub_time": "",
+      "publication": "Apple News Plus",
+      "author": "",
+      "headline": "The Washington Post, NASA’s Artemis II lifts off on historic moon mission",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Ac6AAV7LwQN63ESxz8cHCAg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-01 19:00:13",
+      "pub_time": "2026-04-01 18:57:28",
+      "publication": "NPR",
+      "author": "Danielle Kurtzleben",
+      "headline": "Trump to address nation at critical moment in war with Iran",
+      "article_headline": "Trump to address nation at critical moment in war with Iran"
+    },
+    {
+      "link": "https://apple.news/A7A_UEe7PSfmyZC8q2aS20g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-01 19:00:13",
+      "pub_time": "2026-04-01 18:57:55",
+      "publication": "NBC News",
+      "author": "Sahil Kapur and Kyle Stewart",
+      "headline": "Republican leaders announce 2-track plan to end the DHS shutdown",
+      "article_headline": "Republican leaders announce 2-track plan to end the DHS shutdown"
+    },
+    {
+      "link": "https://apple.news/Ac6AAV7LwQN63ESxz8cHCAg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-01 19:00:13",
+      "pub_time": "2026-04-01 18:57:29",
+      "publication": "NPR",
+      "author": "Danielle Kurtzleben",
+      "headline": "Trump to address nation at critical moment in war with Iran",
+      "article_headline": "Trump to address nation at critical moment in war with Iran"
+    },
+    {
+      "link": "https://apple.news/A7A_UEe7PSfmyZC8q2aS20g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-01 19:00:13",
+      "pub_time": "2026-04-01 18:57:57",
+      "publication": "NBC News",
+      "author": "Sahil Kapur and Kyle Stewart",
+      "headline": "Republican leaders announce 2-track plan to end the DHS shutdown",
+      "article_headline": "Republican leaders announce 2-track plan to end the DHS shutdown"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-01 19:00:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "With Trump looking on, justices tread cautiously on birthright citizenship",
+      "article_headline": ""
+    }
+  ]
+}
