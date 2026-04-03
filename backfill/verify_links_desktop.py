@@ -265,55 +265,67 @@ end tell''', timeout=15)
     return out.strip() if code == 0 else ''
 
 
-def is_apple_news_only(url, page_text):
-    hostname = (urlparse(url).hostname or '').lower()
-    if hostname.endswith('apple.news') or hostname in ('apple.com', 'news.apple.com'):
-        return True
+def is_apple_news_only(page_text):
+    '''
+    Return True only when the page is a dead-end interstitial that cannot open
+    in News.app (e.g. a channel "get the app" page).
+    Does NOT reject based on URL domain — News+ articles legitimately load at
+    apple.news and still have a real "Open" button we can click.
+    '''
     pt_lower = page_text.lower()
     return any(m in pt_lower for m in APPLE_NEWS_ONLY_MARKERS)
 
 
-def open_in_news_from_safari(original_link):
+def click_safari_open_button():
     '''
-    Open the current Safari page in News.app.
-    First tries File > Share > Open in News in Safari.
-    Always falls back to opening the original apple.news link directly in News.app.
-    Returns True if either path appeared to succeed.
+    Click the blue "Open" button on an apple.news article page in Safari to
+    launch the article in News.app. Uses JavaScript to find the button by text.
+    Returns True if the button was found and clicked.
     '''
     out, _, code = run_applescript('''
-tell application "System Events"
-    tell process "Safari"
-        tell menu bar 1
-            tell menu bar item "File"
-                tell menu "File"
-                    tell menu item "Share"
-                        tell menu "Share"
-                            if exists menu item "Open in News" then
-                                click menu item "Open in News"
-                                return "clicked"
-                            end if
-                        end tell
-                    end tell
-                end tell
-            end tell
-        end tell
-    end tell
-end tell''', timeout=15)
+tell application "Safari"
+    if (count of windows) > 0 then
+        set res to (do JavaScript "
+            var els = document.querySelectorAll('a, button');
+            for (var i = 0; i < els.length; i++) {
+                var t = els[i].textContent.trim();
+                if (t === 'Open' || t === 'Open in News' || t === 'Open in Apple News') {
+                    els[i].click();
+                    'clicked';
+                }
+            }
+            'not found';
+        " in current tab of front window)
+        return res
+    end if
+    return "no window"
+end tell''', timeout=10)
+    return code == 0 and 'clicked' in out
 
-    if code == 0 and out == 'clicked':
-        print('  Opened via File > Share > Open in News')
-        return True
 
-    # Fallback: open the original apple.news link directly in News.app
-    result = subprocess.run(
-        ['open', '-a', 'News', original_link],
-        capture_output=True,
-    )
+def open_in_news(link):
+    '''Open the apple.news link directly in News.app.'''
+    result = subprocess.run(['open', '-a', 'News', link], capture_output=True)
     if result.returncode == 0:
-        print('  Opened via open -a News (share menu unavailable)')
+        print('  Opened via open -a News')
         return True
-
     return False
+
+
+def close_safari_window():
+    '''Close the current Safari tab (or window if it is the only tab).'''
+    run_applescript('''
+tell application "Safari"
+    if (count of windows) > 0 then
+        set w to front window
+        if (count of tabs of w) > 1 then
+            close current tab of w
+        else
+            close w
+        end if
+    end if
+end tell''', timeout=10)
+    time.sleep(0.3)
 
 
 # ---------------------------------------------------------------------------
@@ -708,25 +720,37 @@ def main():
             if web_headline:
                 print('  Web headline: {}'.format(web_headline[:80]))
 
-            # Also pass the page title into the "Apple News only" check —
-            # the title survives the apple-news:// redirect even when the URL doesn't.
-            if is_apple_news_only(safari_url, page_text + ' ' + safari_title):
+            # Dead-end interstitial check: rely on page text only, not URL domain.
+            # News+ articles legitimately load at apple.news and are NOT dead-ends.
+            if is_apple_news_only(page_text + ' ' + safari_title):
                 print('  -> MISSING (Apple News only / interstitial page)')
+                close_safari_window()
                 results[link] = {'status': STATUS_MISSING, 'resolved_link': '',
                                  'web_headline': ''}
                 continue
 
-            # --- Determine resolved_link ---
-            # Prefer the Safari URL (full article page); fall back to curl.
-            if safari_url and not (urlparse(safari_url).hostname or '').endswith('apple.news'):
-                resolved_link = safari_url
-            else:
-                resolved_link = resolve_url_with_curl(link)
-            if resolved_link:
-                print('  Resolved:  {}'.format(resolved_link[:100]))
+            # --- Determine resolved_link and how to open in News ---
+            safari_hostname = (urlparse(safari_url).hostname or '').lower()
+            stays_on_apple_news = safari_hostname.endswith('apple.news')
 
-            # --- Open in News.app (share menu or direct fallback) ---
-            open_in_news_from_safari(link)
+            if stays_on_apple_news:
+                # News+ / apple.news-hosted article: click the blue "Open" button
+                # to launch in News.app, then fall back to open -a News if needed.
+                resolved_link = ''
+                clicked = click_safari_open_button()
+                if clicked:
+                    print('  Opened via "Open" button on apple.news page')
+                close_safari_window()
+                if not clicked:
+                    open_in_news(link)
+            else:
+                # Resolved to a publisher URL
+                resolved_link = safari_url
+                if resolved_link:
+                    print('  Resolved:  {}'.format(resolved_link[:100]))
+                close_safari_window()
+                open_in_news(link)
+
             time.sleep(NEWS_LOAD_SECS)
 
             # Check whether a new News.app window actually opened
