@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-03 11:40:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A6BxvO9rgSn-oAIGk7Ww16Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-03 11:40:14",
+      "pub_time": "2026-04-03 11:33:16",
+      "publication": "DEVELOPING",
+      "author": "Alex Horton and Tara Copp",
+      "headline": "The Washington Post, U.S. fighter jet crashes in Iran, with a search launched for 2 crew members",
+      "article_headline": "U.S. fighter jet crashes in Iran; search launched for 2 crew members"
+    },
+    {
+      "link": "https://apple.news/A4VfwX08BQd6--05XL6EDJg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-03 11:40:14",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Trump asks Congress to supersize military budget, slash domestic programs",
+      "article_headline": "Trump asks Congress to supersize military budget, slash domestic programs"
+    },
+    {
+      "link": "https://apple.news/A69KoPMaESEeLbioFcSlKag",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-03 11:40:14",
+      "pub_time": "2026-04-03 11:33:16",
+      "publication": "NPR",
+      "author": "Sergio Martínez-Beltrán",
+      "headline": "Inside the largest — and one of the deadliest — ICE detention facilities in the U.S.",
+      "article_headline": "Inside the largest — and one of the deadliest — ICE detention facilities in the U.S."
+    },
+    {
+      "link": "https://apple.news/AayD_fosPSF2KNcILO9GhWA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-03 11:40:14",
+      "pub_time": "",
+      "publication": "Fox News",
+      "author": "",
+      "headline": "Artemis II crew describes life aboard Orion spacecraft on historic journey to the moon and back",
+      "article_headline": "Artemis II crew describes life aboard Orion spacecraft on historic journey to the moon and back"
+    },
+    {
+      "link": "https://apple.news/A69KoPMaESEeLbioFcSlKag",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-03 11:40:14",
+      "pub_time": "2026-04-03 11:33:17",
+      "publication": "NPR",
+      "author": "Sergio Martínez-Beltrán",
+      "headline": "Inside the largest — and one of the deadliest — ICE detention facilities in the U.S.",
+      "article_headline": "Inside the largest — and one of the deadliest — ICE detention facilities in the U.S."
+    },
+    {
+      "link": "https://apple.news/ADQ_QEUF4S32uvc-jU5MsKQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-03 11:40:14",
+      "pub_time": "2026-04-03 11:33:43",
+      "publication": "NBC News",
+      "author": "Jay Ganglani and Manish Paudel",
+      "headline": "Fraud at 29,029 feet: Mount Everest climbers targeted in alleged $20 million rescue insurance scam",
+      "article_headline": "Fraud at 29,029 feet: Mount Everest climbers targeted in alleged $20 million rescue insurance scam"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-03 11:40:14",
+      "pub_time": "2026-04-03 11:34:11",
+      "publication": "WIRED",
+      "author": "Ruchi Kumar",
+      "headline": "The broken system that keeps shipping crews stranded in the Strait of Hormuz",
+      "article_headline": ""
+    }
+  ]
+}
