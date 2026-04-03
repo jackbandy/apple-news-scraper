@@ -660,9 +660,11 @@ def save_stories(stories):
     with open(output_file, 'a', newline='') as f:
         writer = csv.writer(f)
         if write_header:
-            writer.writerow(['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'author', 'headline', 'article_headline'])
+            writer.writerow(['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'author', 'headline', 'article_headline', 'link_status', 'resolved_link', 'web_headline'])
         for row in stories:
-            writer.writerow(row)
+            link = row[0]
+            link_status = 'U' if link else 'M'
+            writer.writerow(list(row) + [link_status, '', ''])
 
 
 def save_json(stories, run_time):
