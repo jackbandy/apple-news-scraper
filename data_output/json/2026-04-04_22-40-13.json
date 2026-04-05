@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-04 22:40:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AheT-zQRAR4qMiCudfT5GtA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-04 22:40:13",
+      "pub_time": "2026-04-04 22:29:15",
+      "publication": "Reuters",
+      "author": "Enas Alashray and Phil Stewart",
+      "headline": "Trump, Israel pressure Iran ahead of deadline as search continues for missing US airman",
+      "article_headline": "Trump, Israel pressure Iran ahead of deadline as search continues for missing US airman"
+    },
+    {
+      "link": "https://apple.news/Axl1GmdXaRa6zbp8MYQO49w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-04 22:40:13",
+      "pub_time": "2026-04-04 22:29:42",
+      "publication": "The Guardian",
+      "author": "Lok Darjee",
+      "headline": "“It broke our home”: Family demands answers after death of man abandoned by border agents",
+      "article_headline": "“It broke our home”: Family demands answers after death of man abandoned by border agents"
+    },
+    {
+      "link": "https://apple.news/Axl1GmdXaRa6zbp8MYQO49w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-04 22:40:13",
+      "pub_time": "2026-04-04 22:29:15",
+      "publication": "The Guardian",
+      "author": "Lok Darjee",
+      "headline": "“It broke our home”: Family demands answers after death of man abandoned by border agents",
+      "article_headline": "“It broke our home”: Family demands answers after death of man abandoned by border agents"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-04 22:40:13",
+      "pub_time": "2026-04-04 22:29:43",
+      "publication": "The Wall Street Journal",
+      "author": "Rebecca Feng",
+      "headline": "Life and death aboard ships stranded near the Strait of Hormuz",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Ay6ZKDxN2SVOXHNxmyRF_Lg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-04 22:40:13",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "“Not the moon that I’m used to seeing”: Artemis II astronauts describe seeing the far side",
+      "article_headline": "'Not the moon that I'm used to seeing': Artemis II astronauts describe seeing the far side"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-04 22:40:13",
+      "pub_time": "2026-04-04 22:29:29",
+      "publication": "The Wall Street Journal",
+      "author": "Rebecca Feng",
+      "headline": "Life and death aboard ships stranded near the Strait of Hormuz",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AuqVAJTqjQZazykKPcbq5ZA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-04 22:40:13",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "March Madness, UConn fends off late Illinois comeback to return to men’s national championship game",
+      "article_headline": "UConn ousts Illinois in Final Four, will play for third national championship in 4 years"
+    }
+  ]
+}
