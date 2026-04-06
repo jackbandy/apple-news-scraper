@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-06 05:00:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Adpux0AavT_Gfq-C5YecwZQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-06 05:00:14",
+      "pub_time": "2026-04-06 04:45:16",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Kayla Hayempour, and Mark Hodge",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/A-3hqW1BrQEOHGk5za2tzPw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-06 05:00:14",
+      "pub_time": "2026-04-06 04:45:43",
+      "publication": "Reuters",
+      "author": "Phil Stewart, Idrees Ali, and Humeyra Pamuk",
+      "headline": "How a perilous U.S. rescue mission in Iran nearly went off course",
+      "article_headline": "How a perilous U.S. rescue mission in Iran nearly went off course"
+    },
+    {
+      "link": "https://apple.news/A-3hqW1BrQEOHGk5za2tzPw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-06 05:00:14",
+      "pub_time": "2026-04-06 04:45:16",
+      "publication": "Reuters",
+      "author": "Phil Stewart, Idrees Ali, and Humeyra Pamuk",
+      "headline": "How a perilous U.S. rescue mission in Iran nearly went off course",
+      "article_headline": "How a perilous U.S. rescue mission in Iran nearly went off course"
+    },
+    {
+      "link": "https://apple.news/AbCtB5oZ0S6Ch3iCMUzh1JQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-06 05:00:14",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "NASA’s Artemis II crew readies for lunar flyby today",
+      "article_headline": "NASA’s Artemis II crew readies for lunar flyby today"
+    },
+    {
+      "link": "https://apple.news/AvKpkBwZbT1iE0G_lrLtOzg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-06 05:00:14",
+      "pub_time": "2026-04-06 04:46:10",
+      "publication": "NBC News",
+      "author": "Daniel Arkin",
+      "headline": "Savannah Guthrie returns to “TODAY” as search for her 84-year-old mother continues",
+      "article_headline": "Savannah Guthrie returns to “TODAY” as search for her 84-year-old mother continues"
+    },
+    {
+      "link": "https://apple.news/AvKpkBwZbT1iE0G_lrLtOzg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-06 05:00:14",
+      "pub_time": "2026-04-06 04:45:43",
+      "publication": "NBC News",
+      "author": "Daniel Arkin",
+      "headline": "Savannah Guthrie returns to “TODAY” as search for her 84-year-old mother continues",
+      "article_headline": "Savannah Guthrie returns to “TODAY” as search for her 84-year-old mother continues"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 05:00:14",
+      "pub_time": "2026-04-06 04:46:11",
+      "publication": "The Washington Post",
+      "author": "Ariana Eunjung Cha",
+      "headline": "Surprising links between autism, Alzheimer’s could change how we treat both",
+      "article_headline": ""
+    }
+  ]
+}
