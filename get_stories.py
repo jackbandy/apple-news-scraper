@@ -19,15 +19,16 @@ import signal
 import datetime
 import subprocess
 from time import sleep
-from shutil import rmtree
 from glob import glob
 from appium import webdriver
 from appium.options.ios.xcuitest.base import XCUITestOptions
 from appium.webdriver.common.appiumby import AppiumBy
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.common.actions.action_builder import ActionBuilder
-from selenium.webdriver.common.actions.pointer_input import PointerInput
-from selenium.webdriver.common.actions import interaction
+
+from util.gestures import (
+    tap, swipe, back_swipe, long_press_copy_link, get_article_headline,
+)
+from util.parsing import parse_cell_label, parse_pub_date
+from util.setup import wda_needs_rebuild, clear_wda_derived_data, wipe_app_data_folder
 
 from config import (
     device_name_and_os, device_os, udid,
@@ -41,97 +42,6 @@ from config import (
 
 LOCK_PATH = '/tmp/apple_news_scraper.lock'
 PENDING_PATH = '/tmp/get_stories_pending'  # signals verify_links_desktop.py to pause
-
-# Path where Appium stores the compiled WDA xctest bundle.
-_WDA_DERIVED_DATA_PATTERN = os.path.expanduser(
-    '~/Library/Developer/Xcode/DerivedData/WebDriverAgent-*'
-)
-
-# Appium embeds the target SDK in the xctestrun filename, e.g.:
-#   WebDriverAgentRunner_iphonesimulator26.2-arm64.xctestrun
-# We parse this to detect iOS SDK version mismatches before connecting.
-_XCTESTRUN_GLOB = os.path.join(_WDA_DERIVED_DATA_PATTERN, 'Build/Products/*.xctestrun')
-
-
-def wda_needs_rebuild(target_udid):
-    '''Return True if WDA must be rebuilt before the next Appium session.
-
-    Detection logic:
-      1. Look for a compiled WDA xctestrun file under Xcode DerivedData.
-         If none exists, WDA has never been built → needs build.
-      2. Ask the simulator what iOS version it is running (xcrun simctl).
-      3. Compare that version to the SDK version embedded in the xctestrun
-         filename (e.g. "iphonesimulator26.2" → "26.2").
-         If they differ, the old bundle will crash when Appium tries to
-         start a session on the newer runtime → needs rebuild.
-
-    When this function returns True, callers should:
-      - delete DerivedData via clear_wda_derived_data()
-      - set the Appium capability usePrebuiltWDA=False
-
-    On any error (simctl unavailable, unexpected filename format, etc.)
-    returns False so as not to trigger an unnecessary rebuild.
-    '''
-    xctestrun_files = glob(_XCTESTRUN_GLOB)
-    if not xctestrun_files:
-        return True  # no build at all
-
-    # Ask the simulator for its current runtime version.
-    try:
-        result = subprocess.run(
-            ['xcrun', 'simctl', 'list', 'devices', '--json'],
-            capture_output=True, text=True, check=True,
-        )
-        devices_json = json.loads(result.stdout)
-    except Exception as e:
-        print("wda_needs_rebuild: could not query simctl ({}) — skipping rebuild check".format(e))
-        return False
-
-    # Find the runtime key for our target UDID.
-    # Runtime keys look like "com.apple.CoreSimulator.SimRuntime.iOS-26-3".
-    sim_version = None
-    for runtime_key, device_list in devices_json.get('devices', {}).items():
-        for device in device_list:
-            if device.get('udid') == target_udid:
-                m = re.search(r'iOS-(\d+)-(\d+)', runtime_key)
-                if m:
-                    sim_version = '{}.{}'.format(m.group(1), m.group(2))
-                break
-        if sim_version:
-            break
-
-    if not sim_version:
-        print("wda_needs_rebuild: could not find simulator {} in simctl output — skipping rebuild check".format(target_udid))
-        return False
-
-    # Check whether any existing xctestrun was compiled for the current SDK.
-    # Filename format: WebDriverAgentRunner_iphonesimulator<SDK>-<arch>.xctestrun
-    for path in xctestrun_files:
-        basename = os.path.basename(path)
-        if 'iphonesimulator{}'.format(sim_version) in basename:
-            return False  # existing build matches current simulator version
-
-    # All found xctestrun files target a different SDK.
-    built_versions = [os.path.basename(p) for p in xctestrun_files]
-    print("wda_needs_rebuild: simulator is iOS {} but WDA was built for: {}".format(
-        sim_version, built_versions))
-    return True
-
-
-def clear_wda_derived_data():
-    '''Delete all WDA DerivedData directories so Appium rebuilds from source.
-
-    Safe to call even if no DerivedData exists (glob returns empty list).
-    Appium will rebuild WDA automatically on the next session when
-    usePrebuiltWDA=False is set in the capabilities.
-    '''
-    for path in glob(_WDA_DERIVED_DATA_PATTERN):
-        try:
-            rmtree(path)
-            print("clear_wda_derived_data: removed {}".format(path))
-        except Exception as e:
-            print("clear_wda_derived_data: could not remove {} ({})".format(path, e))
-
 
 def main():
     # Signal verify_links_desktop.py to finish its current link and pause.
@@ -499,24 +409,29 @@ def collect_home_page(driver, run_time):
             except Exception:
                 pass
 
-            raw, _ = long_press_copy_link(driver, x_c, y_c, window_height)
-            seen_labels.add(label)
+            if is_plus_story:
+                print("  Apple News+ story, skipping long-press")
+                seen_labels.add(label)
+                link = ''
+            else:
+                raw, _ = long_press_copy_link(driver, x_c, y_c, window_height)
+                seen_labels.add(label)
 
-            # If the long-press accidentally opened a story (0 cells visible),
-            # swipe back to the home feed before continuing.
-            if raw is None:
-                check = driver.find_elements(AppiumBy.CLASS_NAME, 'XCUIElementTypeCell')
-                if not any(c.size['height'] >= MIN_STORY_CELL_HEIGHT for c in check):
-                    print("  Navigated away from home feed, swiping back...")
-                    back_swipe(driver, window_height)
-                    sleep(2)
-                    break  # restart the outer attempt loop with a fresh cell scan
+                # If the long-press accidentally opened a story (0 cells visible),
+                # swipe back to the home feed before continuing.
+                if raw is None:
+                    check = driver.find_elements(AppiumBy.CLASS_NAME, 'XCUIElementTypeCell')
+                    if not any(c.size['height'] >= MIN_STORY_CELL_HEIGHT for c in check):
+                        print("  Navigated away from home feed, swiping back...")
+                        back_swipe(driver, window_height)
+                        sleep(2)
+                        break  # restart the outer attempt loop with a fresh cell scan
 
-            link = ''
-            if raw:
-                idx = raw.find('https://apple.news')
-                if idx >= 0:
-                    link = raw[idx:]
+                link = ''
+                if raw:
+                    idx = raw.find('https://apple.news')
+                    if idx >= 0:
+                        link = raw[idx:]
 
             # For numeric-ranked top stories, reclaim the slot if no link.
             # Plus/audio/trending rows are saved even without a link.
@@ -525,12 +440,12 @@ def collect_home_page(driver, run_time):
                 top_total -= 1
                 continue
 
-            article_headline, article_publication = get_article_headline(driver, x_c, y_c, window_height)
+            article_headline, article_publication = ('', '') if is_plus_story else get_article_headline(driver, x_c, y_c, window_height)
             if not publication:
                 publication = article_publication
 
-            stories.append((link, rank, section, run_time, pub_time, publication, author, headline, article_headline))
-            print("  [{}/{}]{}".format(section, rank, ' (no link)' if not link else ''))
+            stories.append((link, rank, section, run_time, pub_time, publication, author, headline, article_headline, is_plus_story))
+            print("  [{}/{}]{}".format(section, rank, ' (Apple News+)' if is_plus_story else (' (no link)' if not link else '')))
             print("    Publisher:        {}".format(publication or '—'))
             print("    Display Headline: {}".format(headline))
             print("    Article Headline: {}".format(article_headline or '—'))
@@ -636,6 +551,11 @@ def collect_top_stories_view(driver, run_time, seen_links=None):
             except Exception:
                 pass
 
+            if 'Apple News Plus' in (s.get('label') or ''):
+                rank += 1
+                print("  [top/{}] (Apple News+, no link available)".format(rank))
+                continue
+
             raw, _ = long_press_copy_link(driver, x_c, y_c, window_height)
             if not raw:
                 continue
@@ -658,7 +578,7 @@ def collect_top_stories_view(driver, run_time, seen_links=None):
             if not publication:
                 publication = article_publication
 
-            stories.append((link, rank, 'top', run_time, pub_time, publication, author, headline, article_headline))
+            stories.append((link, rank, 'top', run_time, pub_time, publication, author, headline, article_headline, False))
             print("  [top/{}]".format(rank))
             print("    Publisher:        {}".format(publication or '—'))
             print("    Display Headline: {}".format(headline))
@@ -686,8 +606,9 @@ def save_stories(stories):
             writer.writerow(['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'author', 'headline', 'article_headline', 'link_status', 'resolved_link', 'web_headline'])
         for row in stories:
             link = row[0]
-            link_status = 'U' if link else 'M'
-            writer.writerow(list(row) + [link_status, '', ''])
+            is_plus = len(row) > 9 and row[9]
+            link_status = 'P' if is_plus else ('U' if link else 'M')
+            writer.writerow(list(row[:9]) + [link_status, '', ''])
 
 
 def save_json(stories, run_time):
@@ -698,7 +619,12 @@ def save_json(stories, run_time):
     path = os.path.join(json_folder, filename)
 
     keys = ['link', 'rank', 'section', 'run_time', 'pub_time', 'publication', 'author', 'headline', 'article_headline']
-    records = [dict(zip(keys, row)) for row in stories]
+    records = []
+    for row in stories:
+        d = dict(zip(keys, row))
+        if len(row) > 9 and row[9]:
+            d['link_status'] = 'P'
+        records.append(d)
 
     payload = {
         'run_time': run_time,
@@ -709,217 +635,6 @@ def save_json(stories, run_time):
         json.dump(payload, f, indent=2, ensure_ascii=False)
     print("JSON saved to {}".format(path))
 
-
-
-# touch / gesture helpers
-
-def tap(driver, x, y):
-    driver.execute_script('mobile: tap', {'x': x, 'y': y})
-
-
-def swipe(driver, from_x, from_y, to_x, to_y, duration=1.0):
-    actions = ActionChains(driver)
-    actions.w3c_actions = ActionBuilder(driver, mouse=PointerInput(interaction.POINTER_TOUCH, "touch"))
-    actions.w3c_actions.pointer_action.move_to_location(from_x, from_y)
-    actions.w3c_actions.pointer_action.pointer_down()
-    actions.w3c_actions.pointer_action.pause(duration)
-    actions.w3c_actions.pointer_action.move_to_location(to_x, to_y)
-    actions.w3c_actions.pointer_action.release()
-    actions.perform()
-
-
-def back_swipe(driver, window_height):
-    '''Quick left-edge swipe to trigger iOS back navigation.'''
-    actions = ActionChains(driver)
-    actions.w3c_actions = ActionBuilder(driver, mouse=PointerInput(interaction.POINTER_TOUCH, "touch"))
-    actions.w3c_actions.pointer_action.move_to_location(5, window_height // 2)
-    actions.w3c_actions.pointer_action.pointer_down()
-    actions.w3c_actions.pointer_action.move_to_location(200, window_height // 2)
-    actions.w3c_actions.pointer_action.release()
-    actions.perform()
-
-
-def long_press(driver, x, y, duration=1.5):
-    actions = ActionChains(driver)
-    actions.w3c_actions = ActionBuilder(driver, mouse=PointerInput(interaction.POINTER_TOUCH, "touch"))
-    actions.w3c_actions.pointer_action.move_to_location(x, y)
-    actions.w3c_actions.pointer_action.pointer_down()
-    actions.w3c_actions.pointer_action.pause(duration)
-    actions.w3c_actions.pointer_action.release()
-    actions.perform()
-
-
-def get_article_headline(driver, x, y, window_height):
-    '''Tap a story card at (x, y), extract the publication and headline from
-    the article view, then tap the Back button.
-
-    Returns (headline, publication) — either or both may be '' on failure.
-
-    Primary source: the article ScrollView whose name attribute is
-    "Publication, Headline". This is the most reliable element and also
-    provides the publication name, which is useful for sections (e.g.
-    trending) where the cell label does not include a publication.
-
-    Fallback (headline only): XCUIElementTypeOther elements with
-    traits="Header", skipping short category labels like "World news".
-    '''
-    tap(driver, x, y)
-    sleep(3)
-
-    article_headline = ''
-    article_publication = ''
-    try:
-        # The article ScrollView's name attribute is "Publication, Headline".
-        scroll_els = driver.find_elements(
-            AppiumBy.XPATH, '//XCUIElementTypeScrollView[contains(@name, ",")]'
-        )
-        for el in scroll_els:
-            name = (el.get_attribute('name') or '').strip()
-            if len(name) > 20:
-                pub, headline, _ = parse_cell_label(name)
-                if headline:
-                    article_headline = headline
-                    article_publication = pub
-                    break
-    except Exception:
-        pass
-
-    if not article_headline:
-        try:
-            # Fallback: traits="Header" elements, skipping short category labels
-            # (e.g. "World news", "Technology") which appear before the headline.
-            els = driver.find_elements(AppiumBy.XPATH, '//XCUIElementTypeOther[@traits="Header"]')
-            for el in els:
-                val = (el.get_attribute('value') or '').strip()
-                if len(val) > 20:
-                    article_headline = val
-                    break
-        except Exception:
-            pass
-
-    try:
-        back_btn = driver.find_element(AppiumBy.ACCESSIBILITY_ID, 'BackButton')
-        tap(driver, back_btn.location['x'] + back_btn.size['width'] // 2,
-            back_btn.location['y'] + back_btn.size['height'] // 2)
-    except Exception:
-        back_swipe(driver, window_height)
-    sleep(2)
-
-    return article_headline, article_publication
-
-
-def long_press_copy_link(driver, x, y, window_height):
-    '''Long-press at (x, y) and tap "Copy Link" from the context menu.
-    Returns (link_text, None). Dismisses via top of screen if no Copy Link.'''
-    print("  Long-pressing at {}, {}".format(x, y))
-    long_press(driver, x, y, duration=1.5)
-    sleep(0.1)
-
-    try:
-        copy_el = driver.find_element(AppiumBy.ACCESSIBILITY_ID, 'Copy Link')
-        cx = copy_el.location['x'] + copy_el.size['width'] // 2
-        cy = copy_el.location['y'] + copy_el.size['height'] // 2
-        tap(driver, cx, cy)
-        sleep(0.5)
-        return driver.get_clipboard_text(), None
-    except Exception:
-        print("  No 'Copy Link' found, dismissing")
-        tap(driver, 200, 30)  # status bar — safely above all story cards
-        sleep(1.5)
-        return None, None
-
-
-
-# metadata parsing
-
-def parse_cell_label(label):
-    '''Parse a cell label into (publication, headline, author).
-
-    Handles these formats:
-      "Publication, Headline, time ago[, Author]"
-      "BREAKING, Publication, Headline, time ago[, Author]"
-      "Publication, Apple News Plus, Headline, time ago[, Author]"
-      "Headline with commas, Apple News Plus, time ago[, Author]"  (trending, no publication)
-      "Blurb text..., Play Now, ..."  (audio cell — no publication)
-
-    The key disambiguation: if the text before ", Apple News Plus, " contains
-    a comma, it is a multi-part headline with no publication. If it has no
-    comma, it is a publication name.
-    '''
-    if not label:
-        return '', '', ''
-
-    # Audio cells: the blurb is the headline, publisher is Apple News Today
-    for audio_marker in (', Play Now', ', Listen to the day'):
-        if audio_marker in label:
-            headline = label.split(audio_marker, 1)[0].strip()
-            return 'Apple News Today', headline, ''
-
-    plus_marker = ', Apple News Plus, '
-    if plus_marker in label:
-        before_plus, after_plus = label.split(plus_marker, 1)
-        if ',' not in before_plus:
-            # "Publication, Apple News Plus, Headline, time, Author"
-            publication = before_plus
-            rest = after_plus
-        else:
-            # "Headline with commas, Apple News Plus, time, Author" — no publication
-            publication = ''
-            headline = before_plus
-            time_match = re.search(r'^\d+\s+(?:hour|minute|day|week|month)s?\s+ago', after_plus)
-            author = after_plus[time_match.end():].lstrip(', ').strip() if time_match else ''
-            return publication, headline, author
-    else:
-        parts = label.split(', ', 1)
-        if len(parts) < 2:
-            return label, '', ''
-        publication = parts[0]
-        rest = parts[1]
-
-        # Breaking news prefix: "BREAKING, ActualPublication, Headline..."
-        if publication.strip() == 'BREAKING':
-            sub = rest.split(', ', 1)
-            if len(sub) >= 2:
-                publication, rest = sub[0], sub[1]
-            else:
-                publication = ''
-
-    time_match = re.search(r',\s*\d+\s+(?:hour|minute|day|week|month)s?\s+ago', rest)
-    if time_match:
-        headline = rest[:time_match.start()].strip()
-        author = rest[time_match.end():].lstrip(', ').strip()
-    else:
-        headline = rest
-        author = ''
-    return publication, headline, author
-
-
-def parse_pub_date(label):
-    '''Estimate publication datetime from "X hours/minutes/days ago" in a cell label.'''
-    m = re.search(r'(\d+)\s+(minute|hour|day|week|month)s?\s+ago', label)
-    if not m:
-        return ''
-    n, unit = int(m.group(1)), m.group(2)
-    delta = {
-        'minute': datetime.timedelta(minutes=n),
-        'hour':   datetime.timedelta(hours=n),
-        'day':    datetime.timedelta(days=n),
-        'week':   datetime.timedelta(weeks=n),
-        'month':  datetime.timedelta(days=n * 30),
-    }.get(unit, datetime.timedelta())
-    return (datetime.datetime.now() - delta).strftime('%Y-%m-%d %H:%M:%S')
-
-
-
-# utility
-
-def wipe_app_data_folder(path):
-    for f in os.listdir(path):
-        full = '{}/{}'.format(path, f)
-        if os.path.isfile(full):
-            os.remove(full)
-        else:
-            rmtree(full)
 
 
 if __name__ == '__main__':
