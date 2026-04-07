@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-06 19:40:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aqp-EZjNNT3iVYAJdXAGfkQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-06 19:40:14",
+      "pub_time": "2026-04-06 18:40:16",
+      "publication": "The Washington Post",
+      "author": "Isaac Arnsdorf, Sammy Westfall, and Tara Copp",
+      "headline": "Trump renews threats to destroy Iran’s bridges and power plants",
+      "article_headline": "Trump renews threats to destroy Iran’s bridges and power plants"
+    },
+    {
+      "link": "https://apple.news/A8Qpy3F1WTmOlt0wI4MQBig",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-06 19:40:14",
+      "pub_time": "2026-04-06 18:40:44",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Artemis II astronauts surpass Apollo 13 record, traveling farther from Earth than any other humans",
+      "article_headline": "Artemis II astronauts surpass Apollo 13 record, traveling farther from Earth than any other humans"
+    },
+    {
+      "link": "https://apple.news/A-G8cJb97QDCnX_k3rvZ6NQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-06 19:40:14",
+      "pub_time": "2026-04-06 18:41:11",
+      "publication": "MPR News",
+      "author": "",
+      "headline": "Minneapolis releases video that undermines ICE claims about non-fatal shooting",
+      "article_headline": "Minneapolis releases video that undermines ICE claims about non-fatal shooting"
+    },
+    {
+      "link": "https://apple.news/AoynwOiD0S9OB6T7_dgNrGg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-06 19:40:14",
+      "pub_time": "2026-04-06 18:41:44",
+      "publication": "Reuters",
+      "author": "Nidal Al-Mughrabi and Mahmoud Issa",
+      "headline": "Israeli airstrike kills at least 10 near Gaza school as ceasefire strains",
+      "article_headline": "Israeli airstrike kills at least 10 near Gaza school as ceasefire strains"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 19:40:14",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Sam Altman may control our future — but some colleagues don’t trust him, Ronan Farrow and Andrew Marantz",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AYipjB4SfSg6T7SmpPqymNw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-06 19:40:14",
+      "pub_time": "",
+      "publication": "Chicago Tribune",
+      "author": "",
+      "headline": "Local News, Chicago, Supreme Court declines to hear challenge to Illinois’s law barring concealed carry of guns on public transit",
+      "article_headline": "Supreme Court declines to hear challenge to Illinois’s law barring concealed carry of guns on public transit"
+    },
+    {
+      "link": "https://apple.news/Av4kqLSkKS_ioI6s8P6WvUA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-06 19:40:14",
+      "pub_time": "2026-04-05 19:43:09",
+      "publication": "BBC Wildlife Magazine",
+      "author": "",
+      "headline": "\"It has two, whopping, 22cm-long fangs that give it the look of an aquatic saber tooth tiger.\"10 deadly, utterly terrifying prehistoric fish",
+      "article_headline": "\"It has two, whopping, 22cm-long fangs that give it the look of an aquatic saber tooth tiger.\"10 deadly, utterly terrifying prehistoric fish"
+    }
+  ]
+}

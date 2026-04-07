@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-06 22:00:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aqp-EZjNNT3iVYAJdXAGfkQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-06 22:00:15",
+      "pub_time": "2026-04-06 21:03:16",
+      "publication": "The Washington Post",
+      "author": "Isaac Arnsdorf, Sammy Westfall, and Tara Copp",
+      "headline": "Trump renews threats to destroy Iran’s bridges and power plants",
+      "article_headline": "Trump renews threats to destroy Iran’s bridges and power plants"
+    },
+    {
+      "link": "https://apple.news/AMZQf4RuqRd-2pWDtnLiDlA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-06 22:00:15",
+      "pub_time": "2026-04-06 21:03:44",
+      "publication": "Space",
+      "author": "",
+      "headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop",
+      "article_headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop"
+    },
+    {
+      "link": "https://apple.news/A-G8cJb97QDCnX_k3rvZ6NQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-06 22:00:15",
+      "pub_time": "2026-04-06 21:04:11",
+      "publication": "MPR News",
+      "author": "",
+      "headline": "Minneapolis releases video that undermines ICE claims about non-fatal shooting",
+      "article_headline": "Minneapolis releases video that undermines ICE claims about non-fatal shooting"
+    },
+    {
+      "link": "https://apple.news/AMZQf4RuqRd-2pWDtnLiDlA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-06 22:00:15",
+      "pub_time": "2026-04-06 21:03:43",
+      "publication": "Space",
+      "author": "",
+      "headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop",
+      "article_headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop"
+    },
+    {
+      "link": "https://apple.news/A-G8cJb97QDCnX_k3rvZ6NQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-06 22:00:15",
+      "pub_time": "2026-04-06 21:04:11",
+      "publication": "MPR News",
+      "author": "",
+      "headline": "Minneapolis releases video that undermines ICE claims about non-fatal shooting",
+      "article_headline": "Minneapolis releases video that undermines ICE claims about non-fatal shooting"
+    },
+    {
+      "link": "https://apple.news/AKxpoOk5uRg-4A7pCBX81iA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-06 22:00:15",
+      "pub_time": "2026-04-06 21:03:38",
+      "publication": "Reuters",
+      "author": "Julie Steenhuysen and Nate Raymond",
+      "headline": "RFK Jr. rewrites rules for membership on vaccine advisory panel",
+      "article_headline": "RFK Jr. rewrites rules for membership on vaccine advisory panel"
+    },
+    {
+      "link": "https://apple.news/AcDsptRVvTFOVR0hwqILPJQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-06 22:00:15",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "March Madness, Live updates as UConn and Michigan battle for the men’s national championship",
+      "article_headline": "UConn vs. Michigan 2026 national championship score, live updates: Huskies still hanging around against Wolverines"
+    }
+  ]
+}

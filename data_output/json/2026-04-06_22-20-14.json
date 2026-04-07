@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-06 22:20:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aqp-EZjNNT3iVYAJdXAGfkQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-06 22:20:14",
+      "pub_time": "2026-04-06 21:20:16",
+      "publication": "The Washington Post",
+      "author": "Isaac Arnsdorf, Sammy Westfall, and Tara Copp",
+      "headline": "Trump renews threats to destroy Iran’s bridges and power plants",
+      "article_headline": "Trump renews threats to destroy Iran’s bridges and power plants"
+    },
+    {
+      "link": "https://apple.news/AMZQf4RuqRd-2pWDtnLiDlA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-06 22:20:14",
+      "pub_time": "2026-04-06 21:20:43",
+      "publication": "Space",
+      "author": "",
+      "headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop",
+      "article_headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop"
+    },
+    {
+      "link": "https://apple.news/A-G8cJb97QDCnX_k3rvZ6NQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-06 22:20:14",
+      "pub_time": "2026-04-06 21:21:10",
+      "publication": "MPR News",
+      "author": "",
+      "headline": "Minneapolis releases video that undermines ICE claims about non-fatal shooting",
+      "article_headline": "Minneapolis releases video that undermines ICE claims about non-fatal shooting"
+    },
+    {
+      "link": "https://apple.news/AKxpoOk5uRg-4A7pCBX81iA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-06 22:20:14",
+      "pub_time": "2026-04-06 21:21:43",
+      "publication": "Reuters",
+      "author": "Julie Steenhuysen and Nate Raymond",
+      "headline": "RFK Jr. rewrites rules for membership on vaccine advisory panel",
+      "article_headline": "RFK Jr. rewrites rules for membership on vaccine advisory panel"
+    },
+    {
+      "link": "https://apple.news/AcDsptRVvTFOVR0hwqILPJQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-06 22:20:14",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "March Madness, Live updates as UConn and Michigan battle for the men’s national championship",
+      "article_headline": "UConn vs. Michigan 2026 national championship score, live updates: Huskies still hanging around against Wolverines"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 22:20:14",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Sam Altman may control our future — but some colleagues don’t trust him, Ronan Farrow and Andrew Marantz",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AYipjB4SfSg6T7SmpPqymNw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-06 22:20:14",
+      "pub_time": "",
+      "publication": "Chicago Tribune",
+      "author": "",
+      "headline": "Local News, Chicago, Supreme Court declines to hear challenge to Illinois’s law barring concealed carry of guns on public transit",
+      "article_headline": "Supreme Court declines to hear challenge to Illinois’s law barring concealed carry of guns on public transit"
+    }
+  ]
+}

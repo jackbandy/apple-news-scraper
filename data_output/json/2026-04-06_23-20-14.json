@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-06 23:20:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AI8JISxmCTi6Kf5cICA4F1Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-06 23:20:14",
+      "pub_time": "2026-04-06 22:41:16",
+      "publication": "The Wall Street Journal",
+      "author": "Robbie Gramer, Summer Said, and Alexander Ward",
+      "headline": "Hopes fade for deal with Iran ahead of Tuesday night deadline",
+      "article_headline": "Hopes Fade for Deal With Iran Ahead of Tuesday-Night Deadline"
+    },
+    {
+      "link": "https://apple.news/AMZQf4RuqRd-2pWDtnLiDlA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-06 23:20:14",
+      "pub_time": "2026-04-06 22:41:44",
+      "publication": "Space",
+      "author": "",
+      "headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop",
+      "article_headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop"
+    },
+    {
+      "link": "https://apple.news/ABdcOQzBqR0Gkr10blwTflw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-06 23:20:14",
+      "pub_time": "2026-04-06 22:42:11",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration ends agreements to protect transgender students in several schools",
+      "article_headline": "Trump administration ends agreements to protect transgender students in several schools"
+    },
+    {
+      "link": "https://apple.news/AMZQf4RuqRd-2pWDtnLiDlA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-06 23:20:14",
+      "pub_time": "2026-04-06 22:41:43",
+      "publication": "Space",
+      "author": "",
+      "headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop",
+      "article_headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop"
+    },
+    {
+      "link": "https://apple.news/ABdcOQzBqR0Gkr10blwTflw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-06 23:20:14",
+      "pub_time": "2026-04-06 22:42:11",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration ends agreements to protect transgender students in several schools",
+      "article_headline": "Trump administration ends agreements to protect transgender students in several schools"
+    },
+    {
+      "link": "https://apple.news/AKxpoOk5uRg-4A7pCBX81iA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-06 23:20:14",
+      "pub_time": "2026-04-06 22:41:37",
+      "publication": "Reuters",
+      "author": "Julie Steenhuysen and Nate Raymond",
+      "headline": "RFK Jr. rewrites rules for membership on vaccine advisory panel",
+      "article_headline": "RFK Jr. rewrites rules for membership on vaccine advisory panel"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-06 23:20:14",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "March Madness, Michigan fends off UConn to win first national championship since 1989",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

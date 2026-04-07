@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-04-06 20:00:15",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Aqp-EZjNNT3iVYAJdXAGfkQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-06 20:00:15",
+      "pub_time": "2026-04-06 19:52:17",
+      "publication": "The Washington Post",
+      "author": "Isaac Arnsdorf, Sammy Westfall, and Tara Copp",
+      "headline": "Trump renews threats to destroy Iran’s bridges and power plants",
+      "article_headline": "Trump renews threats to destroy Iran’s bridges and power plants"
+    },
+    {
+      "link": "https://apple.news/A8Qpy3F1WTmOlt0wI4MQBig",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-06 20:00:15",
+      "pub_time": "2026-04-06 19:52:45",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Artemis II astronauts surpass Apollo 13 record, traveling farther from Earth than any other humans",
+      "article_headline": "Artemis II astronauts surpass Apollo 13 record, traveling farther from Earth than any other humans"
+    },
+    {
+      "link": "https://apple.news/A-G8cJb97QDCnX_k3rvZ6NQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-06 20:00:15",
+      "pub_time": "2026-04-06 19:53:13",
+      "publication": "MPR News",
+      "author": "",
+      "headline": "Minneapolis releases video that undermines ICE claims about non-fatal shooting",
+      "article_headline": "Minneapolis releases video that undermines ICE claims about non-fatal shooting"
+    },
+    {
+      "link": "https://apple.news/A8Qpy3F1WTmOlt0wI4MQBig",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-06 20:00:15",
+      "pub_time": "2026-04-06 19:52:45",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Artemis II astronauts surpass Apollo 13 record, traveling farther from Earth than any other humans",
+      "article_headline": "Artemis II astronauts surpass Apollo 13 record, traveling farther from Earth than any other humans"
+    },
+    {
+      "link": "https://apple.news/A-G8cJb97QDCnX_k3rvZ6NQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-06 20:00:15",
+      "pub_time": "2026-04-06 19:53:13",
+      "publication": "MPR News",
+      "author": "",
+      "headline": "Minneapolis releases video that undermines ICE claims about non-fatal shooting",
+      "article_headline": "Minneapolis releases video that undermines ICE claims about non-fatal shooting"
+    },
+    {
+      "link": "https://apple.news/AoynwOiD0S9OB6T7_dgNrGg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-06 20:00:15",
+      "pub_time": "2026-04-06 19:53:40",
+      "publication": "Reuters",
+      "author": "Nidal Al-Mughrabi and Mahmoud Issa",
+      "headline": "Israeli airstrike kills at least 10 near Gaza school as ceasefire strains",
+      "article_headline": "Israeli airstrike kills at least 10 near Gaza school as ceasefire strains"
+    },
+    {
+      "link": "https://apple.news/AoynwOiD0S9OB6T7_dgNrGg",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-06 20:00:15",
+      "pub_time": "2026-04-06 19:53:17",
+      "publication": "Reuters",
+      "author": "Nidal Al-Mughrabi and Mahmoud Issa",
+      "headline": "Israeli airstrike kills at least 10 near Gaza school as ceasefire strains",
+      "article_headline": "Israeli airstrike kills at least 10 near Gaza school as ceasefire strains"
+    },
+    {
+      "link": "https://apple.news/AJ3NfWMoMRteXgsk06HbeYQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-06 20:00:15",
+      "pub_time": "2026-04-06 11:04:21",
+      "publication": "The Wall Street Journal",
+      "author": "Ellen Gamerman",
+      "headline": "Inside a Corporate Retreat That Went Very Badly Wrong",
+      "article_headline": "Inside a Corporate Retreat That Went Very Badly Wrong"
+    },
+    {
+      "link": "https://apple.news/A4a0uRLXVR8KhcOfFvJYzFw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-06 20:00:15",
+      "pub_time": "2026-04-06 13:04:50",
+      "publication": "SB Nation",
+      "author": "James Dator",
+      "headline": "Dexter Lawrence is requesting a trade and these 3 teams should be interested",
+      "article_headline": "Dexter Lawrence is requesting a trade and these 3 teams should be interested"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-06 20:00:15",
+      "pub_time": "2026-04-05 20:05:24",
+      "publication": "",
+      "author": "Oded Yaron",
+      "headline": "With the world focused on Iran, Ukraine stuns Russia in the Mediterranean",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ABgUBN3h5SbeB5ei3rIoNng",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-06 20:00:15",
+      "pub_time": "2026-04-06 17:05:24",
+      "publication": "HuffPost",
+      "author": "Ashley Broadwater",
+      "headline": "If You're Over 40, You Might Want To Do This The Next Time You Climb The Stairs",
+      "article_headline": "If You're Over 40, You Might Want To Do This The Next Time You Climb The Stairs"
+    }
+  ]
+}
