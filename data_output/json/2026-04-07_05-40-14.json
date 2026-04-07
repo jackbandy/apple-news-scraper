@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-07 05:40:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AFZWBBVXfT32rPrW5Wxk_aQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-07 05:40:14",
+      "pub_time": "2026-04-07 05:24:16",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi and Trevor Hunnicutt",
+      "headline": "Iran defiant despite airstrikes in Tehran ahead of Trump’s ceasefire deadline",
+      "article_headline": "Defiant Iran rejects ceasefire as clock ticks down on Trump threat to unleash 'hell'"
+    },
+    {
+      "link": "https://apple.news/AMZQf4RuqRd-2pWDtnLiDlA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-07 05:40:14",
+      "pub_time": "2026-04-07 05:24:43",
+      "publication": "Space",
+      "author": "",
+      "headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop",
+      "article_headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop"
+    },
+    {
+      "link": "https://apple.news/AMZQf4RuqRd-2pWDtnLiDlA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-07 05:40:14",
+      "pub_time": "2026-04-07 05:24:16",
+      "publication": "Space",
+      "author": "",
+      "headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop",
+      "article_headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop"
+    },
+    {
+      "link": "https://apple.news/ALLRjO6GyRziUTFexZg7uVg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-07 05:40:14",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "Vance visiting Hungary days before election that threatens Prime Minister Orbán’s grip on power",
+      "article_headline": "Vance visiting Hungary days before election that threatens Prime Minister Orbán’s grip on power"
+    },
+    {
+      "link": "https://apple.news/AwQz_ySM9RU-dydIVCj_oRg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-07 05:40:14",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "A ragtag Wisconsin group is leading America’s first referendum against data centers",
+      "article_headline": "A ragtag Wisconsin group is leading America’s first referendum against data centers"
+    },
+    {
+      "link": "https://apple.news/Ad_Zlzw5rTeyeOVOaz0WWUw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-07 05:40:14",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "March Madness, Michigan, dominant all season, takes down UConn for its first national championship since 1989",
+      "article_headline": "Michigan, dominant all season, takes down UConn for first national championship since 1989"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-07 05:40:14",
+      "pub_time": "2026-04-07 05:24:14",
+      "publication": "The Wall Street Journal",
+      "author": "Rachel Louise Ensign",
+      "headline": "More Americans are breaking into the upper-middle class",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "run_time": "2026-04-07 05:00:15",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AI8JISxmCTi6Kf5cICA4F1Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-07 05:00:15",
+      "pub_time": "2026-04-07 00:00:17",
+      "publication": "The Wall Street Journal",
+      "author": "Robbie Gramer, Summer Said, and Alexander Ward",
+      "headline": "Hopes fade for deal with Iran ahead of Tuesday night deadline",
+      "article_headline": "Hopes Fade for Deal With Iran Ahead of Tuesday-Night Deadline"
+    },
+    {
+      "link": "https://apple.news/AMZQf4RuqRd-2pWDtnLiDlA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-07 05:00:15",
+      "pub_time": "2026-04-07 00:00:45",
+      "publication": "Space",
+      "author": "",
+      "headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop",
+      "article_headline": "Artemis II astronauts fly around the moon, completing record-breaking lunar loop"
+    },
+    {
+      "link": "https://apple.news/ABdcOQzBqR0Gkr10blwTflw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-07 05:00:15",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration ends agreements to protect transgender students in several schools",
+      "article_headline": "Trump administration ends agreements to protect transgender students in several schools"
+    },
+    {
+      "link": "https://apple.news/AECO30dY4SMG2T-7dlfGfbQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-07 05:00:15",
+      "pub_time": "2026-04-07 00:01:44",
+      "publication": "POLITICO",
+      "author": "Jacob Wendler and Hailey Fuchs",
+      "headline": "Commerce Secretary Howard Lutnick to appear before House panel over Epstein ties",
+      "article_headline": "Commerce Secretary Howard Lutnick to appear before House panel over Epstein ties"
+    },
+    {
+      "link": "https://apple.news/Ad_Zlzw5rTeyeOVOaz0WWUw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-07 05:00:15",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "March Madness, Michigan, dominant all season, takes down UConn for first national championship since 1989",
+      "article_headline": "Michigan, dominant all season, takes down UConn for first national championship since 1989"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-07 05:00:15",
+      "pub_time": "",
+      "publication": "The New Yorker",
+      "author": "",
+      "headline": "Sam Altman may control our future — but some colleagues don’t trust him, Ronan Farrow and Andrew Marantz",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
