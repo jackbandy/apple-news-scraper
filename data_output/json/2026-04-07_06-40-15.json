@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-07 06:40:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AFZWBBVXfT32rPrW5Wxk_aQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-07 06:40:15",
+      "pub_time": "2026-04-07 06:33:17",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Iran defiant as clock ticks down on Trump’s threat to unleash “hell”",
+      "article_headline": "Iran defiant as clock ticks down on Trump’s threat to unleash “hell”"
+    },
+    {
+      "link": "https://apple.news/AR_HuUmaqQ_ePJU86SKQicA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-07 06:40:15",
+      "pub_time": "",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "JD Vance arrives in Hungary to back Prime Minister Viktor Orbán’s reelection bid",
+      "article_headline": "JD Vance arrives in Hungary to back Prime Minister Viktor Orbán’s reelection bid"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-07 06:40:15",
+      "pub_time": "2026-04-07 06:32:17",
+      "publication": "The Washington Post",
+      "author": "Sarah Kaplan",
+      "headline": "Artemis II’s crew has now flown farther than any humans. See the journey so far.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AwQz_ySM9RU-dydIVCj_oRg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-07 06:40:15",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Wisconsin town revolts against a Trump-backed data-center project",
+      "article_headline": "Wisconsin town revolts against a Trump-backed data-center project"
+    },
+    {
+      "link": "https://apple.news/Ad_Zlzw5rTeyeOVOaz0WWUw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-07 06:40:15",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "March Madness, Michigan, dominant all season, takes down UConn for its first national championship since 1989",
+      "article_headline": "Michigan, dominant all season, takes down UConn for first national championship since 1989"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-07 06:40:15",
+      "pub_time": "2026-04-07 06:33:18",
+      "publication": "The Wall Street Journal",
+      "author": "Rachel Louise Ensign",
+      "headline": "More Americans are breaking into the upper-middle class",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AJofLDYaFQMyRwEFn793J1A",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-07 06:40:15",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Trump’s latest deadline for a deal looms. Iran has its own demands.",
+      "article_headline": ""
+    }
+  ]
+}

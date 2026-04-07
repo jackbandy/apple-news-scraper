@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-07 08:00:15",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AFZWBBVXfT32rPrW5Wxk_aQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-07 08:00:15",
+      "pub_time": "2026-04-07 07:29:18",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi and Trevor Hunnicutt",
+      "headline": "Strikes intensify on defiant Iran as clock ticks down on Trump threat of “hell”",
+      "article_headline": "'A whole civilisation will die' says Trump as Iran defies looming deadline"
+    },
+    {
+      "link": "https://apple.news/AR_HuUmaqQ_ePJU86SKQicA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-07 08:00:15",
+      "pub_time": "",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "JD Vance arrives in Hungary to back Prime Minister Viktor Orbán’s reelection bid",
+      "article_headline": "JD Vance arrives in Hungary to back Prime Minister Viktor Orbán’s reelection bid"
+    },
+    {
+      "link": "https://apple.news/AwQz_ySM9RU-dydIVCj_oRg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-07 08:00:15",
+      "pub_time": "2026-04-07 07:29:18",
+      "publication": "POLITICO",
+      "author": "Tyler Katzenberger",
+      "headline": "Wisconsin town revolts against a Trump-backed data-center project",
+      "article_headline": "Wisconsin town revolts against a Trump-backed data-center project"
+    },
+    {
+      "link": "https://apple.news/AThsfpUHpTLCedYxzIMR4kA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-07 08:00:15",
+      "pub_time": "",
+      "publication": "Scientific American",
+      "author": "",
+      "headline": "NASA’s Artemis II “free return” trajectory lets gravity do the work",
+      "article_headline": "NASA’s Artemis II “free return” trajectory lets gravity do the work"
+    },
+    {
+      "link": "https://apple.news/AwQz_ySM9RU-dydIVCj_oRg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-07 08:00:15",
+      "pub_time": "2026-04-07 07:29:19",
+      "publication": "POLITICO",
+      "author": "Tyler Katzenberger",
+      "headline": "Wisconsin town revolts against a Trump-backed data-center project",
+      "article_headline": "Wisconsin town revolts against a Trump-backed data-center project"
+    },
+    {
+      "link": "https://apple.news/AJvJDp8D0QiKF2G-fAaYxGA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-07 08:00:15",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "March Madness, Michigan had its worst game this season. How it still won the national title.",
+      "article_headline": "Michigan had its worst game this season. How it still won the national title."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-07 08:00:15",
+      "pub_time": "2026-04-07 07:30:15",
+      "publication": "The Wall Street Journal",
+      "author": "Rachel Louise Ensign",
+      "headline": "More Americans are breaking into the upper-middle class",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AHK0N0bRSSoKB39i-kX8ihQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-07 08:00:15",
+      "pub_time": "2026-04-06 11:03:55",
+      "publication": "Money",
+      "author": "Marc Guberti",
+      "headline": "What the Average American Has in Their Savings Account — and How You Compare",
+      "article_headline": "What the Average American Has in Their Savings Account — and How You Compare"
+    },
+    {
+      "link": "https://apple.news/AMZPqJ3p4SpWQGd8Kr0fwaQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-07 08:00:15",
+      "pub_time": "2026-04-07 06:04:30",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Parents are yelling this name to stop kids' tantrums. Why does it work?",
+      "article_headline": "Parents are yelling this name to stop kids' tantrums. Why does it work?"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-07 08:00:15",
+      "pub_time": "2026-04-06 19:04:57",
+      "publication": "",
+      "author": "Thomas Westerholm",
+      "headline": "Ozempic shows startling new side effect, says massive study",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AUCXImXkQSbCZaXljPp_M0g",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-07 08:00:15",
+      "pub_time": "2026-04-07 05:04:57",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Kate Jackson, Jaclyn Smith and Cheryl Ladd reunite for 'Charlie's Angels' 50th anniversary",
+      "article_headline": "Kate Jackson, Jaclyn Smith and Cheryl Ladd reunite for 'Charlie's Angels' 50th anniversary"
+    }
+  ]
+}
