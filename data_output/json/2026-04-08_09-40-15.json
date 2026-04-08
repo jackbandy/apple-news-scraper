@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-08 09:40:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AKa4EM5RHQZSnWQmITMMeQQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-08 09:40:15",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Relief at truce gives way to alarm as Israel pounds Lebanon and Iran hits neighbors",
+      "article_headline": "Relief at truce gives way to alarm as Israel pounds Lebanon and Iran hits neighbors"
+    },
+    {
+      "link": "https://apple.news/AM83zPgTBS8u7pWELqgLmwg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-08 09:40:15",
+      "pub_time": "2026-04-08 09:24:45",
+      "publication": "The Hill",
+      "author": "Julia Mueller and Caroline Vakil",
+      "headline": "Democrats build on overperformance streak in Wisconsin and Georgia elections",
+      "article_headline": "Democrats build on overperformance streak in Wisconsin and Georgia elections"
+    },
+    {
+      "link": "https://apple.news/AzcFRp16DRvmYDKNxWcNnxw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-08 09:40:15",
+      "pub_time": "2026-04-08 09:25:12",
+      "publication": "NPR",
+      "author": "Jude Joffe-Block",
+      "headline": "ICE acknowledges it is using powerful spyware",
+      "article_headline": "ICE acknowledges it is using powerful spyware"
+    },
+    {
+      "link": "https://apple.news/AM83zPgTBS8u7pWELqgLmwg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-08 09:40:15",
+      "pub_time": "2026-04-08 09:24:45",
+      "publication": "The Hill",
+      "author": "Julia Mueller and Caroline Vakil",
+      "headline": "Democrats build on overperformance streak in Wisconsin and Georgia elections",
+      "article_headline": "Democrats build on overperformance streak in Wisconsin and Georgia elections"
+    },
+    {
+      "link": "https://apple.news/AzcFRp16DRvmYDKNxWcNnxw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-08 09:40:15",
+      "pub_time": "2026-04-08 09:25:12",
+      "publication": "NPR",
+      "author": "Jude Joffe-Block",
+      "headline": "ICE acknowledges it is using powerful spyware",
+      "article_headline": "ICE acknowledges it is using powerful spyware"
+    },
+    {
+      "link": "https://apple.news/AVAICVLCqRZq2ngd0vYjzlA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-08 09:40:15",
+      "pub_time": "2026-04-08 09:24:39",
+      "publication": "The Christian Science Monitor",
+      "author": "Sarah Matusek",
+      "headline": "99.9% of recent U.S. refugees are white South Africans, as Trump shifts focus",
+      "article_headline": "99.9% of recent U.S. refugees are white South Africans, as Trump shifts focus"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-08 09:40:15",
+      "pub_time": "",
+      "publication": "Vox",
+      "author": "",
+      "headline": "Ozempic just got cheap enough to change the world",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
