@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-08 13:40:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ApFJrnyp5SrmPRDZ9dAD0Cg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-08 13:40:15",
+      "pub_time": "",
+      "publication": "DEVELOPING",
+      "author": "",
+      "headline": "The Associated Press, Ceasefire is threatened as Israel expands Lebanon strikes and Iran closes strait again",
+      "article_headline": "Ceasefire is threatened as Israel expands Lebanon strikes and Iran closes strait again"
+    },
+    {
+      "link": "https://apple.news/AM83zPgTBS8u7pWELqgLmwg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-08 13:40:15",
+      "pub_time": "2026-04-08 12:59:44",
+      "publication": "The Hill",
+      "author": "Julia Mueller and Caroline Vakil",
+      "headline": "Democrats build on overperformance streak in Wisconsin and Georgia elections",
+      "article_headline": "Democrats build on overperformance streak in Wisconsin and Georgia elections"
+    },
+    {
+      "link": "https://apple.news/AM83zPgTBS8u7pWELqgLmwg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-08 13:40:15",
+      "pub_time": "2026-04-08 12:58:17",
+      "publication": "The Hill",
+      "author": "Julia Mueller and Caroline Vakil",
+      "headline": "Democrats build on overperformance streak in Wisconsin and Georgia elections",
+      "article_headline": "Democrats build on overperformance streak in Wisconsin and Georgia elections"
+    },
+    {
+      "link": "https://apple.news/AzcFRp16DRvmYDKNxWcNnxw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-08 13:40:15",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "ICE acknowledges it is using powerful spyware",
+      "article_headline": "ICE acknowledges it is using powerful spyware"
+    },
+    {
+      "link": "https://apple.news/AJ2X8DOlKTwO6HYvWFDwWqA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-08 13:40:15",
+      "pub_time": "2026-04-08 12:59:12",
+      "publication": "Fox News",
+      "author": "Julia Bonavita",
+      "headline": "Alleged Gilgo Beach serial killer Rex Heuermann pleads guilty in decades-long case",
+      "article_headline": "Alleged Gilgo Beach serial killer Rex Heuermann pleads guilty in decades-long case"
+    },
+    {
+      "link": "https://apple.news/AJ2X8DOlKTwO6HYvWFDwWqA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-08 13:40:15",
+      "pub_time": "2026-04-08 12:58:45",
+      "publication": "Fox News",
+      "author": "Julia Bonavita",
+      "headline": "Alleged Gilgo Beach serial killer Rex Heuermann pleads guilty in decades-long case",
+      "article_headline": "Alleged Gilgo Beach serial killer Rex Heuermann pleads guilty in decades-long case"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-08 13:40:15",
+      "pub_time": "",
+      "publication": "Vox",
+      "author": "",
+      "headline": "Ozempic just got cheap enough to change the world",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
