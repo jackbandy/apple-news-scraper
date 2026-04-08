@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-07 21:40:15",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AChc6arDtQfib3nyO4KwFOA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-07 21:40:15",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump agrees to 2-week ceasefire with Iran if Hormuz is re-opened, LIVE",
+      "article_headline": "Trump Agrees to Two-Week Cease-Fire With Iran if Hormuz Is Reopened"
+    },
+    {
+      "link": "https://apple.news/AVKsyeCj3SOO_EyHNanC3uw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-07 21:40:15",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Republican Clay Fuller wins Georgia special election to replace Marjorie Taylor Greene",
+      "article_headline": "Republican Clay Fuller wins Georgia special election to replace Marjorie Taylor Greene"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-07 21:40:15",
+      "pub_time": "2026-04-07 21:02:19",
+      "publication": "Milwaukee Journal Sentinel",
+      "author": "",
+      "headline": "Chris Taylor wins Wisconsin Supreme Court race, growing liberal majority",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AjZMLoCEgQNS8oCRfItBpuA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-07 21:40:15",
+      "pub_time": "2026-04-07 21:02:19",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Man hospitalized after ICE shooting in Northern California",
+      "article_headline": "Man hospitalized after ICE shooting in Northern California"
+    },
+    {
+      "link": "https://apple.news/Aj2RVaaI6QhOAoOd5wG3pog",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-07 21:40:15",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "Artemis II astronauts capture “Earthset” — and a rare solar eclipse from the far side of the moon",
+      "article_headline": "Artemis II astronauts capture “Earthset” — and a rare solar eclipse from the far side of the moon"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-07 21:40:15",
+      "pub_time": "2026-04-07 21:03:20",
+      "publication": "Slate",
+      "author": "Wes Ferguson",
+      "headline": "Her murder case was cold for 30 years. Then a group of college students investigated.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A8b0mMAZpRpObzF8mQo422g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-07 21:40:15",
+      "pub_time": "",
+      "publication": "ABC7 Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, Waymo begins testing in Chicago as bill seeks to legalize autonomous vehicles",
+      "article_headline": "Waymo begins testing in Chicago as bill seeks to legalize autonomous vehicles"
+    }
+  ]
+}
