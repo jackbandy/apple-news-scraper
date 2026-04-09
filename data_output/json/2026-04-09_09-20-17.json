@@ -1,0 +1,121 @@
+{
+  "run_time": "2026-04-09 09:20:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AdWi-EZVhRz6LJA_PrxtBWg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-09 09:20:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Ceasefire in the Iran war teeters with disagreements over Lebanon and the Strait of Hormuz",
+      "article_headline": "Ceasefire in the Iran war teeters with disagreements over Lebanon and the Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AE_C-3yISQaWnKdVthATCuQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-09 09:20:17",
+      "pub_time": "2026-04-09 08:20:46",
+      "publication": "NPR",
+      "author": "Selena Simmons-Duffin",
+      "headline": "Teen birth rates hit another historical low in 2025, CDC says",
+      "article_headline": "Teen birth rates hit another historical low in 2025, CDC says"
+    },
+    {
+      "link": "https://apple.news/ABXBu_SKgQgORJx2s1bpc6w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-09 09:20:17",
+      "pub_time": "2026-04-09 08:21:13",
+      "publication": "NBC News",
+      "author": "Shannon Pettypiece",
+      "headline": "How Trump’s tax law boosts the wealthy and leaves behind some workers he promised to help",
+      "article_headline": "How Trump’s tax law boosts the wealthy and leaves behind some workers he promised to help"
+    },
+    {
+      "link": "https://apple.news/Ax2KZxZPuSHWX2YlI-3RYwA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-09 09:20:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Mass drowning of chicks puts emperor penguins at risk of extinction",
+      "article_headline": "Mass drowning of chicks puts emperor penguins at risk of extinction"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-09 09:20:17",
+      "pub_time": "2026-04-09 08:22:19",
+      "publication": "Los Angeles Times",
+      "author": "Noah Haggerty",
+      "headline": "A cracked heat shield rattled NASA after Artemis I. Now Artemis II will put the fix to the test.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-09 09:20:17",
+      "pub_time": "2026-04-09 08:22:19",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Inside Jeffrey Epstein’s close ties with Saudi royals",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ANd5imL4VQ1GOJNY9BblrqQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-09 09:20:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Trump hailed the ceasefire deal — but cracks are showing",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-04-09 09:20:17",
+      "pub_time": "",
+      "publication": "Popular Mechanics",
+      "author": "",
+      "headline": "This culinary mushroom can cause hallucinations. People report seeing the same strange thing., Jordan Smith",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-04-09 09:20:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Why Trump Accounts could turn into tax-free multimillion-dollar nest eggs, Ashlea Ebeling",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-04-09 09:20:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "A super El Niño could be coming. Here’s what that means., Ben Noll",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
