@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-04-09 18:00:19",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AfMBcEAydRoGg--Q4Fl9z1Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-09 18:00:19",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Israel to open direct talks with Lebanon but not halt attacks on Hezbollah",
+      "article_headline": "Israel to open direct talks with Lebanon but not halt attacks on Hezbollah"
+    },
+    {
+      "link": "https://apple.news/AuoRQmrlkQvmax_-Z_wu6Ug",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-09 18:00:19",
+      "pub_time": "2026-04-09 17:00:53",
+      "publication": "Bloomberg",
+      "author": "Julian Lee and Alex Longley",
+      "headline": "Why the ceasefire with Iran hasn’t led to the Strait of Hormuz reopening",
+      "article_headline": "Why the ceasefire with Iran hasn’t led to the Strait of Hormuz reopening"
+    },
+    {
+      "link": "https://apple.news/A7K8f5feJQjy2Abqxe7QcGA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-09 18:00:19",
+      "pub_time": "2026-04-09 17:01:21",
+      "publication": "NBC News",
+      "author": "Monica Alba and Rebecca Shabad",
+      "headline": "Melania Trump denies ties to Epstein and calls on Congress to hold a hearing for survivors",
+      "article_headline": "Melania Trump denies ties to Epstein and calls on Congress to hold a hearing for survivors"
+    },
+    {
+      "link": "https://apple.news/As5GImhInThKmzNOMp1bbmw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-09 18:00:19",
+      "pub_time": "2026-04-09 17:02:04",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Artemis crew returning to Earth with “all the good stuff” from moon discoveries",
+      "article_headline": "Artemis crew returning to Earth with “all the good stuff” from moon discoveries"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-09 18:00:19",
+      "pub_time": "2026-04-09 17:02:31",
+      "publication": "The Wall Street Journal",
+      "author": "Veronica Dagher",
+      "headline": "The typical U.S. home is 44 years old — and needs tons of work",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-09 18:00:19",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "America's Test Kitchen, RECIPE, 45 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-09 18:00:19",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Simply Recipes, RECIPE, 20 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

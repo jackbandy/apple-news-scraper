@@ -1,0 +1,120 @@
+{
+  "run_time": "2026-04-09 12:40:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/ASmHAPv2nSpSK9cpL6ATgzQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-09 12:40:17",
+      "pub_time": "",
+      "publication": "Axios",
+      "author": "",
+      "headline": "Netanyahu announces negotiations with Lebanon after U.S. pressure",
+      "article_headline": "Netanyahu announces negotiations with Lebanon after U.S. pressure"
+    },
+    {
+      "link": "https://apple.news/AxcpbaDKwTXq6Zdj1Wqa7kw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-09 12:40:17",
+      "pub_time": "2026-04-09 12:29:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump promised to cut electric costs in half. Bills in energy-rich West Virginia now top mortgages.",
+      "article_headline": "Trump promised to cut electric costs in half. Bills in energy-rich West Virginia now top mortgages."
+    },
+    {
+      "link": "https://apple.news/AdgoTOIiCSiybsSQ6DUTytg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-09 12:40:17",
+      "pub_time": "2026-04-09 12:30:13",
+      "publication": "Military Times",
+      "author": "Cristina Stassis",
+      "headline": "Automatic registration for U.S. military draft-eligible men to begin in December",
+      "article_headline": "Automatic registration for U.S. military draft-eligible men to begin in December"
+    },
+    {
+      "link": "https://apple.news/AxcpbaDKwTXq6Zdj1Wqa7kw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-09 12:40:17",
+      "pub_time": "2026-04-09 12:29:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump promised to cut electric costs in half. Bills in energy-rich West Virginia now top mortgages.",
+      "article_headline": "Trump promised to cut electric costs in half. Bills in energy-rich West Virginia now top mortgages."
+    },
+    {
+      "link": "https://apple.news/AdgoTOIiCSiybsSQ6DUTytg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-09 12:40:17",
+      "pub_time": "2026-04-09 12:30:13",
+      "publication": "Military Times",
+      "author": "Cristina Stassis",
+      "headline": "Automatic registration for U.S. military draft-eligible men to begin in December",
+      "article_headline": "Automatic registration for U.S. military draft-eligible men to begin in December"
+    },
+    {
+      "link": "https://apple.news/AiscSxSWeTfOR1I1OV370vQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-09 12:40:17",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Major 2026 hurricane-season forecast predicts 6 Atlantic storms",
+      "article_headline": "Major 2026 hurricane-season forecast predicts 6 Atlantic storms"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-09 12:40:17",
+      "pub_time": "2026-04-09 12:29:12",
+      "publication": "Los Angeles Times",
+      "author": "Noah Haggerty",
+      "headline": "A cracked heat shield rattled NASA after Artemis I. Now Artemis II will put the fix to the test.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-04-09 12:40:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "A super El Niño could be coming. Here’s what that means., Ben Noll",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-04-09 12:40:17",
+      "pub_time": "",
+      "publication": "GQ",
+      "author": "",
+      "headline": "How to fix your broken sleep schedule, Emily Laurence",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-04-09 12:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Nursing is the surefire new path to American prosperity, Jeanne Whalen",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

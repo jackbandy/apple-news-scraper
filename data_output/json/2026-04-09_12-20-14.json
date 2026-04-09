@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-09 12:20:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AiDFDPUmyTIKWEawlLZ337w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-09 12:20:14",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Israel seeks Lebanon talks after bombardments threaten Iran truce",
+      "article_headline": "Israel seeks Lebanon talks after bombardments threaten Iran truce"
+    },
+    {
+      "link": "https://apple.news/AxcpbaDKwTXq6Zdj1Wqa7kw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-09 12:20:14",
+      "pub_time": "2026-04-09 11:32:43",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump promised to cut electric costs in half. Bills in energy-rich West Virginia now top mortgages.",
+      "article_headline": "Trump promised to cut electric costs in half. Bills in energy-rich West Virginia now top mortgages."
+    },
+    {
+      "link": "https://apple.news/AdgoTOIiCSiybsSQ6DUTytg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-09 12:20:14",
+      "pub_time": "2026-04-09 11:33:10",
+      "publication": "Military Times",
+      "author": "Cristina Stassis",
+      "headline": "Automatic registration for U.S. military draft-eligible men to begin in December",
+      "article_headline": "Automatic registration for U.S. military draft-eligible men to begin in December"
+    },
+    {
+      "link": "https://apple.news/AxcpbaDKwTXq6Zdj1Wqa7kw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-09 12:20:14",
+      "pub_time": "2026-04-09 11:32:42",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump promised to cut electric costs in half. Bills in energy-rich West Virginia now top mortgages.",
+      "article_headline": "Trump promised to cut electric costs in half. Bills in energy-rich West Virginia now top mortgages."
+    },
+    {
+      "link": "https://apple.news/AdgoTOIiCSiybsSQ6DUTytg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-09 12:20:14",
+      "pub_time": "2026-04-09 11:33:10",
+      "publication": "Military Times",
+      "author": "Cristina Stassis",
+      "headline": "Automatic registration for U.S. military draft-eligible men to begin in December",
+      "article_headline": "Automatic registration for U.S. military draft-eligible men to begin in December"
+    },
+    {
+      "link": "https://apple.news/AiscSxSWeTfOR1I1OV370vQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-09 12:20:14",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Major 2026 hurricane-season forecast predicts 6 Atlantic storms",
+      "article_headline": "Major 2026 hurricane-season forecast predicts 6 Atlantic storms"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-09 12:20:14",
+      "pub_time": "2026-04-09 11:33:10",
+      "publication": "Los Angeles Times",
+      "author": "Noah Haggerty",
+      "headline": "A cracked heat shield rattled NASA after Artemis I. Now Artemis II will put the fix to the test.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
