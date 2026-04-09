@@ -1,0 +1,120 @@
+{
+  "run_time": "2026-04-09 05:20:16",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AKa4EM5RHQZSnWQmITMMeQQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-09 05:20:16",
+      "pub_time": "2026-04-09 05:15:18",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi, Alexander Cornwell, Maya Gebeily, and Humeyra Pamuk",
+      "headline": "Iran says peace talks would be “unreasonable” following Israeli strikes in Lebanon",
+      "article_headline": "Iran says peace talks would be “unreasonable” following Israeli strikes in Lebanon"
+    },
+    {
+      "link": "https://apple.news/A3qlE-LANRnCzyBYHGAsaRw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-09 05:20:16",
+      "pub_time": "2026-04-09 05:15:45",
+      "publication": "The Washington Post",
+      "author": "Michael Birnbaum and Ellen Francis",
+      "headline": "Trump vents at NATO but avoids rupture after meeting with alliance’s leader",
+      "article_headline": "Trump vents at NATO but avoids rupture after meeting with alliance’s leader"
+    },
+    {
+      "link": "https://apple.news/AmppcdWhBTTeLSp1qALIZPw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-09 05:20:16",
+      "pub_time": "2026-04-09 05:16:13",
+      "publication": "The Wall Street Journal",
+      "author": "Anthony Debarros, Paul Overberg, and Andrea Petersen",
+      "headline": "The U.S. fertility rate has hit a record low",
+      "article_headline": "The U.S. fertility rate has hit a record low"
+    },
+    {
+      "link": "https://apple.news/A3qlE-LANRnCzyBYHGAsaRw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-09 05:20:16",
+      "pub_time": "2026-04-09 05:14:45",
+      "publication": "The Washington Post",
+      "author": "Michael Birnbaum and Ellen Francis",
+      "headline": "Trump vents at NATO but avoids rupture after meeting with alliance’s leader",
+      "article_headline": "Trump vents at NATO but avoids rupture after meeting with alliance’s leader"
+    },
+    {
+      "link": "https://apple.news/AmppcdWhBTTeLSp1qALIZPw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-09 05:20:16",
+      "pub_time": "2026-04-09 05:15:13",
+      "publication": "The Wall Street Journal",
+      "author": "Anthony Debarros, Paul Overberg, and Andrea Petersen",
+      "headline": "The U.S. fertility rate has hit a record low",
+      "article_headline": "The U.S. fertility rate has hit a record low"
+    },
+    {
+      "link": "https://apple.news/A8DmcZX8YRcmW1m_oP_2FQg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-09 05:20:16",
+      "pub_time": "2026-04-09 05:15:40",
+      "publication": "National Geographic",
+      "author": "Adam Mann",
+      "headline": "Space weather can be deadly. Here’s how NASA protects the Artemis II crew.",
+      "article_headline": "Space weather can be deadly. Here’s how NASA protects the Artemis II crew."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-09 05:20:16",
+      "pub_time": "",
+      "publication": "Augusta Chronicle",
+      "author": "",
+      "headline": "Why Augusta National bans all cell phones from the Masters",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-04-09 05:20:16",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "How the Midwest became the place to move, Olga Khazan",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-04-09 05:20:16",
+      "pub_time": "",
+      "publication": "GQ",
+      "author": "",
+      "headline": "How to fix your broken sleep schedule, Emily Laurence",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-04-09 05:20:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "A super El Niño could be coming. Here’s what that means., Ben Noll",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

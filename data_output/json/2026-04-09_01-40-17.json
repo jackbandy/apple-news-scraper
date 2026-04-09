@@ -1,0 +1,177 @@
+{
+  "run_time": "2026-04-09 01:40:17",
+  "story_count": 15,
+  "stories": [
+    {
+      "link": "https://apple.news/AKa4EM5RHQZSnWQmITMMeQQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "2026-04-09 00:40:19",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi, Alexander Cornwell, Maya Gebeily, and Humeyra Pamuk",
+      "headline": "Iran says peace talks would be “unreasonable” following Israeli strikes in Lebanon",
+      "article_headline": "Iran says peace talks would be “unreasonable” following Israeli strikes in Lebanon"
+    },
+    {
+      "link": "https://apple.news/A3qlE-LANRnCzyBYHGAsaRw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "2026-04-09 00:40:46",
+      "publication": "The Washington Post",
+      "author": "Michael Birnbaum and Ellen Francis",
+      "headline": "Trump vents at NATO but avoids rupture after meeting with alliance’s leader",
+      "article_headline": "Trump vents at NATO but avoids rupture after meeting with alliance’s leader"
+    },
+    {
+      "link": "https://apple.news/AX_NEkmfrRzOIaRvtLyVRaQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "2026-04-09 00:41:13",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Takeaways from the Gilgo Beach case as Rex Heuermann pleads guilty to 7 murders and admits to an 8th",
+      "article_headline": "Takeaways from the Gilgo Beach case as Rex Heuermann pleads guilty to 7 murders and admits to an 8th"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "“Hard to not feel scammed”: World Cup fans say FIFA misled them with ticket allocations, seat maps",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A8DmcZX8YRcmW1m_oP_2FQg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "Space weather can be deadly. Here’s how NASA protects the Artemis II crew.",
+      "article_headline": "Space weather can be deadly. Here’s how NASA protects the Artemis II crew."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "Their son took a bike ride. Now he’s one of the thousands missing in Gaza., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ab3-ZbJwUTeKUjPhpIu5lBg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "2026-04-08 08:42:24",
+      "publication": "HuffPost",
+      "author": "Julia Ries Wexler",
+      "headline": "This Beloved Beverage Is Being Linked To Colorectal Cancer. Here's What Doctors Want You To Know.",
+      "article_headline": "This Beloved Beverage Is Being Linked To Colorectal Cancer. Here's What Doctors Want You To Know."
+    },
+    {
+      "link": "https://apple.news/Agm-Z-Z23TyqxZ0pfBBU9Sg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "2026-04-08 21:42:51",
+      "publication": "Entertainment Weekly",
+      "author": "Ryan Coleman",
+      "headline": "Michael Patrick, Irish actor known for Shakespeare roles and 'Game of Thrones,' dies at 35",
+      "article_headline": "Michael Patrick, Irish actor known for Shakespeare roles and 'Game of Thrones,' dies at 35"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "2026-04-08 01:43:24",
+      "publication": "",
+      "author": "Bridget Read",
+      "headline": "What Broke the Beckhams?, Apple News Audio",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AZptWWAImR6SXaE7_-uyW6A",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "2026-04-08 16:43:36",
+      "publication": "BuzzFeed",
+      "author": "Angelica Martinez",
+      "headline": "33 Ex-Employees Revealed The Secrets Their Former Employers Don't Want The General Public To Know, And My Jaw Is Currently Four Stories Beneath My Head",
+      "article_headline": "33 Ex-Employees Revealed The Secrets Their Former Employers Don't Want The General Public To Know, And My Jaw Is Currently Four Stories Beneath My Head"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "Can exercise offset the health risks of alcohol? , Hannah Singleton",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "",
+      "publication": "Investopedia",
+      "author": "",
+      "headline": "Are you financially ahead or behind? Americans’ average net worth by age., Daniel Liberto",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "",
+      "publication": "Newsweek",
+      "author": "",
+      "headline": "An early-warning sign for one of the most lethal cancers, HANNAH MILLINGTON",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AIoK0xK13TL6YUAE47n-h2g?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1R4N21zOVFrQlJoR29SUGIzS3RadlBBI25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "reader_favorites",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Why Catholicism is drawing in Gen Z men",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-09 01:40:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Southern Living, RECIPE, 15 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
