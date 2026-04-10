@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-10 15:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AdRomrLYrT7C__zzjg1oetA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-10 15:40:17",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Surging gas prices drive inflation to highest level in 2 years",
+      "article_headline": "Surging gas prices drive inflation to highest level in 2 years"
+    },
+    {
+      "link": "https://apple.news/AHDr1PJjqSCqJvo15ZWS1Aw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-10 15:40:17",
+      "pub_time": "2026-04-10 14:59:47",
+      "publication": "Bloomberg",
+      "author": "Dana Khraiche and Dan Williams",
+      "headline": "Why the Lebanon conflict complicates resolution of the Iran war",
+      "article_headline": "Why the Lebanon conflict complicates resolution of the Iran war"
+    },
+    {
+      "link": "https://apple.news/AHDr1PJjqSCqJvo15ZWS1Aw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-10 15:40:17",
+      "pub_time": "2026-04-10 14:59:20",
+      "publication": "Bloomberg",
+      "author": "Dana Khraiche and Dan Williams",
+      "headline": "Why the Lebanon conflict complicates resolution of the Iran war",
+      "article_headline": "Why the Lebanon conflict complicates resolution of the Iran war"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-10 15:40:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Trump officials unveil designs for president’s controversial 250-foot arch",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AjSclfew5Qo2YP4TSEOrH3w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-10 15:40:17",
+      "pub_time": "2026-04-10 14:59:48",
+      "publication": "The Texas Tribune",
+      "author": "Alex Nguyen",
+      "headline": "Texas’s highest criminal court overturns sentence of man who has been on death row for 47 years",
+      "article_headline": "Texas’s highest criminal court overturns sentence of man who has been on death row for 47 years"
+    },
+    {
+      "link": "https://apple.news/AjSclfew5Qo2YP4TSEOrH3w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-10 15:40:17",
+      "pub_time": "2026-04-10 14:59:21",
+      "publication": "The Texas Tribune",
+      "author": "Alex Nguyen",
+      "headline": "Texas’s highest criminal court overturns sentence of man who has been on death row for 47 years",
+      "article_headline": "Texas’s highest criminal court overturns sentence of man who has been on death row for 47 years"
+    },
+    {
+      "link": "https://apple.news/ATvzH_azCRAq7zVEY0fgMlw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-10 15:40:17",
+      "pub_time": "",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Artemis II updates: Crew headed home after historic moon mission",
+      "article_headline": "Artemis II updates: Crew headed home after historic moon mission"
+    }
+  ]
+}
