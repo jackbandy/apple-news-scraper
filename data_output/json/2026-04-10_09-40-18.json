@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-10 09:40:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ApwUuXzY7Qy2SU0KKRKaw5w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-10 09:40:18",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "U.S. inflation soars in March as war on Iran drives economy into uncertainty",
+      "article_headline": "U.S. inflation soars in March as war on Iran drives economy into uncertainty"
+    },
+    {
+      "link": "https://apple.news/AAI1OWlFKRWWM8-1UoLT9rg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-10 09:40:18",
+      "pub_time": "2026-04-10 09:17:50",
+      "publication": "The Christian Science Monitor",
+      "author": "Simon Montlake",
+      "headline": "JD Vance heads into the toughest assignment of his career: U.S.-Iran peace talks",
+      "article_headline": "JD Vance heads into the toughest assignment of his career: U.S.-Iran peace talks"
+    },
+    {
+      "link": "https://apple.news/ABpmg9QnqSfeX3MTi0Agk5g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-10 09:40:18",
+      "pub_time": "2026-04-10 09:18:17",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war",
+      "article_headline": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war"
+    },
+    {
+      "link": "https://apple.news/AAI1OWlFKRWWM8-1UoLT9rg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-10 09:40:18",
+      "pub_time": "2026-04-10 09:17:50",
+      "publication": "The Christian Science Monitor",
+      "author": "Simon Montlake",
+      "headline": "JD Vance heads into the toughest assignment of his career: U.S.-Iran peace talks",
+      "article_headline": "JD Vance heads into the toughest assignment of his career: U.S.-Iran peace talks"
+    },
+    {
+      "link": "https://apple.news/ABpmg9QnqSfeX3MTi0Agk5g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-10 09:40:18",
+      "pub_time": "2026-04-10 09:18:17",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war",
+      "article_headline": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-10 09:40:18",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Supreme Court ushers in historic defeats for civil rights",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AQddhB_P8SAGf9ojeNwyfXg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-10 09:40:18",
+      "pub_time": "2026-04-10 09:16:49",
+      "publication": "Video",
+      "author": "William Harwood",
+      "headline": "CBS News, As Artemis II heads back to Earth, crew is staking their lives on the heat shield",
+      "article_headline": "As Artemis II heads back to Earth, crew is staking their lives on the heat shield"
+    }
+  ]
+}

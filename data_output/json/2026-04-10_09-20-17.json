@@ -1,0 +1,118 @@
+{
+  "run_time": "2026-04-10 09:20:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/ApwUuXzY7Qy2SU0KKRKaw5w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-10 09:20:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "U.S. inflation soars in March as war on Iran drives economy into uncertainty",
+      "article_headline": "U.S. inflation soars in March as war on Iran drives economy into uncertainty"
+    },
+    {
+      "link": "https://apple.news/AAI1OWlFKRWWM8-1UoLT9rg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-10 09:20:17",
+      "pub_time": "2026-04-10 09:17:47",
+      "publication": "The Christian Science Monitor",
+      "author": "Simon Montlake",
+      "headline": "JD Vance heads into the toughest assignment of his career: U.S.-Iran peace talks",
+      "article_headline": "JD Vance heads into the toughest assignment of his career: U.S.-Iran peace talks"
+    },
+    {
+      "link": "https://apple.news/ABpmg9QnqSfeX3MTi0Agk5g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-10 09:20:17",
+      "pub_time": "2026-04-10 09:18:14",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war",
+      "article_headline": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war"
+    },
+    {
+      "link": "https://apple.news/AAI1OWlFKRWWM8-1UoLT9rg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-10 09:20:17",
+      "pub_time": "2026-04-10 09:17:46",
+      "publication": "The Christian Science Monitor",
+      "author": "Simon Montlake",
+      "headline": "JD Vance heads into the toughest assignment of his career: U.S.-Iran peace talks",
+      "article_headline": "JD Vance heads into the toughest assignment of his career: U.S.-Iran peace talks"
+    },
+    {
+      "link": "https://apple.news/ABpmg9QnqSfeX3MTi0Agk5g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-10 09:20:17",
+      "pub_time": "2026-04-10 09:18:13",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war",
+      "article_headline": "Gaza marks 6 months of a ceasefire that may offer lessons for the Iran war"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-10 09:20:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Supreme Court ushers in historic defeats for civil rights",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AQddhB_P8SAGf9ojeNwyfXg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-10 09:20:17",
+      "pub_time": "2026-04-10 09:17:44",
+      "publication": "Video",
+      "author": "William Harwood",
+      "headline": "CBS News, As Artemis II heads back to Earth, crew is staking their lives on the heat shield",
+      "article_headline": "As Artemis II heads back to Earth, crew is staking their lives on the heat shield"
+    },
+    {
+      "link": "https://apple.news/AEhyo_5fXTvaqhqwpnbBCYQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-10 09:20:17",
+      "pub_time": "2026-04-10 06:23:23",
+      "publication": "HuffPost",
+      "author": "Jillian Wilson",
+      "headline": "A New Study Found A Connection Between Low Levels Of This 1 Vitamin And Dementia — And 60% Of The World Is Deficient In It",
+      "article_headline": "A New Study Found A Connection Between Low Levels Of This 1 Vitamin And Dementia — And 60% Of The World Is Deficient In It"
+    },
+    {
+      "link": "https://apple.news/AiL_k5dxHSLC0yUaSR9zcUA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-10 09:20:17",
+      "pub_time": "2026-04-09 23:23:51",
+      "publication": "NBC News",
+      "author": "Daniella Silva and Marlene Lenthang",
+      "headline": "Family says popular energy drink played role in cheerleader's fatal heart condition",
+      "article_headline": "Family says popular energy drink played role in cheerleader's fatal heart condition"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-10 09:20:17",
+      "pub_time": "2026-04-10 05:24:18",
+      "publication": "",
+      "author": "Tom Warren",
+      "headline": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

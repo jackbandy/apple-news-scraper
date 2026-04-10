@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-10 06:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AwKVlPzMKSR2EVuDtRWebbw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-10 06:40:17",
+      "pub_time": "2026-04-10 06:15:19",
+      "publication": "Bloomberg",
+      "author": "Alisa Odenheimer, Sherif Tarek, and Omar Tamo",
+      "headline": "Trump demands reopening of the Strait of Hormuz ahead of U.S.-Iran peace talks",
+      "article_headline": "Trump Demands Reopening of Hormuz Ahead of US-Iran Peace Talks"
+    },
+    {
+      "link": "https://apple.news/AaKdthM1MSneqXRNG7_fvdQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-10 06:40:17",
+      "pub_time": "",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Russia and Ukraine agree to truce for Orthodox Easter",
+      "article_headline": "Russia and Ukraine agree to truce for Orthodox Easter"
+    },
+    {
+      "link": "https://apple.news/AWOCNH55xS06e5E7ydK5dog",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-10 06:40:17",
+      "pub_time": "2026-04-10 06:15:18",
+      "publication": "NBC News",
+      "author": "Rob Wile",
+      "headline": "Inflation report to offer the first glimpse of economic impacts from war in Iran",
+      "article_headline": "Inflation report to offer the first glimpse of economic impacts from war in Iran"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-10 06:40:17",
+      "pub_time": "2026-04-10 06:15:45",
+      "publication": "The Washington Post",
+      "author": "Justin Jouvenal",
+      "headline": "Supreme Court remade by Trump ushers in historic defeats for civil rights",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ay805832nQsWirXNqjEzDdw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-10 06:40:17",
+      "pub_time": "2026-04-10 06:15:51",
+      "publication": "Scientific American",
+      "author": "Claire Cameron",
+      "headline": "NASA’s Artemis II mission’s return to Earth, hour by hour",
+      "article_headline": "NASA’s Artemis II mission’s return to Earth, hour by hour"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-10 06:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The financial-planning expert who’s boycotting 529s for his kids",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-10 06:40:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "The deadly strikes that could derail the Iran war ceasefire",
+      "article_headline": ""
+    }
+  ]
+}

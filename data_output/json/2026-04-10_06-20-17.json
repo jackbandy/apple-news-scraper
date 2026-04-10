@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-10 06:20:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AwKVlPzMKSR2EVuDtRWebbw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-10 06:20:17",
+      "pub_time": "2026-04-10 06:15:19",
+      "publication": "Bloomberg",
+      "author": "Alisa Odenheimer, Sherif Tarek, and Omar Tamo",
+      "headline": "Trump demands reopening of the Strait of Hormuz ahead of U.S.-Iran peace talks",
+      "article_headline": "Trump Demands Reopening of Hormuz Ahead of US-Iran Peace Talks"
+    },
+    {
+      "link": "https://apple.news/AaKdthM1MSneqXRNG7_fvdQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-10 06:20:17",
+      "pub_time": "",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Russia and Ukraine agree to truce for Orthodox Easter",
+      "article_headline": "Russia and Ukraine agree to truce for Orthodox Easter"
+    },
+    {
+      "link": "https://apple.news/AWOCNH55xS06e5E7ydK5dog",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-10 06:20:17",
+      "pub_time": "2026-04-10 06:15:19",
+      "publication": "NBC News",
+      "author": "Rob Wile",
+      "headline": "Inflation report to offer the first glimpse of economic impacts from war in Iran",
+      "article_headline": "Inflation report to offer the first glimpse of economic impacts from war in Iran"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-10 06:20:17",
+      "pub_time": "2026-04-10 06:15:47",
+      "publication": "The Washington Post",
+      "author": "Justin Jouvenal",
+      "headline": "Supreme Court remade by Trump ushers in historic defeats for civil rights",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ay805832nQsWirXNqjEzDdw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-10 06:20:17",
+      "pub_time": "2026-04-10 06:15:53",
+      "publication": "Scientific American",
+      "author": "Claire Cameron",
+      "headline": "NASA’s Artemis II mission’s return to Earth, hour by hour",
+      "article_headline": "NASA’s Artemis II mission’s return to Earth, hour by hour"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-10 06:20:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The financial-planning expert who’s boycotting 529s for his kids",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ay805832nQsWirXNqjEzDdw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-10 06:20:17",
+      "pub_time": "2026-04-10 06:14:25",
+      "publication": "Scientific American",
+      "author": "Claire Cameron",
+      "headline": "NASA’s Artemis II mission’s return to Earth, hour by hour",
+      "article_headline": "NASA’s Artemis II mission’s return to Earth, hour by hour"
+    },
+    {
+      "link": "https://apple.news/Ah6N_I__1R6WyyvPBViinHA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-10 06:20:17",
+      "pub_time": "2026-04-09 11:22:57",
+      "publication": "HuffPost",
+      "author": "Jillian Wilson",
+      "headline": "Do Your Socks Leave Marks On Your Legs? Here's What That Means For Your Health.",
+      "article_headline": "Do Your Socks Leave Marks On Your Legs? Here's What That Means For Your Health."
+    },
+    {
+      "link": "https://apple.news/A9W4wLKVRSnOqi4tJ549iLQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-10 06:20:17",
+      "pub_time": "2026-04-09 19:23:25",
+      "publication": "BuzzFeed",
+      "author": "Raven Ishak",
+      "headline": "Older Adults Are Revealing The \"Back In The Day\" Inconveniences That Would Break Kids Today In Under 10 Minutes, And I Forgot A Lot Of These",
+      "article_headline": "Older Adults Are Revealing The \"Back In The Day\" Inconveniences That Would Break Kids Today In Under 10 Minutes, And I Forgot A Lot Of These"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-10 06:20:17",
+      "pub_time": "2026-04-09 16:23:52",
+      "publication": "",
+      "author": "Brett Arends",
+      "headline": "You have until April 15 to get this $8,000 Roth IRA freebie — no matter what your income",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAqqxFT8DTN-kd8hqjZVEyw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-10 06:20:17",
+      "pub_time": "2026-04-09 17:23:58",
+      "publication": "Reuters",
+      "author": "Will Dunham",
+      "headline": "Scientists stunned as chimpanzees turn on friends in killing spree",
+      "article_headline": "Scientists stunned as chimpanzees turn on friends in killing spree"
+    }
+  ]
+}
