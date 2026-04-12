@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-12 00:00:21",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AIGsok2W8RCa1NBfyQuyfzA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-12 00:00:21",
+      "pub_time": "2026-04-11 23:08:23",
+      "publication": "Reuters",
+      "author": "Ariba Shahid, Asif Shahzad, and Parisa Hafezi",
+      "headline": "US leaves Iran peace talks without a deal",
+      "article_headline": "US leaves Iran peace talks without a deal"
+    },
+    {
+      "link": "https://apple.news/AyyQ_mc4vRxO_6CN97kd7zA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-12 00:00:21",
+      "pub_time": "2026-04-11 23:08:50",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Artemis II astronauts make emotional return to Houston",
+      "article_headline": "Artemis II astronauts make emotional return to Houston"
+    },
+    {
+      "link": "https://apple.news/AQjGp3unAT9a--oHPw6UB4g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-12 00:00:21",
+      "pub_time": "2026-04-11 23:09:17",
+      "publication": "The Washington Post",
+      "author": "Ellen Nakashima, Warren Strobel, and Noah Robertson",
+      "headline": "Powerful surveillance program faces obstacles as renewal deadline looms",
+      "article_headline": "Powerful surveillance program faces obstacles as renewal deadline looms"
+    },
+    {
+      "link": "https://apple.news/AyyQ_mc4vRxO_6CN97kd7zA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-12 00:00:21",
+      "pub_time": "2026-04-11 23:08:50",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Artemis II astronauts make emotional return to Houston",
+      "article_headline": "Artemis II astronauts make emotional return to Houston"
+    },
+    {
+      "link": "https://apple.news/AQjGp3unAT9a--oHPw6UB4g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-12 00:00:21",
+      "pub_time": "2026-04-11 23:09:17",
+      "publication": "The Washington Post",
+      "author": "Ellen Nakashima, Warren Strobel, and Noah Robertson",
+      "headline": "Powerful surveillance program faces obstacles as renewal deadline looms",
+      "article_headline": "Powerful surveillance program faces obstacles as renewal deadline looms"
+    },
+    {
+      "link": "https://apple.news/AXUqqS4ZMTsO70Jj5pYPZUQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-12 00:00:21",
+      "pub_time": "2026-04-11 23:08:45",
+      "publication": "The Wall Street Journal",
+      "author": "Laura J. Nelson",
+      "headline": "Democrats pressure Swalwell to exit California governor’s race after allegations",
+      "article_headline": "Democrats pressure Swalwell to exit California governor’s race after allegations"
+    },
+    {
+      "link": "https://apple.news/AXUqqS4ZMTsO70Jj5pYPZUQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-12 00:00:21",
+      "pub_time": "2026-04-11 23:08:18",
+      "publication": "The Wall Street Journal",
+      "author": "Laura J. Nelson",
+      "headline": "Democrats pressure Swalwell to exit California governor’s race after allegations",
+      "article_headline": "Democrats pressure Swalwell to exit California governor’s race after allegations"
+    }
+  ]
+}

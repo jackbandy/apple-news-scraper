@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-11 19:00:25",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ALCfAQjfYTCu-0koSqo2wCg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-11 19:00:25",
+      "pub_time": "2026-04-11 18:00:27",
+      "publication": "NPR",
+      "author": "Betsy Joles",
+      "headline": "U.S.-Iran peace talks underway in Islamabad after weeks of frantic diplomacy",
+      "article_headline": "U.S.-Iran peace talks underway in Islamabad after weeks of frantic diplomacy"
+    },
+    {
+      "link": "https://apple.news/ALr8BaDN5THW7QdtZ6jTlJA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-11 19:00:25",
+      "pub_time": "2026-04-11 18:00:54",
+      "publication": "The Washington Post",
+      "author": "Maegan Vazquez, Dan Merica, and Drew Harwell",
+      "headline": "Swalwell staffers stand with accusers as Manhattan DA confirms investigation",
+      "article_headline": "Swalwell staffers stand with accusers as Manhattan DA confirms investigation"
+    },
+    {
+      "link": "https://apple.news/AB-g-Ht_mTJ6BV6eLz2sCSw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-11 19:00:25",
+      "pub_time": "2026-04-11 18:01:23",
+      "publication": "Bloomberg Law",
+      "author": "Ian Lopez",
+      "headline": "Lawmakers look to redefine abortion as state bans take hold",
+      "article_headline": "Lawmakers look to redefine abortion as state bans take hold"
+    },
+    {
+      "link": "https://apple.news/AO0P5sfLkTZyo_6i46atSNg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-11 19:00:25",
+      "pub_time": "",
+      "publication": "Fox News",
+      "author": "",
+      "headline": "“Bonded forever”: Artemis II crew reflects emotionally on lunar mission after safe return",
+      "article_headline": "“Bonded forever”: Artemis II crew reflects emotionally on lunar mission after safe return"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-11 19:00:25",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "No VIPs at Amen Corner shows how the Masters flattens America’s celebrity caste system",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-11 19:00:25",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "Inside the Beckham family feud, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ab9U2-yGbREaxCinCdo9how",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-11 19:00:25",
+      "pub_time": "",
+      "publication": "Why people are falling in love with AI chatbots",
+      "author": "",
+      "headline": "And what they actually want.,  Play Now  25 min",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-11 19:00:25",
+      "pub_time": "2026-04-10 22:03:02",
+      "publication": "",
+      "author": "Chiara Kim",
+      "headline": "Teens Vandalizing Culver's Get Banned from Restaurant in Viral Post from Owner — Prompting Apologies from Their Parents",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A8Ut-1_cLRveVEddHMDr7ug",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-11 19:00:25",
+      "pub_time": "2026-04-11 06:03:19",
+      "publication": "HuffPost",
+      "author": "Catherine Pearson",
+      "headline": "Too Many Parents Fail To Teach Their Sons This Vital Skill — And The Consequences Are Dire.",
+      "article_headline": "Too Many Parents Fail To Teach Their Sons This Vital Skill — And The Consequences Are Dire."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-11 19:00:25",
+      "pub_time": "2026-04-10 19:03:47",
+      "publication": "",
+      "author": "Steve Midway",
+      "headline": "Cannabis may make you remember things that never happened",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-11 19:00:25",
+      "pub_time": "2026-04-11 14:03:47",
+      "publication": "",
+      "author": "Dave Stopera",
+      "headline": "I 100% Guarantee You Won't Keep A Straight Face After Seeing These 30 Pictures That Are Impossible Not To Laugh At",
+      "article_headline": ""
+    }
+  ]
+}
