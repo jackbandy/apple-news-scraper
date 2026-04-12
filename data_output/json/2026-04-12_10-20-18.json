@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-12 10:20:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A6MCohppnSuqi6eR0MOByiw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-12 10:20:18",
+      "pub_time": "2026-04-12 09:20:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump threatens Strait of Hormuz blockade after U.S.-Iran ceasefire talks end without agreement",
+      "article_headline": "Trump threatens Strait of Hormuz blockade after U.S.-Iran ceasefire talks end without agreement"
+    },
+    {
+      "link": "https://apple.news/AQjGp3unAT9a--oHPw6UB4g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-12 10:20:18",
+      "pub_time": "2026-04-12 09:20:46",
+      "publication": "The Washington Post",
+      "author": "Ellen Nakashima, Warren Strobel, and Noah Robertson",
+      "headline": "Powerful surveillance program faces obstacles as renewal deadline looms",
+      "article_headline": "Powerful surveillance program faces obstacles as renewal deadline looms"
+    },
+    {
+      "link": "https://apple.news/A5Echat53Tlm2dRUqHvLdjw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-12 10:20:18",
+      "pub_time": "2026-04-12 09:21:14",
+      "publication": "The 19th News",
+      "author": "Jasmine Mithani",
+      "headline": "Federal grants can save the lives of abuse victims. $200 million is sitting unspent.",
+      "article_headline": "Federal grants can save the lives of abuse victims. $200 million is sitting unspent."
+    },
+    {
+      "link": "https://apple.news/AyyQ_mc4vRxO_6CN97kd7zA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-12 10:20:18",
+      "pub_time": "2026-04-12 09:21:46",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Artemis II astronauts make emotional return to Houston",
+      "article_headline": "Artemis II astronauts make emotional return to Houston"
+    },
+    {
+      "link": "https://apple.news/At6kTbmMuRGKSzOT735_CRA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-12 10:20:18",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "How Rory McIlroy's Saturday stumble sets up a dramatic Sunday at the Masters",
+      "article_headline": "How Rory McIlroy's Saturday stumble sets up a dramatic Sunday at the Masters"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 10:20:18",
+      "pub_time": "2026-04-12 09:22:47",
+      "publication": "The Wall Street Journal",
+      "author": "Douglas Belkin",
+      "headline": "The small private colleges dying in a winner-take-all university marketplace",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ab9U2-yGbREaxCinCdo9how",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-12 10:20:18",
+      "pub_time": "",
+      "publication": "Why people are falling in love with AI chatbots",
+      "author": "",
+      "headline": "And what they actually want.,  Play Now  25 min",
+      "article_headline": ""
+    }
+  ]
+}
