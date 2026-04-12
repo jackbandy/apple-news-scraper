@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-12 00:20:20",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AIGsok2W8RCa1NBfyQuyfzA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-12 00:20:20",
+      "pub_time": "2026-04-11 23:20:22",
+      "publication": "Reuters",
+      "author": "Saad Sayeed and Asif Shahzad",
+      "headline": "US-Iran peace talks end without agreement, Vance leaves Pakistan",
+      "article_headline": "US-Iran peace talks end without agreement, Vance leaves Pakistan"
+    },
+    {
+      "link": "https://apple.news/AyyQ_mc4vRxO_6CN97kd7zA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-12 00:20:20",
+      "pub_time": "2026-04-11 23:20:49",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Artemis II astronauts make emotional return to Houston",
+      "article_headline": "Artemis II astronauts make emotional return to Houston"
+    },
+    {
+      "link": "https://apple.news/AQjGp3unAT9a--oHPw6UB4g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-12 00:20:20",
+      "pub_time": "2026-04-11 23:21:16",
+      "publication": "The Washington Post",
+      "author": "Ellen Nakashima, Warren Strobel, and Noah Robertson",
+      "headline": "Powerful surveillance program faces obstacles as renewal deadline looms",
+      "article_headline": "Powerful surveillance program faces obstacles as renewal deadline looms"
+    },
+    {
+      "link": "https://apple.news/AXUqqS4ZMTsO70Jj5pYPZUQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-12 00:20:20",
+      "pub_time": "2026-04-11 23:21:49",
+      "publication": "The Wall Street Journal",
+      "author": "Laura J. Nelson",
+      "headline": "Democrats pressure Swalwell to exit California governor’s race after allegations",
+      "article_headline": "Democrats pressure Swalwell to exit California governor’s race after allegations"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 00:20:20",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "Inside the Beckham family feud, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-12 00:20:20",
+      "pub_time": "",
+      "publication": "Why people are falling in love with AI chatbots",
+      "author": "",
+      "headline": "And what they actually want.,  Play Now  25 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AiXlDY86qRwy9plyKQ941-A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-12 00:20:20",
+      "pub_time": "2026-04-09 00:22:52",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Most Americans think Social Security is going broke. Is it?",
+      "article_headline": "Most Americans think Social Security is going broke. Is it?"
+    },
+    {
+      "link": "https://apple.news/AZGKdEdSWTX6acz-kOMEPVg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-12 00:20:20",
+      "pub_time": "2026-04-11 06:23:51",
+      "publication": "Women’s Health",
+      "author": "Korin Miller",
+      "headline": "This $16 Plant Could Remove Up to 90% of Toxins in Air",
+      "article_headline": "This $16 Plant Could Remove Up to 90% of Toxins in Air"
+    },
+    {
+      "link": "https://apple.news/A4CpOmb4xTH2CYydTJ5i73w",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-12 00:20:20",
+      "pub_time": "2026-04-11 06:24:19",
+      "publication": "Real Simple",
+      "author": "Lisa Milbrand",
+      "headline": "My Book Club Has Read Hundreds of Books—These Are the Ones We Can't Stop Raving About",
+      "article_headline": "My Book Club Has Read Hundreds of Books—These Are the Ones We Can't Stop Raving About"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-12 00:20:20",
+      "pub_time": "2026-04-11 00:24:46",
+      "publication": "",
+      "author": "Steve Midway",
+      "headline": "Cannabis may make you remember things that never happened",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AzLI8qKCjRTqVna0ePC8cQg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-12 00:20:20",
+      "pub_time": "2026-04-11 23:24:52",
+      "publication": "BuzzFeed",
+      "author": "Danielle Girard",
+      "headline": "I Found A Strange Charge On My Credit Card Bill. I Had No Idea It Would Cost Me My 30-Year Marriage.",
+      "article_headline": "I Found A Strange Charge On My Credit Card Bill. I Had No Idea It Would Cost Me My 30-Year Marriage."
+    }
+  ]
+}

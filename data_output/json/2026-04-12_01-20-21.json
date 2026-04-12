@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-12 01:20:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AIGsok2W8RCa1NBfyQuyfzA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-12 01:20:21",
+      "pub_time": "2026-04-11 23:20:23",
+      "publication": "Reuters",
+      "author": "Saad Sayeed and Asif Shahzad",
+      "headline": "US-Iran peace talks end without agreement, Vance leaves Pakistan",
+      "article_headline": "US-Iran peace talks end without agreement, Vance leaves Pakistan"
+    },
+    {
+      "link": "https://apple.news/AyyQ_mc4vRxO_6CN97kd7zA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-12 01:20:21",
+      "pub_time": "2026-04-11 23:20:50",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Artemis II astronauts make emotional return to Houston",
+      "article_headline": "Artemis II astronauts make emotional return to Houston"
+    },
+    {
+      "link": "https://apple.news/AQjGp3unAT9a--oHPw6UB4g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-12 01:20:21",
+      "pub_time": "2026-04-11 23:21:17",
+      "publication": "The Washington Post",
+      "author": "Ellen Nakashima, Warren Strobel, and Noah Robertson",
+      "headline": "Powerful surveillance program faces obstacles as renewal deadline looms",
+      "article_headline": "Powerful surveillance program faces obstacles as renewal deadline looms"
+    },
+    {
+      "link": "https://apple.news/AXUqqS4ZMTsO70Jj5pYPZUQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-12 01:20:21",
+      "pub_time": "2026-04-11 23:21:50",
+      "publication": "The Wall Street Journal",
+      "author": "Laura J. Nelson",
+      "headline": "Democrats pressure Swalwell to exit California governor’s race after allegations",
+      "article_headline": "Democrats pressure Swalwell to exit California governor’s race after allegations"
+    },
+    {
+      "link": "https://apple.news/At6kTbmMuRGKSzOT735_CRA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-12 01:20:21",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "How Rory McIlroy's Saturday stumble sets up a dramatic Sunday at the Masters",
+      "article_headline": "How Rory McIlroy's Saturday stumble sets up a dramatic Sunday at the Masters"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 01:20:21",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "Inside the Beckham family feud, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ab9U2-yGbREaxCinCdo9how",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-12 01:20:21",
+      "pub_time": "",
+      "publication": "Why people are falling in love with AI chatbots",
+      "author": "",
+      "headline": "And what they actually want.,  Play Now  25 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AzLI8qKCjRTqVna0ePC8cQg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-12 01:20:21",
+      "pub_time": "2026-04-11 23:24:03",
+      "publication": "BuzzFeed",
+      "author": "Danielle Girard",
+      "headline": "I Found A Strange Charge On My Credit Card Bill. I Had No Idea It Would Cost Me My 30-Year Marriage.",
+      "article_headline": "I Found A Strange Charge On My Credit Card Bill. I Had No Idea It Would Cost Me My 30-Year Marriage."
+    },
+    {
+      "link": "https://apple.news/A8Ut-1_cLRveVEddHMDr7ug",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-12 01:20:21",
+      "pub_time": "2026-04-11 06:24:37",
+      "publication": "HuffPost",
+      "author": "Catherine Pearson",
+      "headline": "Too Many Parents Fail To Teach Their Sons This Vital Skill — And The Consequences Are Dire.",
+      "article_headline": "Too Many Parents Fail To Teach Their Sons This Vital Skill — And The Consequences Are Dire."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-12 01:20:21",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Private Life of Prince Revealed in Rare Photos 10 Years After His Death, Apple News Plus, Angela Andaloro",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AsGh6IccATbSjnsDa8HhHsA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-12 01:20:21",
+      "pub_time": "2026-04-11 11:25:04",
+      "publication": "Travel + Leisure",
+      "author": "Lydia Mansel",
+      "headline": "This Western U.S. Canyon Is Deeper Than the Grand Canyon and Spans 2 States—and It Has Few Crowds and Stunning River Views",
+      "article_headline": "This Western U.S. Canyon Is Deeper Than the Grand Canyon and Spans 2 States—and It Has Few Crowds and Stunning River Views"
+    }
+  ]
+}

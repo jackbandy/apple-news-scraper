@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-12 03:40:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AIGsok2W8RCa1NBfyQuyfzA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-12 03:40:13",
+      "pub_time": "2026-04-11 23:40:15",
+      "publication": "Reuters",
+      "author": "Saad Sayeed, Asif Shahzad, and Mubasher Bukhari",
+      "headline": "US-Iran peace talks end without agreement, delegations leave Pakistan",
+      "article_headline": "US-Iran peace talks end without agreement, delegations leave Pakistan"
+    },
+    {
+      "link": "https://apple.news/AyyQ_mc4vRxO_6CN97kd7zA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-12 03:40:13",
+      "pub_time": "2026-04-11 23:40:42",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Artemis II astronauts make emotional return to Houston",
+      "article_headline": "Artemis II astronauts make emotional return to Houston"
+    },
+    {
+      "link": "https://apple.news/AQjGp3unAT9a--oHPw6UB4g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-12 03:40:13",
+      "pub_time": "2026-04-11 23:41:09",
+      "publication": "The Washington Post",
+      "author": "Ellen Nakashima, Warren Strobel, and Noah Robertson",
+      "headline": "Powerful surveillance program faces obstacles as renewal deadline looms",
+      "article_headline": "Powerful surveillance program faces obstacles as renewal deadline looms"
+    },
+    {
+      "link": "https://apple.news/AXUqqS4ZMTsO70Jj5pYPZUQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-12 03:40:13",
+      "pub_time": "2026-04-11 23:41:42",
+      "publication": "The Wall Street Journal",
+      "author": "Laura J. Nelson",
+      "headline": "Democrats pressure Swalwell to exit California governor’s race after allegations",
+      "article_headline": "Democrats pressure Swalwell to exit California governor’s race after allegations"
+    },
+    {
+      "link": "https://apple.news/At6kTbmMuRGKSzOT735_CRA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-12 03:40:13",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "How Rory McIlroy's Saturday stumble sets up a dramatic Sunday at the Masters",
+      "article_headline": "How Rory McIlroy's Saturday stumble sets up a dramatic Sunday at the Masters"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 03:40:13",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "Inside the Beckham family feud, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ab9U2-yGbREaxCinCdo9how",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-12 03:40:13",
+      "pub_time": "",
+      "publication": "Why people are falling in love with AI chatbots",
+      "author": "",
+      "headline": "And what they actually want.,  Play Now  25 min",
+      "article_headline": ""
+    }
+  ]
+}

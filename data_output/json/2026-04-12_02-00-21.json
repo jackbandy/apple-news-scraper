@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-12 02:00:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AIGsok2W8RCa1NBfyQuyfzA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-12 02:00:21",
+      "pub_time": "2026-04-12 00:00:23",
+      "publication": "Reuters",
+      "author": "Saad Sayeed, Asif Shahzad, and Mubasher Bukhari",
+      "headline": "US-Iran peace talks end without agreement, delegations leave Pakistan",
+      "article_headline": "US-Iran peace talks end without agreement, delegations leave Pakistan"
+    },
+    {
+      "link": "https://apple.news/AyyQ_mc4vRxO_6CN97kd7zA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-12 02:00:21",
+      "pub_time": "2026-04-12 00:00:50",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "Artemis II astronauts make emotional return to Houston",
+      "article_headline": "Artemis II astronauts make emotional return to Houston"
+    },
+    {
+      "link": "https://apple.news/AQjGp3unAT9a--oHPw6UB4g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-12 02:00:21",
+      "pub_time": "2026-04-12 00:01:17",
+      "publication": "The Washington Post",
+      "author": "Ellen Nakashima, Warren Strobel, and Noah Robertson",
+      "headline": "Powerful surveillance program faces obstacles as renewal deadline looms",
+      "article_headline": "Powerful surveillance program faces obstacles as renewal deadline looms"
+    },
+    {
+      "link": "https://apple.news/AXUqqS4ZMTsO70Jj5pYPZUQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-12 02:00:21",
+      "pub_time": "2026-04-12 00:01:51",
+      "publication": "The Wall Street Journal",
+      "author": "Laura J. Nelson",
+      "headline": "Democrats pressure Swalwell to exit California governor’s race after allegations",
+      "article_headline": "Democrats pressure Swalwell to exit California governor’s race after allegations"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 02:00:21",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "Inside the Beckham family feud, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ab9U2-yGbREaxCinCdo9how",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-12 02:00:21",
+      "pub_time": "",
+      "publication": "Why people are falling in love with AI chatbots",
+      "author": "",
+      "headline": "And what they actually want.,  Play Now  25 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/Ab9U2-yGbREaxCinCdo9how",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-12 02:00:21",
+      "pub_time": "",
+      "publication": "Why people are falling in love with AI chatbots",
+      "author": "",
+      "headline": "And what they actually want.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AfKKhj-j1S_GhbkNaQy8ksQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-12 02:00:21",
+      "pub_time": "2026-04-11 07:03:25",
+      "publication": "EatingWell",
+      "author": "Deborah Murphy, M.S., RDN",
+      "headline": "7 Medications That Don’t Mix Well With Coffee, According to a Pharmacist",
+      "article_headline": "7 Medications That Don’t Mix Well With Coffee, According to a Pharmacist"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-12 02:00:21",
+      "pub_time": "2026-04-11 23:03:52",
+      "publication": "",
+      "author": "Angelica Martinez",
+      "headline": "21 \"Dirty Secrets\" From Grocery Store Employees That Most Customers Don't Know",
+      "article_headline": ""
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-12 02:00:21",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Private Life of Prince Revealed in Rare Photos 10 Years After His Death, Apple News Plus, Angela Andaloro",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AJGmm7fZTQU-SbjqWrZHPRQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-12 02:00:21",
+      "pub_time": "2026-04-11 14:04:10",
+      "publication": "Martha Stewart",
+      "author": "Kate Donovan",
+      "headline": "6 Things Guests Notice the Second They Use Your Bathroom",
+      "article_headline": "6 Things Guests Notice the Second They Use Your Bathroom"
+    }
+  ]
+}
