@@ -36,7 +36,7 @@ function render() {
     const link = s.link
       ? `<a href="${s.link}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(displayHeadline)}</a>`
       : esc(displayHeadline) || '—';
-    const isEdited = s.section === 'top' && s.article_headline && s.headline !== s.article_headline;
+    const isEdited = s.section === 'top' && s.article_headline && s.headline !== s.article_headline && !s.headline.endsWith(s.article_headline);
     const editedBadge = isEdited ? ' <span class="badge-edited">edited</span>' : '';
     const labelBadge = s.label ? ` <span class="badge-label">${esc(s.label)}</span>` : '';
     tr.innerHTML = `

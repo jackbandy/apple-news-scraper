@@ -1,16 +1,15 @@
-const COVERAGE_SECTIONS = ['top', 'trending', 'reader_favorites', 'popular'];
+const COVERAGE_SECTIONS = ['top', 'trending', 'reader_favorites'];
 
 const COVERAGE_COL_LABELS = {
   date:             'Date / Time',
   top:              'Top',
   trending:         'Trending',
   reader_favorites: 'Favorites',
-  popular:          'News+',
 };
 
-const COVERAGE_COL_ORDER = ['date', 'top', 'trending', 'reader_favorites', 'popular'];
+const COVERAGE_COL_ORDER = ['date', 'top', 'trending', 'reader_favorites'];
 
-let cvSortDir = -1;  // -1 = descending (newest first), 1 = ascending
+let cvSortDir = 1;  // 1 = descending (newest first), -1 = ascending
 let cvJumpDate = '';
 let cvFilterSection = '';
 
@@ -47,7 +46,7 @@ function renderCoverageInner(sorted) {
 
   const hdrs = COVERAGE_COL_ORDER.map(col => {
     if (col === 'date') {
-      const arrow = cvSortDir === -1 ? ' ↓' : ' ↑';
+      const arrow = cvSortDir === 1 ? ' ↓' : ' ↑';
       return `<th class="cv2-th cv2-sorted" data-col="date">${COVERAGE_COL_LABELS.date}${arrow}</th>`;
     }
     const active = cvFilterSection === col;

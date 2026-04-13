@@ -199,6 +199,11 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
 function jumpFromCoverage(section, run) {
   filterRunTime = run;
   filterRunSection = section;
+  document.getElementById('filter-section').value = section;
+  document.getElementById('filter-pub').value = '';
+  document.getElementById('search').value = '';
+  document.getElementById('filter-edited').checked = false;
+  document.getElementById('filter-has-link').checked = false;
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
   document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
   document.querySelector('.tab-btn[data-tab="data-table"]').classList.add('active');

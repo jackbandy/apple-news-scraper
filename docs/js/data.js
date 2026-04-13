@@ -80,7 +80,7 @@ function populateFilters() {
 }
 
 // Labels/sources that Apple News appends after a comma at the end
-const TRAILING_LABELS_RE = /,\s*(MORE DETAILS|MORE COVERAGE|DEVELOPING STORY|BREAKING NEWS|WATCH LIVE|LIVE UPDATES?|APPLE NEWS PLUS)\s*$/gi;
+const TRAILING_LABELS_RE = /,\s*(MORE DETAILS|MORE COVERAGE|DEVELOPING STORY|BREAKING NEWS|WATCH LIVE|LIVE UPDATES?|APPLE NEWS PLUS|LIVE)\s*$/gi;
 
 function normalizeHeadlineWords(str) {
   return str
@@ -96,8 +96,14 @@ function stripAppleNewsExtras(headline, publication) {
   // Strip pipe or em/en-dash separated source: "Headline | Source" or "Headline — Source"
   h = h.replace(/\s*[|—–]\s*.+$/, '');
   // Strip leading source/label before comma: "CBS News, Headline" or "DEVELOPING, Headline"
-  // Matches a short title-case/all-caps label (≤40 chars) followed by ", " and a headline-start char
-  h = h.replace(/^[A-Z][A-Za-z\s.]{0,39},\s+(?=[A-Z0-9"'\u201c])/, '');
+  // Matches a short title-case/all-caps label (≤40 chars) followed by ", " and a headline-start char.
+  // Loop to handle multi-part prefixes like "Local News, Chicago, Headline".
+  const prefixRe = /^[A-Z][A-Za-z\s.]{0,39},\s+(?=[A-Z0-9"'\u201c])/;
+  for (let i = 0; i < 3; i++) {
+    const h2 = h.replace(prefixRe, '');
+    if (h2 === h) break;
+    h = h2;
+  }
   // Strip trailing label after comma: "Headline, MORE DETAILS"
   h = h.replace(TRAILING_LABELS_RE, '');
   // Strip the publication name if it appears at start or end (with optional comma)
@@ -130,7 +136,7 @@ function getFiltered() {
     if (section && s.section !== section) return false;
     if (pub     && s.publication !== pub) return false;
     if (q       && !`${s.headline} ${s.publication}`.toLowerCase().includes(q)) return false;
-    if (edited  && !(s.section === 'top' && s.article_headline && headlinesWordDiffer(s.headline, s.article_headline, s.publication))) return false;
+    if (edited  && !(s.section === 'top' && s.article_headline && s.headline !== s.article_headline && !s.headline.endsWith(s.article_headline))) return false;
     if (hasLink && !s.link) return false;
     if (dateDays.length) {
       const minDate = dateDays[dateMinIdx];

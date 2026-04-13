@@ -1,5 +1,5 @@
 function openModal(s) {
-  const isEdited = s.section === 'top' && s.article_headline && s.headline !== s.article_headline;
+  const isEdited = s.section === 'top' && s.article_headline && s.headline !== s.article_headline && !s.headline.endsWith(s.article_headline);
   document.getElementById('modal-headline').textContent = isEdited ? s.article_headline : (s.headline || '—');
   document.getElementById('modal-pub').textContent = s.publication || '';
 
