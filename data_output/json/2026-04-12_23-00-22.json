@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-04-12 23:00:22",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AHjZTFG0JTmuecgS9aiyo_w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-12 23:00:22",
+      "pub_time": "2026-04-12 22:44:24",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Mark Hodge, and Kayla Hayempour",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AP7tP4wHdQYKbn9kP1BzLGQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-12 23:00:22",
+      "pub_time": "2026-04-12 22:44:52",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations",
+      "article_headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations"
+    },
+    {
+      "link": "https://apple.news/AAzOA813BQYitQ5l4KW8Jzg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-12 23:00:22",
+      "pub_time": "2026-04-12 22:45:19",
+      "publication": "The Washington Post",
+      "author": "Susannah George, Natalie Allison, and Shaiq Hussain",
+      "headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
+      "article_headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal"
+    },
+    {
+      "link": "https://apple.news/AP7tP4wHdQYKbn9kP1BzLGQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-12 23:00:22",
+      "pub_time": "2026-04-12 22:44:51",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations",
+      "article_headline": "Eric Swalwell ends California governor campaign after investigation into sexual assault allegations"
+    },
+    {
+      "link": "https://apple.news/AAzOA813BQYitQ5l4KW8Jzg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-12 23:00:22",
+      "pub_time": "2026-04-12 22:45:18",
+      "publication": "The Washington Post",
+      "author": "Susannah George, Natalie Allison, and Shaiq Hussain",
+      "headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
+      "article_headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal"
+    },
+    {
+      "link": "https://apple.news/AWax3lG9zReedBeuslYZW1A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-12 23:00:22",
+      "pub_time": "2026-04-12 22:45:46",
+      "publication": "The Hill",
+      "author": "Tara Suter",
+      "headline": "U.S. military says 5 killed in Eastern Pacific boat strikes",
+      "article_headline": "U.S. military says 5 killed in Eastern Pacific boat strikes"
+    },
+    {
+      "link": "https://apple.news/AWax3lG9zReedBeuslYZW1A",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-12 23:00:22",
+      "pub_time": "2026-04-12 22:45:19",
+      "publication": "The Hill",
+      "author": "Tara Suter",
+      "headline": "U.S. military says 5 killed in Eastern Pacific boat strikes",
+      "article_headline": "U.S. military says 5 killed in Eastern Pacific boat strikes"
+    },
+    {
+      "link": "https://apple.news/AVLjH71K4T_SjfWEeBlBZrA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-12 23:00:22",
+      "pub_time": "2026-04-12 13:04:26",
+      "publication": "Southern Living",
+      "author": "Christine Fiorentino",
+      "headline": "Why You Should Wash Bananas As Soon As You Get Home (It Matters More Than You Think)",
+      "article_headline": "Why You Should Wash Bananas As Soon As You Get Home (It Matters More Than You Think)"
+    },
+    {
+      "link": "https://apple.news/Az4RXu5aySHe6uJkcuFuVdg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-12 23:00:22",
+      "pub_time": "2026-04-12 18:04:59",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "One dead and six wounded after mass shooting at Chick-fil-A in New Jersey",
+      "article_headline": "One dead and six wounded after mass shooting at Chick-fil-A in New Jersey"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-12 23:00:22",
+      "pub_time": "2026-04-12 07:05:27",
+      "publication": "",
+      "author": "Christina Manian, RDN",
+      "headline": "We Asked 3 Dietitians to Pick the Healthiest Sandwich Bread—and They All Chose the Same One",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aw17DgmyYSgC3yImUXphqxg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-12 23:00:22",
+      "pub_time": "2026-04-12 22:05:27",
+      "publication": "BuzzFeed",
+      "author": "Hannah Dobrogosz",
+      "headline": "29 Hilariously Clueless Coworkers Who Didn't Bring Their Brains To Work",
+      "article_headline": "29 Hilariously Clueless Coworkers Who Didn't Bring Their Brains To Work"
+    }
+  ]
+}

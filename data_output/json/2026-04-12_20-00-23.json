@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-12 20:00:23",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AHjZTFG0JTmuecgS9aiyo_w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-12 20:00:23",
+      "pub_time": "2026-04-12 19:55:25",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Mark Hodge, and Kayla Hayempour",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AxempadbUSaWQ3vV44YQHKw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-12 20:00:23",
+      "pub_time": "2026-04-12 19:55:53",
+      "publication": "The Wall Street Journal",
+      "author": "Vera Bergengruen, Shelby Holliday, and Georgi Kantchev",
+      "headline": "U.S. threat to blockade Hormuz sets up risky new showdown",
+      "article_headline": "U.S. threat to blockade Hormuz sets up risky new showdown"
+    },
+    {
+      "link": "https://apple.news/AqJnJ3DrCQBGQny2e7Kqq_w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-12 20:00:23",
+      "pub_time": "2026-04-12 19:56:20",
+      "publication": "Axios",
+      "author": "Andrew Solender",
+      "headline": "Eric Swalwell suspends campaign for California governor amid misconduct allegations",
+      "article_headline": "Eric Swalwell suspends campaign for California governor amid misconduct allegations"
+    },
+    {
+      "link": "https://apple.news/AxempadbUSaWQ3vV44YQHKw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-12 20:00:23",
+      "pub_time": "2026-04-12 19:55:53",
+      "publication": "The Wall Street Journal",
+      "author": "Vera Bergengruen, Shelby Holliday, and Georgi Kantchev",
+      "headline": "U.S. threat to blockade Hormuz sets up risky new showdown",
+      "article_headline": "U.S. threat to blockade Hormuz sets up risky new showdown"
+    },
+    {
+      "link": "https://apple.news/AqJnJ3DrCQBGQny2e7Kqq_w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-12 20:00:23",
+      "pub_time": "2026-04-12 19:56:20",
+      "publication": "Axios",
+      "author": "Andrew Solender",
+      "headline": "Eric Swalwell suspends campaign for California governor amid misconduct allegations",
+      "article_headline": "Eric Swalwell suspends campaign for California governor amid misconduct allegations"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 20:00:23",
+      "pub_time": "2026-04-12 19:56:48",
+      "publication": "Los Angeles Times",
+      "author": "Nabih Bulos",
+      "headline": "War has turned this African capital into a city of graves",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAnuDhu4XT8-Zq0bkjbgM8g",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-12 20:00:23",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Rory McIlroy becomes first golfer to win back-to-back Masters since Tiger Woods",
+      "article_headline": "Rory McIlroy wins Masters, becomes 4th to go back-to-back after Amen Corner rally"
+    }
+  ]
+}

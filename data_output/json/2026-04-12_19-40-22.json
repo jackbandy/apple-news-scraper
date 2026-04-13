@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-12 19:40:22",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AHjZTFG0JTmuecgS9aiyo_w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-12 19:40:22",
+      "pub_time": "2026-04-12 19:33:23",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Mark Hodge, and Kayla Hayempour",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AxempadbUSaWQ3vV44YQHKw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-12 19:40:22",
+      "pub_time": "2026-04-12 19:33:51",
+      "publication": "The Wall Street Journal",
+      "author": "Vera Bergengruen, Shelby Holliday, and Georgi Kantchev",
+      "headline": "U.S. threat to blockade Hormuz sets up risky new showdown",
+      "article_headline": "U.S. threat to blockade Hormuz sets up risky new showdown"
+    },
+    {
+      "link": "https://apple.news/A0wLwzngfShmAMzN3mTyzzw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-12 19:40:22",
+      "pub_time": "2026-04-12 19:34:18",
+      "publication": "POLITICO",
+      "author": "Cheyanne M. Daniels",
+      "headline": "Calls increase for expulsion of Reps. Swalwell and Gonzales over sexual abuse allegations",
+      "article_headline": "Calls increase for expulsion of Reps. Swalwell and Gonzales over sexual abuse allegations"
+    },
+    {
+      "link": "https://apple.news/AxempadbUSaWQ3vV44YQHKw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-12 19:40:22",
+      "pub_time": "2026-04-12 19:33:52",
+      "publication": "The Wall Street Journal",
+      "author": "Vera Bergengruen, Shelby Holliday, and Georgi Kantchev",
+      "headline": "U.S. threat to blockade Hormuz sets up risky new showdown",
+      "article_headline": "U.S. threat to blockade Hormuz sets up risky new showdown"
+    },
+    {
+      "link": "https://apple.news/A0wLwzngfShmAMzN3mTyzzw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-12 19:40:22",
+      "pub_time": "2026-04-12 19:34:19",
+      "publication": "POLITICO",
+      "author": "Cheyanne M. Daniels",
+      "headline": "Calls increase for expulsion of Reps. Swalwell and Gonzales over sexual abuse allegations",
+      "article_headline": "Calls increase for expulsion of Reps. Swalwell and Gonzales over sexual abuse allegations"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 19:40:22",
+      "pub_time": "2026-04-12 19:34:47",
+      "publication": "Los Angeles Times",
+      "author": "Nabih Bulos",
+      "headline": "War has turned this African capital into a city of graves",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 19:40:22",
+      "pub_time": "2026-04-12 19:33:52",
+      "publication": "Los Angeles Times",
+      "author": "Nabih Bulos",
+      "headline": "War has turned this African capital into a city of graves",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

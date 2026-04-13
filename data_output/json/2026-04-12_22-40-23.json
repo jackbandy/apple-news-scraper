@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-12 22:40:23",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AHjZTFG0JTmuecgS9aiyo_w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-12 22:40:23",
+      "pub_time": "2026-04-12 21:55:25",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Mark Hodge, and Kayla Hayempour",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AxempadbUSaWQ3vV44YQHKw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-12 22:40:23",
+      "pub_time": "2026-04-12 21:55:53",
+      "publication": "The Wall Street Journal",
+      "author": "Vera Bergengruen, Shelby Holliday, and Georgi Kantchev",
+      "headline": "U.S. threat to blockade Hormuz sets up risky new showdown",
+      "article_headline": "U.S. threat to blockade Hormuz sets up risky new showdown"
+    },
+    {
+      "link": "https://apple.news/A6x-G9f9iQhuRz6P6daTAIQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-12 22:40:23",
+      "pub_time": "2026-04-12 21:56:20",
+      "publication": "The Washington Post",
+      "author": "Amy B Wang and Liz Goodwin",
+      "headline": "Eric Swalwell suspends campaign for California governor amid growing rancor over sexual misconduct claims",
+      "article_headline": "Eric Swalwell suspends campaign for California governor amid growing rancor over sexual misconduct claims"
+    },
+    {
+      "link": "https://apple.news/AxempadbUSaWQ3vV44YQHKw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-12 22:40:23",
+      "pub_time": "2026-04-12 21:55:52",
+      "publication": "The Wall Street Journal",
+      "author": "Vera Bergengruen, Shelby Holliday, and Georgi Kantchev",
+      "headline": "U.S. threat to blockade Hormuz sets up risky new showdown",
+      "article_headline": "U.S. threat to blockade Hormuz sets up risky new showdown"
+    },
+    {
+      "link": "https://apple.news/A6x-G9f9iQhuRz6P6daTAIQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-12 22:40:23",
+      "pub_time": "2026-04-12 21:56:19",
+      "publication": "The Washington Post",
+      "author": "Amy B Wang and Liz Goodwin",
+      "headline": "Eric Swalwell suspends campaign for California governor amid growing rancor over sexual misconduct claims",
+      "article_headline": "Eric Swalwell suspends campaign for California governor amid growing rancor over sexual misconduct claims"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 22:40:23",
+      "pub_time": "2026-04-12 21:56:47",
+      "publication": "Los Angeles Times",
+      "author": "Nabih Bulos",
+      "headline": "War has turned this African capital into a city of graves",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 22:40:23",
+      "pub_time": "2026-04-12 21:55:52",
+      "publication": "Los Angeles Times",
+      "author": "Nabih Bulos",
+      "headline": "War has turned this African capital into a city of graves",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

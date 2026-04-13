@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-12 20:40:21",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AHjZTFG0JTmuecgS9aiyo_w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-12 20:40:21",
+      "pub_time": "2026-04-12 20:09:23",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Mark Hodge, and Kayla Hayempour",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AxempadbUSaWQ3vV44YQHKw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-12 20:40:21",
+      "pub_time": "2026-04-12 20:09:51",
+      "publication": "The Wall Street Journal",
+      "author": "Vera Bergengruen, Shelby Holliday, and Georgi Kantchev",
+      "headline": "U.S. threat to blockade Hormuz sets up risky new showdown",
+      "article_headline": "U.S. threat to blockade Hormuz sets up risky new showdown"
+    },
+    {
+      "link": "https://apple.news/AxempadbUSaWQ3vV44YQHKw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-12 20:40:21",
+      "pub_time": "2026-04-12 20:09:24",
+      "publication": "The Wall Street Journal",
+      "author": "Vera Bergengruen, Shelby Holliday, and Georgi Kantchev",
+      "headline": "U.S. threat to blockade Hormuz sets up risky new showdown",
+      "article_headline": "U.S. threat to blockade Hormuz sets up risky new showdown"
+    },
+    {
+      "link": "https://apple.news/A6x-G9f9iQhuRz6P6daTAIQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-12 20:40:21",
+      "pub_time": "2026-04-12 20:09:51",
+      "publication": "The Washington Post",
+      "author": "Amy B Wang and Liz Goodwin",
+      "headline": "BREAKING, Eric Swalwell suspends campaign for California governor amid growing rancor over sexual misconduct claims",
+      "article_headline": "Eric Swalwell suspends campaign for California governor amid growing rancor over sexual misconduct claims"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 20:40:21",
+      "pub_time": "2026-04-12 20:10:19",
+      "publication": "Los Angeles Times",
+      "author": "Nabih Bulos",
+      "headline": "War has turned this African capital into a city of graves",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A6x-G9f9iQhuRz6P6daTAIQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-12 20:40:21",
+      "pub_time": "2026-04-12 20:09:24",
+      "publication": "The Washington Post",
+      "author": "Amy B Wang and Liz Goodwin",
+      "headline": "BREAKING, Eric Swalwell suspends campaign for California governor amid growing rancor over sexual misconduct claims",
+      "article_headline": "Eric Swalwell suspends campaign for California governor amid growing rancor over sexual misconduct claims"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-12 20:40:21",
+      "pub_time": "2026-04-12 20:09:52",
+      "publication": "Los Angeles Times",
+      "author": "Nabih Bulos",
+      "headline": "War has turned this African capital into a city of graves",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Az4RXu5aySHe6uJkcuFuVdg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-12 20:40:21",
+      "pub_time": "2026-04-12 18:43:44",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "One dead and six wounded after mass shooting at Chick-fil-A in New Jersey",
+      "article_headline": "One dead and six wounded after mass shooting at Chick-fil-A in New Jersey"
+    },
+    {
+      "link": "https://apple.news/AVLjH71K4T_SjfWEeBlBZrA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-12 20:40:21",
+      "pub_time": "2026-04-12 12:44:11",
+      "publication": "Southern Living",
+      "author": "Christine Fiorentino",
+      "headline": "Why You Should Wash Bananas As Soon As You Get Home (It Matters More Than You Think)",
+      "article_headline": "Why You Should Wash Bananas As Soon As You Get Home (It Matters More Than You Think)"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-12 20:40:21",
+      "pub_time": "2026-04-12 06:44:39",
+      "publication": "",
+      "author": "Christina Manian, RDN",
+      "headline": "We Asked 3 Dietitians to Pick the Healthiest Sandwich Bread—and They All Chose the Same One",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AB5yOP7x-RG6N7tHDex90fQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-12 20:40:21",
+      "pub_time": "2026-04-12 18:44:46",
+      "publication": "TMZ",
+      "author": "TMZ Staff",
+      "headline": "Britney Spears in Rehab for Substance Abuse",
+      "article_headline": "Britney Spears in Rehab for Substance Abuse"
+    }
+  ]
+}
