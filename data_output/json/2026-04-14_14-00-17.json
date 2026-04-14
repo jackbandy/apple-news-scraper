@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-14 14:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ADZSnFLifQ4ChmJZ1oJlrFQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-14 14:00:17",
+      "pub_time": "2026-04-14 13:00:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Lebanon and Israel hold first direct diplomatic talks in decades in Washington",
+      "article_headline": "Lebanon and Israel hold first direct diplomatic talks in decades in Washington"
+    },
+    {
+      "link": "https://apple.news/AjKRxacPyRcOyT6UbI4_wjw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-14 14:00:17",
+      "pub_time": "",
+      "publication": "The Hill",
+      "author": "",
+      "headline": "GOP senators grow uncomfortable with Trump rhetoric",
+      "article_headline": "GOP senators grow uncomfortable with Trump rhetoric"
+    },
+    {
+      "link": "https://apple.news/A4yhcrqLtQ5aDfm9gMdBwUw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-14 14:00:17",
+      "pub_time": "2026-04-14 13:01:18",
+      "publication": "Reuters",
+      "author": "Helen Coster",
+      "headline": "Fifth woman alleges sexual misconduct by Rep. Eric Swalwell",
+      "article_headline": "Fifth woman alleges sexual misconduct by Rep. Eric Swalwell"
+    },
+    {
+      "link": "https://apple.news/AGc2KACy7S_WJO6WpvSk8vg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-14 14:00:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "“Nothing but tree skeletons”: Record-breaking wildfires devastate U.S. cattle country",
+      "article_headline": "“Nothing but tree skeletons”: Record-breaking wildfires devastate U.S. cattle country"
+    },
+    {
+      "link": "https://apple.news/AOaYN4k8LSSW7j6Q4Go0wUQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-14 14:00:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "WNBA draft picks are about to get paid like never before",
+      "article_headline": "WNBA draft picks are about to get paid like never before"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-14 14:00:17",
+      "pub_time": "2026-04-14 13:02:45",
+      "publication": "Bloomberg Businessweek",
+      "author": "Jo Constantz",
+      "headline": "Anxious parents are spending more than $50,000 to land their kid a job",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AihPRNyTtScqHVALMmNa19g",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-14 14:00:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Inflation has jumped. A blockade could push prices even higher.",
+      "article_headline": ""
+    }
+  ]
+}
