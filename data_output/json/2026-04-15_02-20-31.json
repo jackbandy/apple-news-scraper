@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-15 02:20:31",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A0XR4hKLLTo68lOPInpRg3A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 02:20:31",
+      "pub_time": "2026-04-15 00:20:33",
+      "publication": "CNBC",
+      "author": "Anniek Bao",
+      "headline": "U.S. says Hormuz blockade “fully implemented,” while signaling diplomatic off-ramp for Iran",
+      "article_headline": "U.S. says Hormuz blockade “fully implemented,” while signaling diplomatic off-ramp for Iran"
+    },
+    {
+      "link": "https://apple.news/AJPecfI4iTLuniuKOmu2tiQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 02:20:31",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Republicans move to fund Homeland Security “the hard way” after bipartisan negotiations stall",
+      "article_headline": "Republicans move to fund Homeland Security “the hard way” after bipartisan negotiations stall"
+    },
+    {
+      "link": "https://apple.news/AI_wxrWqRTRe-4Eta2ExiCA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 02:20:31",
+      "pub_time": "2026-04-15 00:21:33",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Caught in the crackdown: as arrests at anti-ICE protests piled up, prosecutions crumbled",
+      "article_headline": "Caught in the crackdown: as arrests at anti-ICE protests piled up, prosecutions crumbled"
+    },
+    {
+      "link": "https://apple.news/AVTQ4bdpAQlayomB3ZVMz6g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 02:20:31",
+      "pub_time": "2026-04-15 00:22:00",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "250 people missing after migrant boat sinks in Indian Ocean",
+      "article_headline": "250 people missing after migrant boat sinks in Indian Ocean"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 02:20:31",
+      "pub_time": "2026-04-15 00:22:32",
+      "publication": "Tampa Bay Times",
+      "author": "",
+      "headline": "Alligator Alcatraz phones were cut off. Then the beatings began, court documents say.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 02:20:31",
+      "pub_time": "2026-04-15 00:22:32",
+      "publication": "Bloomberg Businessweek",
+      "author": "Byard Duncan",
+      "headline": "The school-bus camera company blanketing America in tickets",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A1zeNP3lIQpG75MjwjgCynQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-15 02:20:31",
+      "pub_time": "2026-04-14 20:23:05",
+      "publication": "Entertainment Weekly",
+      "author": "Ryan Coleman",
+      "headline": "Howard Stern's ex-assistant wants millions from shock jock in lawsuit claiming hostile work environment",
+      "article_headline": "Howard Stern's ex-assistant wants millions from shock jock in lawsuit claiming hostile work environment"
+    }
+  ]
+}

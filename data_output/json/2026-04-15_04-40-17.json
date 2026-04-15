@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-15 04:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A0XR4hKLLTo68lOPInpRg3A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 04:40:17",
+      "pub_time": "2026-04-15 00:40:19",
+      "publication": "CNBC",
+      "author": "Anniek Bao",
+      "headline": "U.S. says Hormuz blockade “fully implemented,” while signaling diplomatic off-ramp for Iran",
+      "article_headline": "U.S. says Hormuz blockade “fully implemented,” while signaling diplomatic off-ramp for Iran"
+    },
+    {
+      "link": "https://apple.news/AJPecfI4iTLuniuKOmu2tiQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 04:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Republicans move to fund Homeland Security “the hard way” after bipartisan negotiations stall",
+      "article_headline": "Republicans move to fund Homeland Security “the hard way” after bipartisan negotiations stall"
+    },
+    {
+      "link": "https://apple.news/AI_wxrWqRTRe-4Eta2ExiCA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 04:40:17",
+      "pub_time": "2026-04-15 00:41:19",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Caught in the crackdown: as arrests at anti-ICE protests piled up, prosecutions crumbled",
+      "article_headline": "Caught in the crackdown: as arrests at anti-ICE protests piled up, prosecutions crumbled"
+    },
+    {
+      "link": "https://apple.news/AVTQ4bdpAQlayomB3ZVMz6g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 04:40:17",
+      "pub_time": "2026-04-15 00:41:46",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "250 people missing after migrant boat sinks in Indian Ocean",
+      "article_headline": "250 people missing after migrant boat sinks in Indian Ocean"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 04:40:17",
+      "pub_time": "2026-04-15 00:42:18",
+      "publication": "Tampa Bay Times",
+      "author": "",
+      "headline": "Alligator Alcatraz phones were cut off. Then the beatings began, court documents say.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 04:40:17",
+      "pub_time": "2026-04-15 00:42:18",
+      "publication": "Bloomberg Businessweek",
+      "author": "Byard Duncan",
+      "headline": "The school-bus camera company blanketing America in tickets",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/APWv2EfkWQsmmPXHQw8S0Jw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-15 04:40:17",
+      "pub_time": "2026-04-15 00:42:24",
+      "publication": "BuzzFeed",
+      "author": "Dave Stopera",
+      "headline": "50 Things Basically Every Person On Earth Has Experienced Once In Their Life But Never, Ever, Ever, Ever, Ever Talks About",
+      "article_headline": "50 Things Basically Every Person On Earth Has Experienced Once In Their Life But Never, Ever, Ever, Ever, Ever Talks About"
+    },
+    {
+      "link": "https://apple.news/AsONZUtb2QwGCwfcH5UZ4cg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-15 04:40:17",
+      "pub_time": "2026-04-14 12:42:51",
+      "publication": "Dwell",
+      "author": "Will Allstetter and Dwell",
+      "headline": "The Dining Room in This $4.8M Santa Fe Home Will Make Your Jaw Drop",
+      "article_headline": "The Dining Room in This $4.8M Santa Fe Home Will Make Your Jaw Drop"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-15 04:40:17",
+      "pub_time": "2026-04-14 07:43:26",
+      "publication": "",
+      "author": "Alison Fox",
+      "headline": "These Are the 11 Most Stressful Airports in the U.S., According to a Study",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AKnC8FnK9RlaNuIsK1u1CMQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-15 04:40:17",
+      "pub_time": "2026-04-14 17:43:26",
+      "publication": "Money",
+      "author": "Marc Guberti",
+      "headline": "5 Little-Known Rules That Can Increase Your Social Security Payments",
+      "article_headline": "5 Little-Known Rules That Can Increase Your Social Security Payments"
+    },
+    {
+      "link": "https://apple.news/ATt1n_bHXTRS87_T_4VQ8Lw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-15 04:40:17",
+      "pub_time": "2026-04-15 03:45:23",
+      "publication": "POLITICO",
+      "author": "Nick Reisman",
+      "headline": "Kathy Hochul’s ICE guardrails have flipped the script for Democrats",
+      "article_headline": "Kathy Hochul’s ICE guardrails have flipped the script for Democrats"
+    }
+  ]
+}
