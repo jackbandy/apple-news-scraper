@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-04-15 16:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A442_UWHjQam3ZFDb_vKj4w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 16:00:16",
+      "pub_time": "",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Senate rejects fourth attempt to curb Trump’s war powers in Iran",
+      "article_headline": "Senate rejects fourth attempt to curb Trump’s war powers in Iran"
+    },
+    {
+      "link": "https://apple.news/Av7Zm37RCRCitqn4jbnJZ7Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 16:00:16",
+      "pub_time": "",
+      "publication": "The Hollywood Reporter",
+      "author": "",
+      "headline": "Live Nation loses bombshell monopoly lawsuit, promising shake-up for live music",
+      "article_headline": "Live Nation Loses Jury Trial to States In Monopoly Case"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 16:00:16",
+      "pub_time": "2026-04-15 15:01:18",
+      "publication": "The Wall Street Journal",
+      "author": "Nick Timiraos",
+      "headline": "Trump’s Fed chair pick is caught in an unprecedented standoff",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AF1GkV_Q5RWOILn4-psBLzg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 16:00:16",
+      "pub_time": "2026-04-15 15:01:18",
+      "publication": "AccuWeather",
+      "author": "",
+      "headline": "Summerlike heat, then a painful reality check: Record-challenging temperatures to give way to cold snap",
+      "article_headline": "Summerlike heat, then a painful reality check: Record-challenging temperatures to give way to cold snap"
+    },
+    {
+      "link": "https://apple.news/ACgwqUOVtR3KPJXA_AcpLlQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 16:00:16",
+      "pub_time": "2026-04-15 15:01:51",
+      "publication": "KOCO",
+      "author": "Jason Burger",
+      "headline": "Oklahoma high-school principal hailed a hero after being shot while tackling gunman",
+      "article_headline": "Oklahoma high-school principal hailed a hero after being shot while tackling gunman"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 16:00:16",
+      "pub_time": "2026-04-15 15:02:18",
+      "publication": "The Atlantic",
+      "author": "Andrew Moseman",
+      "headline": "A new kind of hybrid car is about to hit America’s streets",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 16:00:16",
+      "pub_time": "2026-04-15 08:02:44",
+      "publication": "Popular Mechanics",
+      "author": "Darren Orf",
+      "headline": "Two Men Stole a Glowing Blue Cylinder in an Abandoned Hospital—and Unleashed a Nuclear Nightmare",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADfLckJLLSpWcfsKJVeqkzQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-15 16:00:16",
+      "pub_time": "2026-04-15 07:03:01",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "A New Nasal Spray Appeared To Reverse Brain Ageing In 'Weeks'",
+      "article_headline": "A New Nasal Spray Appeared To Reverse Brain Ageing In 'Weeks'"
+    },
+    {
+      "link": "https://apple.news/A5DTozoOQSayMdhF0Rygwsw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-15 16:00:16",
+      "pub_time": "2026-04-15 09:03:28",
+      "publication": "Martha Stewart",
+      "author": "Alexandra Kelly",
+      "headline": "Antique Experts Say These 8 Items Just Aren’t Worth Buying Anymore",
+      "article_headline": "Antique Experts Say These 8 Items Just Aren’t Worth Buying Anymore"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-15 16:00:16",
+      "pub_time": "2026-04-14 16:04:01",
+      "publication": "",
+      "author": "Michael Natale",
+      "headline": "Archaeologists Found a 2,000-Year-Old Garden Beneath a Church. It May Be the Site of Jesus’s Tomb.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ay1O8aonJQHWq737-sjz1yg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-15 16:00:16",
+      "pub_time": "2026-04-15 12:04:01",
+      "publication": "Marie Claire",
+      "author": "Kristin Contino",
+      "headline": "Kensington Palace Announces Princess Kate and Princess Anne Are Joining Forces",
+      "article_headline": "Kensington Palace Announces Princess Kate and Princess Anne Are Joining Forces"
+    }
+  ]
+}

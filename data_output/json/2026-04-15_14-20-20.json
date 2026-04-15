@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-15 14:20:20",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A442_UWHjQam3ZFDb_vKj4w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 14:20:20",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Senate rejects fourth attempt to curb Trump’s war powers in Iran, MORE DETAILS",
+      "article_headline": "Senate rejects fourth attempt to curb Trump’s war powers in Iran"
+    },
+    {
+      "link": "https://apple.news/AnhqFncScRWaJMb8yVEmU3A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 14:20:20",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Live Nation illegally monopolized ticketing market, jury in antitrust trial finds",
+      "article_headline": "Live Nation illegally monopolized ticketing market, jury in antitrust trial finds"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 14:20:20",
+      "pub_time": "2026-04-15 14:14:21",
+      "publication": "The Wall Street Journal",
+      "author": "Nick Timiraos",
+      "headline": "Trump’s Fed chair pick is caught in an unprecedented standoff",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 14:20:20",
+      "pub_time": "2026-04-15 14:13:27",
+      "publication": "The Wall Street Journal",
+      "author": "Nick Timiraos",
+      "headline": "Trump’s Fed chair pick is caught in an unprecedented standoff",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A8_vASd79R6Khn3WGN1xZZA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 14:20:20",
+      "pub_time": "2026-04-15 14:13:27",
+      "publication": "FOX Weather",
+      "author": "Olivia Stephens",
+      "headline": "Triple threat of tornadoes, hail, and wind could impact 34 million people across 1,000 miles",
+      "article_headline": "Triple threat of tornadoes, hail, and wind could impact 34 million people across 1,000 miles"
+    },
+    {
+      "link": "https://apple.news/ACgwqUOVtR3KPJXA_AcpLlQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 14:20:20",
+      "pub_time": "2026-04-15 14:13:54",
+      "publication": "KOCO",
+      "author": "Jason Burger",
+      "headline": "Oklahoma high-school principal hailed a hero after being shot while tackling gunman",
+      "article_headline": "Oklahoma high-school principal hailed a hero after being shot while tackling gunman"
+    },
+    {
+      "link": "https://apple.news/A8_vASd79R6Khn3WGN1xZZA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-15 14:20:20",
+      "pub_time": "2026-04-15 14:13:27",
+      "publication": "FOX Weather",
+      "author": "Olivia Stephens",
+      "headline": "Triple threat of tornadoes, hail, and wind could impact 34 million people across 1,000 miles",
+      "article_headline": "Triple threat of tornadoes, hail, and wind could impact 34 million people across 1,000 miles"
+    },
+    {
+      "link": "https://apple.news/ADfLckJLLSpWcfsKJVeqkzQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-15 14:20:20",
+      "pub_time": "2026-04-15 07:23:33",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "A New Nasal Spray Appeared To Reverse Brain Ageing In 'Weeks'",
+      "article_headline": "A New Nasal Spray Appeared To Reverse Brain Ageing In 'Weeks'"
+    },
+    {
+      "link": "https://apple.news/AUA4DSr8fRzO9V9JBrWDUYg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-15 14:20:20",
+      "pub_time": "2026-04-15 05:24:00",
+      "publication": "Southern Living",
+      "author": "Betsy Cribb Watson",
+      "headline": "4 Costly Home Improvements That Won’t Pay Off When You Sell, According To A Realtor",
+      "article_headline": "4 Costly Home Improvements That Won’t Pay Off When You Sell, According To A Realtor"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-15 14:20:20",
+      "pub_time": "2026-04-14 14:24:27",
+      "publication": "",
+      "author": "Nicholas G. Miller",
+      "headline": "Flimsier Cabinets and Fewer Windows: Home Builders Are Skimping on the Basics",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A-e8IVpF1TbmggjyXeiHmkA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-15 14:20:20",
+      "pub_time": "2026-04-15 08:24:34",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Watch small but feisty house cat scare away two bears",
+      "article_headline": "Watch small but feisty house cat scare away two bears"
+    }
+  ]
+}

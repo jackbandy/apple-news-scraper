@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-15 15:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A442_UWHjQam3ZFDb_vKj4w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 15:40:17",
+      "pub_time": "",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Senate rejects fourth attempt to curb Trump’s war powers in Iran",
+      "article_headline": "Senate rejects fourth attempt to curb Trump’s war powers in Iran"
+    },
+    {
+      "link": "https://apple.news/Av7Zm37RCRCitqn4jbnJZ7Q",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 15:40:17",
+      "pub_time": "",
+      "publication": "The Hollywood Reporter",
+      "author": "",
+      "headline": "Live Nation loses bombshell monopoly lawsuit, promising shake-up for live music",
+      "article_headline": "Live Nation loses bombshell monopoly lawsuit, promising shake-up for live music"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 15:40:17",
+      "pub_time": "2026-04-15 14:59:19",
+      "publication": "The Wall Street Journal",
+      "author": "Nick Timiraos",
+      "headline": "Trump’s Fed chair pick is caught in an unprecedented standoff",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AF1GkV_Q5RWOILn4-psBLzg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 15:40:17",
+      "pub_time": "2026-04-15 14:59:19",
+      "publication": "AccuWeather",
+      "author": "",
+      "headline": "Summerlike heat, then a painful reality check: Record-challenging temperatures to give way to cold snap",
+      "article_headline": "Summerlike heat, then a painful reality check: Record-challenging temperatures to give way to cold snap"
+    },
+    {
+      "link": "https://apple.news/ACgwqUOVtR3KPJXA_AcpLlQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 15:40:17",
+      "pub_time": "2026-04-15 14:59:51",
+      "publication": "KOCO",
+      "author": "Jason Burger",
+      "headline": "Oklahoma high-school principal hailed a hero after being shot while tackling gunman",
+      "article_headline": "Oklahoma high-school principal hailed a hero after being shot while tackling gunman"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 15:40:17",
+      "pub_time": "2026-04-15 15:00:18",
+      "publication": "The Atlantic",
+      "author": "Andrew Moseman",
+      "headline": "A new kind of hybrid car is about to hit America’s streets",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ACgwqUOVtR3KPJXA_AcpLlQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-15 15:40:17",
+      "pub_time": "2026-04-15 14:59:24",
+      "publication": "KOCO",
+      "author": "Jason Burger",
+      "headline": "Oklahoma high-school principal hailed a hero after being shot while tackling gunman",
+      "article_headline": "Oklahoma high-school principal hailed a hero after being shot while tackling gunman"
+    }
+  ]
+}
