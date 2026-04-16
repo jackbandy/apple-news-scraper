@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-15 20:20:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AyC41eOKmTBqUoxShS-hzhQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 20:20:17",
+      "pub_time": "2026-04-15 19:20:18",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "U.S. optimistic of deal with Iran as it increases economic pressure, MORE DETAILS",
+      "article_headline": "U.S. optimistic of deal with Iran as it increases economic pressure"
+    },
+    {
+      "link": "https://apple.news/AP-i-rqEeTK6G4kjftgVSNw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 20:20:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Trump threatens to fire Fed chair as criminal probe muddies Powell’s departure",
+      "article_headline": "Trump threatens to fire Fed chair as criminal probe muddies Powell’s departure"
+    },
+    {
+      "link": "https://apple.news/Av7Zm37RCRCitqn4jbnJZ7Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 20:20:17",
+      "pub_time": "",
+      "publication": "The Hollywood Reporter",
+      "author": "",
+      "headline": "Live Nation loses bombshell monopoly lawsuit, promising shake-up for live music",
+      "article_headline": "Live Nation Loses Jury Trial to States In Monopoly Case"
+    },
+    {
+      "link": "https://apple.news/AJPpHdTzBTXy6jgxj6qa_iw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 20:20:17",
+      "pub_time": "2026-04-15 19:21:50",
+      "publication": "Los Angeles Times",
+      "author": "Ian James",
+      "headline": "A gas that causes climate change is bubbling out of reservoirs",
+      "article_headline": "A gas that causes climate change is bubbling out of reservoirs"
+    },
+    {
+      "link": "https://apple.news/AThq4nM76QA-BLpISimA6hA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-15 20:20:17",
+      "pub_time": "2026-04-15 19:22:18",
+      "publication": "NPR",
+      "author": "Stephan Bisaha",
+      "headline": "Tax season was supposed to bring big refunds. So far they’re less than expected.",
+      "article_headline": "Tax season was supposed to bring big refunds. So far they’re less than expected."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 20:20:17",
+      "pub_time": "",
+      "publication": "Scientific American",
+      "author": "",
+      "headline": "How doctors uncovered the hidden cause of heart disease, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADfLckJLLSpWcfsKJVeqkzQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-15 20:20:17",
+      "pub_time": "2026-04-15 07:22:57",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "A New Nasal Spray Appeared To Reverse Brain Ageing In 'Weeks'",
+      "article_headline": "A New Nasal Spray Appeared To Reverse Brain Ageing In 'Weeks'"
+    },
+    {
+      "link": "https://apple.news/AYPgdbFQ1RVWYXUQ-DWEjKQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-15 20:20:17",
+      "pub_time": "2026-04-15 10:23:24",
+      "publication": "BuzzFeed",
+      "author": "Brian Galindo",
+      "headline": "People Reveal The Everyday Things They Stopped Buying Because They Have Gotten So Ridiculously Expensive",
+      "article_headline": "People Reveal The Everyday Things They Stopped Buying Because They Have Gotten So Ridiculously Expensive"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-15 20:20:17",
+      "pub_time": "2026-04-14 20:23:51",
+      "publication": "",
+      "author": "Michael Natale",
+      "headline": "Archaeologists Found a 2,000-Year-Old Garden Beneath a Church. It May Be the Site of Jesus’s Tomb.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AUA4DSr8fRzO9V9JBrWDUYg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-15 20:20:17",
+      "pub_time": "2026-04-15 05:23:58",
+      "publication": "Southern Living",
+      "author": "Betsy Cribb Watson",
+      "headline": "4 Costly Home Improvements That Won’t Pay Off When You Sell, According To A Realtor",
+      "article_headline": "4 Costly Home Improvements That Won’t Pay Off When You Sell, According To A Realtor"
+    },
+    {
+      "link": "https://apple.news/ANHR1cAUXRD2LbKzDepZ7lg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-15 20:20:17",
+      "pub_time": "2026-04-15 19:24:52",
+      "publication": "Axios",
+      "author": "Marc Caputo",
+      "headline": "Scoop: Trump discussed \"Jesus\" meme with Bill Pulte before posting it, sources say",
+      "article_headline": "Scoop: Trump discussed \"Jesus\" meme with Bill Pulte before posting it, sources say"
+    }
+  ]
+}

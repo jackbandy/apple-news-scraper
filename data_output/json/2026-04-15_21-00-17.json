@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-15 21:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ATQZCYF3VTb6M5EzDw8_new",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 21:00:17",
+      "pub_time": "2026-04-15 20:47:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Pakistani delegation meets in Tehran hoping for more U.S.-Iran talks before ceasefire ends, MORE DETAILS",
+      "article_headline": "Pakistani delegation meets in Tehran hoping for more U.S.-Iran talks before ceasefire ends"
+    },
+    {
+      "link": "https://apple.news/AIFWT6YT5SaWrgFSyFEQuug",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 21:00:17",
+      "pub_time": "2026-04-15 20:47:50",
+      "publication": "The 19th News",
+      "author": "Grace Panetta",
+      "headline": "On Capitol Hill, survivors push for change as Congress confronts its own misconduct",
+      "article_headline": "On Capitol Hill, survivors push for change as Congress confronts its own misconduct"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 21:00:17",
+      "pub_time": "2026-04-15 20:48:17",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "In the nation’s only ICE family detention center, one family has been locked up for 10 months",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AIFWT6YT5SaWrgFSyFEQuug",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 21:00:17",
+      "pub_time": "2026-04-15 20:47:22",
+      "publication": "The 19th News",
+      "author": "Grace Panetta",
+      "headline": "On Capitol Hill, survivors push for change as Congress confronts its own misconduct",
+      "article_headline": "On Capitol Hill, survivors push for change as Congress confronts its own misconduct"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 21:00:17",
+      "pub_time": "2026-04-15 20:47:50",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "In the nation’s only ICE family detention center, one family has been locked up for 10 months",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AASCkgExlQ8aiUAGmPHuY0g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-15 21:00:17",
+      "pub_time": "2026-04-15 20:47:50",
+      "publication": "The Wall Street Journal",
+      "author": "James Romoser",
+      "headline": "Supreme Court Justice Sotomayor issues public apology to Justice Kavanaugh",
+      "article_headline": "Supreme Court Justice Sotomayor Issues Public Apology to Kavanaugh"
+    },
+    {
+      "link": "https://apple.news/AJPpHdTzBTXy6jgxj6qa_iw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-15 21:00:17",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "A gas that causes climate change is bubbling out of reservoirs",
+      "article_headline": "A gas that causes climate change is bubbling out of reservoirs"
+    }
+  ]
+}

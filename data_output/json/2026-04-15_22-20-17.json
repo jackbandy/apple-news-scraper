@@ -1,0 +1,87 @@
+{
+  "run_time": "2026-04-15 22:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ATQZCYF3VTb6M5EzDw8_new",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-15 22:20:17",
+      "pub_time": "2026-04-15 21:38:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Pakistani delegation meets in Tehran hoping for more U.S.-Iran talks before ceasefire ends",
+      "article_headline": "Pakistani delegation meets in Tehran hoping for more U.S.-Iran talks before ceasefire ends"
+    },
+    {
+      "link": "https://apple.news/ATZLvVGX0Sz-xcjw4BvmVXA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-15 22:20:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Bernie Sanders’ effort to block U.S. weapons sales to Israel fails in Senate",
+      "article_headline": "Bernie Sanders’ effort to block U.S. weapons sales to Israel fails in Senate"
+    },
+    {
+      "link": "https://apple.news/AIFWT6YT5SaWrgFSyFEQuug",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-15 22:20:17",
+      "pub_time": "2026-04-15 21:38:18",
+      "publication": "The 19th News",
+      "author": "Grace Panetta",
+      "headline": "On Capitol Hill, survivors push for change as Congress confronts its own misconduct",
+      "article_headline": "On Capitol Hill, survivors push for change as Congress confronts its own misconduct"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 22:20:17",
+      "pub_time": "2026-04-15 21:38:45",
+      "publication": "The Wall Street Journal",
+      "author": "James Romoser",
+      "headline": "Supreme Court Justice Sotomayor issues public apology to Justice Kavanaugh",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 22:20:17",
+      "pub_time": "2026-04-15 21:38:51",
+      "publication": "Houston Chronicle",
+      "author": "",
+      "headline": "In the nation’s only ICE family detention center, one family has been locked up for 10 months",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 22:20:17",
+      "pub_time": "",
+      "publication": "Scientific American",
+      "author": "",
+      "headline": "How doctors uncovered the hidden cause of heart disease, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-15 22:20:17",
+      "pub_time": "2026-04-15 21:30:24",
+      "publication": "Apple News Plus",
+      "author": "Annie Blackman",
+      "headline": "InStyle, Oprah Taught Me How to Turn a Basic Matching Set Into a Chic Outfit—Get Her Look From $8",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
