@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-16 14:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AKSnY4m2QQmWjAOTeokVwfQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-16 14:00:17",
+      "pub_time": "2026-04-16 13:28:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israel’s Netanyahu says he agrees to a 10-day ceasefire in Lebanon",
+      "article_headline": "Israel's Netanyahu says he agrees to a 10-day ceasefire in Lebanon"
+    },
+    {
+      "link": "https://apple.news/AuIRojfTrTDi2NJ23LZQIUA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-16 14:00:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "House effort to end Trump’s war with Iran fails by one vote",
+      "article_headline": "House effort to end Trump’s war with Iran fails by one vote"
+    },
+    {
+      "link": "https://apple.news/AV9X53pjxQ4Ws-Y_QaISsGw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-16 14:00:17",
+      "pub_time": "2026-04-16 13:28:19",
+      "publication": "Virginia Mercury",
+      "author": "Markus Schmidt",
+      "headline": "Former Virginia lieutenant governor kills wife then himself, police say",
+      "article_headline": "Former Virginia Lt. Gov. Justin Fairfax kills wife, then himself, police say"
+    },
+    {
+      "link": "https://apple.news/AHVfPdF5ZTnKhZVwzWxXEWA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-16 14:00:17",
+      "pub_time": "2026-04-16 13:28:46",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Jonathan Edwards",
+      "headline": "Federal judge sets new limits on Trump ballroom construction",
+      "article_headline": "Federal judge sets new limits on Trump ballroom construction"
+    },
+    {
+      "link": "https://apple.news/AV9X53pjxQ4Ws-Y_QaISsGw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-16 14:00:17",
+      "pub_time": "2026-04-16 13:28:20",
+      "publication": "Virginia Mercury",
+      "author": "Markus Schmidt",
+      "headline": "Former Virginia lieutenant governor kills wife then himself, police say",
+      "article_headline": "Former Virginia Lt. Gov. Justin Fairfax kills wife, then himself, police say"
+    },
+    {
+      "link": "https://apple.news/AHVfPdF5ZTnKhZVwzWxXEWA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-16 14:00:17",
+      "pub_time": "2026-04-16 13:28:46",
+      "publication": "The Washington Post",
+      "author": "Dan Diamond and Jonathan Edwards",
+      "headline": "Federal judge sets new limits on Trump ballroom construction",
+      "article_headline": "Federal judge sets new limits on Trump ballroom construction"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-16 14:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "They sold their careers to LIV Golf. These players have no idea what’s next.",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

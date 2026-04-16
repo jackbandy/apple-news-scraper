@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-16 15:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AKSnY4m2QQmWjAOTeokVwfQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-16 15:00:17",
+      "pub_time": "2026-04-16 14:08:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Israel’s Netanyahu says he agrees to a 10-day ceasefire in Lebanon",
+      "article_headline": "Israel's Netanyahu says he agrees to a 10-day ceasefire in Lebanon"
+    },
+    {
+      "link": "https://apple.news/AuIRojfTrTDi2NJ23LZQIUA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-16 15:00:17",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "House effort to end Trump’s war with Iran fails by one vote",
+      "article_headline": "House effort to end Trump’s war with Iran fails by one vote"
+    },
+    {
+      "link": "https://apple.news/AV9X53pjxQ4Ws-Y_QaISsGw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-16 15:00:17",
+      "pub_time": "2026-04-16 14:07:19",
+      "publication": "Virginia Mercury",
+      "author": "Markus Schmidt",
+      "headline": "Former Virginia lieutenant governor kills wife then himself, police say",
+      "article_headline": "Former Virginia Lt. Gov. Justin Fairfax kills wife, then himself, police say"
+    },
+    {
+      "link": "https://apple.news/AXqwxp959R2OW0Gv0A6ixnA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-16 15:00:17",
+      "pub_time": "2026-04-16 14:07:46",
+      "publication": "The Wall Street Journal",
+      "author": "Victoria Albert",
+      "headline": "ICE agent faces rare criminal charge for pointing gun at Minnesota motorist",
+      "article_headline": "ICE agent faces rare criminal charge for pointing gun at Minnesota motorist"
+    },
+    {
+      "link": "https://apple.news/AV9X53pjxQ4Ws-Y_QaISsGw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-16 15:00:17",
+      "pub_time": "2026-04-16 14:07:20",
+      "publication": "Virginia Mercury",
+      "author": "Markus Schmidt",
+      "headline": "Former Virginia lieutenant governor kills wife then himself, police say",
+      "article_headline": "Former Virginia Lt. Gov. Justin Fairfax kills wife, then himself, police say"
+    },
+    {
+      "link": "https://apple.news/AXqwxp959R2OW0Gv0A6ixnA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-16 15:00:17",
+      "pub_time": "2026-04-16 14:07:47",
+      "publication": "The Wall Street Journal",
+      "author": "Victoria Albert",
+      "headline": "ICE agent faces rare criminal charge for pointing gun at Minnesota motorist",
+      "article_headline": "ICE agent faces rare criminal charge for pointing gun at Minnesota motorist"
+    },
+    {
+      "link": "https://apple.news/AbPsufU87RAeKB5NYTZcz2g",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-16 15:00:17",
+      "pub_time": "2026-04-16 14:08:14",
+      "publication": "Fox News",
+      "author": "Breanne Deppisch",
+      "headline": "Judge orders Trump to halt White House ballroom construction, escalating legal feud",
+      "article_headline": "Judge orders Trump to halt White House ballroom construction, escalating legal feud"
+    }
+  ]
+}
