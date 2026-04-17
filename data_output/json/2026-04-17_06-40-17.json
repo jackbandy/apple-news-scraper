@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-17 06:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ARVyhkavvT4yzyAj64m3UVg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-17 06:40:17",
+      "pub_time": "2026-04-17 06:18:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "A 10-day ceasefire in Lebanon goes into effect and appears to hold",
+      "article_headline": "A 10-day ceasefire in Lebanon goes into effect"
+    },
+    {
+      "link": "https://apple.news/A4x84-95dTrq4jtt9eZNMAQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-17 06:40:17",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "House punts spy-powers fight for 2 weeks after GOP revolt",
+      "article_headline": "House punts spy-powers fight for 2 weeks after GOP revolt"
+    },
+    {
+      "link": "https://apple.news/A5eIbUdTqT6GSAXpEStE4Yw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-17 06:40:17",
+      "pub_time": "2026-04-17 06:18:18",
+      "publication": "Reuters",
+      "author": "Ngouda Dione and Joshua McElwee",
+      "headline": "600,000 expected in Cameroon for biggest Mass of Pope Leo’s tour of Africa",
+      "article_headline": "600,000 expected in Cameroon for biggest Mass of Pope Leo’s tour of Africa"
+    },
+    {
+      "link": "https://apple.news/AyKaswzLfRsyUxeTVv_t5YQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-17 06:40:17",
+      "pub_time": "2026-04-17 06:18:45",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "A Grand Canyon mystery may have just been solved",
+      "article_headline": "A Grand Canyon mystery may have just been solved"
+    },
+    {
+      "link": "https://apple.news/A5eIbUdTqT6GSAXpEStE4Yw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-17 06:40:17",
+      "pub_time": "2026-04-17 06:18:20",
+      "publication": "Reuters",
+      "author": "Ngouda Dione and Joshua McElwee",
+      "headline": "600,000 expected in Cameroon for biggest Mass of Pope Leo’s tour of Africa",
+      "article_headline": "600,000 expected in Cameroon for biggest Mass of Pope Leo’s tour of Africa"
+    },
+    {
+      "link": "https://apple.news/AyKaswzLfRsyUxeTVv_t5YQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-17 06:40:17",
+      "pub_time": "2026-04-17 06:18:46",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "A Grand Canyon mystery may have just been solved",
+      "article_headline": "A Grand Canyon mystery may have just been solved"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-17 06:40:17",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "The internet’s most-powerful archiving tool is in peril",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

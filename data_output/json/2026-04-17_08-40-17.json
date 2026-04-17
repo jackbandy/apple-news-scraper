@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-17 08:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Alr_v_y2UTiqmyx1azIg7Ew",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-17 08:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Oil prices dive after Iran, Trump say Strait of Hormuz is open, LIVE",
+      "article_headline": "Oil Prices Dive After Iran Says Strait Is Open"
+    },
+    {
+      "link": "https://apple.news/A4x84-95dTrq4jtt9eZNMAQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-17 08:40:17",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "House punts spy-powers fight for 2 weeks after GOP revolt",
+      "article_headline": "House punts spy-powers fight for 2 weeks after GOP revolt"
+    },
+    {
+      "link": "https://apple.news/A5eIbUdTqT6GSAXpEStE4Yw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-17 08:40:17",
+      "pub_time": "2026-04-17 08:30:18",
+      "publication": "Reuters",
+      "author": "Ngouda Dione and Joshua McElwee",
+      "headline": "600,000 expected in Cameroon for biggest Mass of Pope Leo’s tour of Africa",
+      "article_headline": "600,000 expected in Cameroon for biggest Mass of Pope Leo’s tour of Africa"
+    },
+    {
+      "link": "https://apple.news/AyKaswzLfRsyUxeTVv_t5YQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-17 08:40:17",
+      "pub_time": "2026-04-17 08:30:45",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "A Grand Canyon mystery may have just been solved",
+      "article_headline": "A Grand Canyon mystery may have just been solved"
+    },
+    {
+      "link": "https://apple.news/A5eIbUdTqT6GSAXpEStE4Yw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-17 08:40:17",
+      "pub_time": "2026-04-17 08:30:18",
+      "publication": "Reuters",
+      "author": "Ngouda Dione and Joshua McElwee",
+      "headline": "600,000 expected in Cameroon for biggest Mass of Pope Leo’s tour of Africa",
+      "article_headline": "600,000 expected in Cameroon for biggest Mass of Pope Leo’s tour of Africa"
+    },
+    {
+      "link": "https://apple.news/AyKaswzLfRsyUxeTVv_t5YQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-17 08:40:17",
+      "pub_time": "2026-04-17 08:30:45",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "A Grand Canyon mystery may have just been solved",
+      "article_headline": "A Grand Canyon mystery may have just been solved"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-17 08:40:17",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "The internet’s most-powerful archiving tool is in peril",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aow4rj8IiQN67hpJ5S1qk0g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-17 08:40:17",
+      "pub_time": "2026-04-16 20:43:23",
+      "publication": "TheStreet",
+      "author": "Jeffrey Quiggle",
+      "headline": "Fidelity, Fed raise red flags on 401(k)s, IRAs",
+      "article_headline": "Fidelity, Fed raise red flags on 401(k)s, IRAs"
+    },
+    {
+      "link": "https://apple.news/AgVViZ6z9RXCwmjC1zqrNkA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-17 08:40:17",
+      "pub_time": "2026-04-16 12:43:50",
+      "publication": "CBS News",
+      "author": "Matt Richardson",
+      "headline": "$12,000 CD vs. $12,000 high-yield savings vs. $12,000 money market account: Here's which will earn the most now",
+      "article_headline": "$12,000 CD vs. $12,000 high-yield savings vs. $12,000 money market account: Here's which will earn the most now"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-17 08:40:17",
+      "pub_time": "2026-04-17 08:31:18",
+      "publication": "",
+      "author": "Ariana Eunjung Cha",
+      "headline": "What is ‘Ozempic personality,’ and why does it make life feel ‘meh’?",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-17 08:40:17",
+      "pub_time": "2026-04-17 08:30:24",
+      "publication": "",
+      "author": "Ariana Eunjung Cha",
+      "headline": "What is ‘Ozempic personality,’ and why does it make life feel ‘meh’?",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
