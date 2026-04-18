@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-18 12:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AbmMismdnRAqkJ_ibepM0xw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-18 12:20:17",
+      "pub_time": "2026-04-18 12:15:19",
+      "publication": "CNBC",
+      "author": "Azhar Sukri, Spencer Kimball, and Terri Cullen",
+      "headline": "Iran says Strait of Hormuz is closed again as vessel comes under gunfire",
+      "article_headline": "Iran says Strait of Hormuz is closed again as vessel comes under gunfire"
+    },
+    {
+      "link": "https://apple.news/A_AtiBCGUSL6lXHj3q6h_kQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-18 12:20:17",
+      "pub_time": "2026-04-18 12:15:47",
+      "publication": "STAT",
+      "author": "Daniel Payne",
+      "headline": "How Trump is pushing psychedelics reform through the health agencies",
+      "article_headline": "How Trump is pushing psychedelics reform through the health agencies"
+    },
+    {
+      "link": "https://apple.news/A_AtiBCGUSL6lXHj3q6h_kQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-18 12:20:17",
+      "pub_time": "2026-04-18 12:15:19",
+      "publication": "STAT",
+      "author": "Daniel Payne",
+      "headline": "How Trump is pushing psychedelics reform through the health agencies",
+      "article_headline": "How Trump is pushing psychedelics reform through the health agencies"
+    },
+    {
+      "link": "https://apple.news/Alkqzsw2rSJmzQQWhGx6YSQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-18 12:20:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Anthropic CEO visits White House amid hacking fears over new AI model",
+      "article_headline": "Anthropic CEO visits White House amid hacking fears over new AI model"
+    },
+    {
+      "link": "https://apple.news/AFx94LFClT1mC_kCWsJGgkw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-18 12:20:17",
+      "pub_time": "2026-04-18 12:16:13",
+      "publication": "The Weather Channel",
+      "author": "",
+      "headline": "Multiple tornadoes tore through the Midwest, causing damage in more than a half dozen states",
+      "article_headline": "Multiple tornadoes tore through the Midwest, causing damage in more than a half dozen states"
+    },
+    {
+      "link": "https://apple.news/AFx94LFClT1mC_kCWsJGgkw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-18 12:20:17",
+      "pub_time": "2026-04-18 12:15:47",
+      "publication": "The Weather Channel",
+      "author": "",
+      "headline": "Multiple tornadoes tore through the Midwest, causing damage in more than a half dozen states",
+      "article_headline": "Multiple tornadoes tore through the Midwest, causing damage in more than a half dozen states"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 12:20:17",
+      "pub_time": "",
+      "publication": "Rolling Stone",
+      "author": "",
+      "headline": "Madonna, Sabrina Carpenter make Coachella history with ‘Vogue’ and ‘Like a Prayer’ duets",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

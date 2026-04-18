@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-18 16:40:20",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AbmMismdnRAqkJ_ibepM0xw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-18 16:40:20",
+      "pub_time": "2026-04-18 15:40:22",
+      "publication": "CNBC",
+      "author": "Azhar Sukri, Spencer Kimball, and Terri Cullen",
+      "headline": "Iran says Strait of Hormuz is closed again as vessels come under fire",
+      "article_headline": "Iran says Strait of Hormuz is closed again as vessels come under fire"
+    },
+    {
+      "link": "https://apple.news/AzuA7xD29R4mPDGJ1W0dKBA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-18 16:40:20",
+      "pub_time": "2026-04-18 15:40:50",
+      "publication": "The Times of London",
+      "author": "",
+      "headline": "At least 6 dead in a mass shooting in Kyiv; gunman killed after taking hostages in a supermarket",
+      "article_headline": "At least 6 dead in a mass shooting in Kyiv; gunman killed after taking hostages in a supermarket"
+    },
+    {
+      "link": "https://apple.news/A_AtiBCGUSL6lXHj3q6h_kQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-18 16:40:20",
+      "pub_time": "",
+      "publication": "STAT",
+      "author": "",
+      "headline": "How Trump is pushing psychedelics reform through the health agencies",
+      "article_headline": "How Trump is pushing psychedelics reform through the health agencies"
+    },
+    {
+      "link": "https://apple.news/AXqFBIOYgSyewObgIWKslPQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-18 16:40:20",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "Live updates from the 2026 NCAA gymnastics championship final",
+      "article_headline": "Live updates from the 2026 NCAA gymnastics championship final"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 16:40:20",
+      "pub_time": "",
+      "publication": "Rolling Stone",
+      "author": "",
+      "headline": "Madonna, Sabrina Carpenter make Coachella history with ‘Vogue’ and ‘Like a Prayer’ duets",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 16:40:20",
+      "pub_time": "",
+      "publication": "Bloomberg Businessweek",
+      "author": "",
+      "headline": "These Gen Z founders’ first job? Building a company to replace office workers., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AnfwwCggzQGWMKFrkiGXTMw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-18 16:40:20",
+      "pub_time": "",
+      "publication": "The surprising gift of nostalgia",
+      "author": "",
+      "headline": "How to make this feeling your psychological superpower.,  Play Now  27 min",
+      "article_headline": ""
+    }
+  ]
+}

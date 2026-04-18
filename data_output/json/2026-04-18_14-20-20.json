@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-18 14:20:20",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AbmMismdnRAqkJ_ibepM0xw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-18 14:20:20",
+      "pub_time": "2026-04-18 13:26:22",
+      "publication": "CNBC",
+      "author": "Azhar Sukri, Spencer Kimball, and Terri Cullen",
+      "headline": "Iran says Strait of Hormuz is closed again as vessels come under fire",
+      "article_headline": "Iran says Strait of Hormuz is closed again as vessels come under fire"
+    },
+    {
+      "link": "https://apple.news/AzuA7xD29R4mPDGJ1W0dKBA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-18 14:20:20",
+      "pub_time": "2026-04-18 13:26:49",
+      "publication": "The Times of London",
+      "author": "",
+      "headline": "At least 6 dead in a mass shooting in Kyiv; gunman killed after taking hostages in a supermarket",
+      "article_headline": "At least 6 dead in a mass shooting in Kyiv; gunman killed after taking hostages in a supermarket"
+    },
+    {
+      "link": "https://apple.news/AzuA7xD29R4mPDGJ1W0dKBA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-18 14:20:20",
+      "pub_time": "2026-04-18 13:26:22",
+      "publication": "The Times of London",
+      "author": "",
+      "headline": "At least 6 dead in a mass shooting in Kyiv; gunman killed after taking hostages in a supermarket",
+      "article_headline": "At least 6 dead in a mass shooting in Kyiv; gunman killed after taking hostages in a supermarket"
+    },
+    {
+      "link": "https://apple.news/A_AtiBCGUSL6lXHj3q6h_kQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-18 14:20:20",
+      "pub_time": "",
+      "publication": "STAT",
+      "author": "",
+      "headline": "How Trump is pushing psychedelics reform through the health agencies",
+      "article_headline": "How Trump is pushing psychedelics reform through the health agencies"
+    },
+    {
+      "link": "https://apple.news/Alkqzsw2rSJmzQQWhGx6YSQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-18 14:20:20",
+      "pub_time": "2026-04-18 13:27:18",
+      "publication": "The Washington Post",
+      "author": "Ian Duncan and Cat Zakrzewski",
+      "headline": "Anthropic CEO visits White House amid hacking fears over new AI model",
+      "article_headline": "Anthropic CEO visits White House amid hacking fears over new AI model"
+    },
+    {
+      "link": "https://apple.news/Alkqzsw2rSJmzQQWhGx6YSQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-18 14:20:20",
+      "pub_time": "2026-04-18 13:26:52",
+      "publication": "The Washington Post",
+      "author": "Ian Duncan and Cat Zakrzewski",
+      "headline": "Anthropic CEO visits White House amid hacking fears over new AI model",
+      "article_headline": "Anthropic CEO visits White House amid hacking fears over new AI model"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 14:20:20",
+      "pub_time": "",
+      "publication": "Rolling Stone",
+      "author": "",
+      "headline": "Madonna, Sabrina Carpenter make Coachella history with ‘Vogue’ and ‘Like a Prayer’ duets",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AJQHXqqnARkSzTl9DwArYHA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-18 14:20:20",
+      "pub_time": "2026-04-18 10:23:32",
+      "publication": "HuffPost",
+      "author": "Kelsey Borresen",
+      "headline": "Phrases Your Adult Children Are Desperate To Hear From You",
+      "article_headline": "Phrases Your Adult Children Are Desperate To Hear From You"
+    },
+    {
+      "link": "https://apple.news/Ari7SI6gKQ_6mNf6AQt67Mg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-18 14:20:20",
+      "pub_time": "2026-04-18 09:23:59",
+      "publication": "Martha Stewart",
+      "author": "Ashley Poskin",
+      "headline": "4 Valuable Things People Accidentally Donate, According to a Pro Thrift Shopper",
+      "article_headline": "4 Valuable Things People Accidentally Donate, According to a Pro Thrift Shopper"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-18 14:20:20",
+      "pub_time": "2026-04-17 14:24:26",
+      "publication": "",
+      "author": "Gabriela Garcia",
+      "headline": "I Struggle With Plantar Fasciitis—These Are the 7 Supportive Shoes a Podiatrist Told Me to Wear This Spring",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ab0AqNjozTy25ncSicapB8w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-18 14:20:20",
+      "pub_time": "2026-04-18 07:24:32",
+      "publication": "Vogue",
+      "author": "Faye Remedios",
+      "headline": "This Hair Color Trend Makes It Easy To Embrace Your Grays",
+      "article_headline": "This Hair Color Trend Makes It Easy To Embrace Your Grays"
+    }
+  ]
+}
