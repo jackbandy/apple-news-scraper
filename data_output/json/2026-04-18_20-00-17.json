@@ -1,0 +1,73 @@
+{
+  "run_time": "2026-04-18 20:00:17",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/A8fPNxgKKSNOzMtH862h-Yg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-18 20:00:17",
+      "pub_time": "2026-04-18 18:00:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran fully closes Strait of Hormuz over U.S. blockade and fires on ships",
+      "article_headline": "Iran fully closes Strait of Hormuz over U.S. blockade and fires on ships"
+    },
+    {
+      "link": "https://apple.news/ADKTNNTrORc6vVDEDoqNUqQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-18 20:00:17",
+      "pub_time": "2026-04-18 18:00:46",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "Record U.S. drought sparks fears about wildfires, water, and food prices",
+      "article_headline": "Record U.S. drought sparks fears about wildfires, water, and food prices"
+    },
+    {
+      "link": "https://apple.news/AORoL2sRVTA-6p9NF-5-kQQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-18 20:00:17",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Homeland Security Secretary Mullin faces criticism on both sides less than a month into tenure",
+      "article_headline": "Homeland Security Secretary Mullin faces criticism on both sides less than a month into tenure"
+    },
+    {
+      "link": "https://apple.news/AXqFBIOYgSyewObgIWKslPQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-18 20:00:17",
+      "pub_time": "",
+      "publication": "ESPN",
+      "author": "",
+      "headline": "2026 NCAA gymnastics championships: Oklahoma wins the national title",
+      "article_headline": "2026 NCAA gymnastics championships: Oklahoma wins the national title"
+    },
+    {
+      "link": "https://apple.news/ABa21Yj7RR5ORXLbvtjsFgw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-18 20:00:17",
+      "pub_time": "2026-04-18 18:02:19",
+      "publication": "TIME",
+      "author": "",
+      "headline": "Here’s how to best watch the Lyrid meteor shower",
+      "article_headline": "Here’s how to best watch the Lyrid meteor shower"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-18 20:00:17",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "A completely scientific, totally exhaustive search for America’s best free restaurant bread , Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
