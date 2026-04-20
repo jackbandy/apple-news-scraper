@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-19 23:00:22",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A_4pU3hswSeiBgPvxm8vLsg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-19 23:00:22",
+      "pub_time": "2026-04-19 22:52:24",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Kayla Hayempour, and Jeremy Mikula",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/A14e1j87xTsmEX6gGhz4-ew",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-19 23:00:22",
+      "pub_time": "2026-04-19 22:52:52",
+      "publication": "Reuters",
+      "author": "Daphne Psaledakis, Trevor Hunnicutt, and Saad Sayeed",
+      "headline": "U.S. seizes Iranian cargo ship, Tehran vows to retaliate",
+      "article_headline": "US seizes Iranian cargo ship, Tehran vows to retaliate"
+    },
+    {
+      "link": "https://apple.news/A14e1j87xTsmEX6gGhz4-ew",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-19 23:00:22",
+      "pub_time": "2026-04-19 22:52:24",
+      "publication": "Reuters",
+      "author": "Daphne Psaledakis, Trevor Hunnicutt, and Saad Sayeed",
+      "headline": "U.S. seizes Iranian cargo ship, Tehran vows to retaliate",
+      "article_headline": "US seizes Iranian cargo ship, Tehran vows to retaliate"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-19 23:00:22",
+      "pub_time": "2026-04-19 22:52:51",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley",
+      "headline": "In red states, anti-immigrant bills are failing as businesses push back",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AZlqG0ylbTnq94vSQlesekQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-19 23:00:22",
+      "pub_time": "2026-04-19 22:52:51",
+      "publication": "The Detroit News",
+      "author": "",
+      "headline": "Department of Justice demands Detroit-area paper ballots from the 2024 election",
+      "article_headline": "Trump's Department of Justice demands Wayne County's 2024 ballots"
+    },
+    {
+      "link": "https://apple.news/AZlqG0ylbTnq94vSQlesekQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-19 23:00:22",
+      "pub_time": "2026-04-19 22:53:18",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Global travel is surging, but tourists aren’t coming to the U.S.",
+      "article_headline": "Trump's Department of Justice demands Wayne County's 2024 ballots"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-19 23:00:22",
+      "pub_time": "2026-04-19 22:52:51",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley",
+      "headline": "In red states, anti-immigrant bills are failing as businesses push back",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/At1PHkuq8RL-e8tcyBL46zQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-19 23:00:22",
+      "pub_time": "2026-04-19 06:03:37",
+      "publication": "HuffPost",
+      "author": "Julia Ries Wexler",
+      "headline": "This Beloved Beverage Is Being Linked To Colorectal Cancer. Here's What Doctors Want You To Know.",
+      "article_headline": "This Beloved Beverage Is Being Linked To Colorectal Cancer. Here's What Doctors Want You To Know."
+    },
+    {
+      "link": "https://apple.news/AvBPVz6CRQsu5-QTOMWaTDQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-19 23:00:22",
+      "pub_time": "2026-04-19 16:04:04",
+      "publication": "People",
+      "author": "Lexi Lane",
+      "headline": "Grandmother Turns Tables on Scammer Asking for $5,000 to Save Grandson from Jail",
+      "article_headline": "Grandmother Turns Tables on Scammer Asking for $5,000 to Save Grandson from Jail"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-19 23:00:22",
+      "pub_time": "2026-04-18 23:04:31",
+      "publication": "",
+      "author": "Wesley Stenzel",
+      "headline": "Cher says son Elijah Blue Allman is 'gravely disabled' as she files for conservatorship after his arrests",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ALGJWwjmjQjWi9r3X0olj-g",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-19 23:00:22",
+      "pub_time": "2026-04-19 21:04:38",
+      "publication": "BuzzFeed",
+      "author": "Haein Jung",
+      "headline": "22 Of The Most Jaw-Dropping Things People Have Seen With Their Own Eyes, That Literally Have Me Questioning Reality",
+      "article_headline": "22 Of The Most Jaw-Dropping Things People Have Seen With Their Own Eyes, That Literally Have Me Questioning Reality"
+    }
+  ]
+}

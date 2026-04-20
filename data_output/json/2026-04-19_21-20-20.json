@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-19 21:20:20",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A_4pU3hswSeiBgPvxm8vLsg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-19 21:20:20",
+      "pub_time": "2026-04-19 21:05:21",
+      "publication": "NBC News",
+      "author": "Amina Kilpatrick, Kayla Hayempour, and Jeremy Mikula",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/A14e1j87xTsmEX6gGhz4-ew",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-19 21:20:20",
+      "pub_time": "2026-04-19 21:05:50",
+      "publication": "Reuters",
+      "author": "Daphne Psaledakis, Trevor Hunnicutt, and Saad Sayeed",
+      "headline": "U.S. seizes Iranian cargo ship, Tehran vows to retaliate",
+      "article_headline": "US seizes Iranian cargo ship, Tehran vows to retaliate"
+    },
+    {
+      "link": "https://apple.news/A14e1j87xTsmEX6gGhz4-ew",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-19 21:20:20",
+      "pub_time": "2026-04-19 21:05:22",
+      "publication": "Reuters",
+      "author": "Daphne Psaledakis, Trevor Hunnicutt, and Saad Sayeed",
+      "headline": "U.S. seizes Iranian cargo ship, Tehran vows to retaliate",
+      "article_headline": "US seizes Iranian cargo ship, Tehran vows to retaliate"
+    },
+    {
+      "link": "https://apple.news/AZlqG0ylbTnq94vSQlesekQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-19 21:20:20",
+      "pub_time": "",
+      "publication": "The Detroit News",
+      "author": "",
+      "headline": "Department of Justice demands Detroit-area paper ballots from the 2024 election",
+      "article_headline": "Trump's Department of Justice demands Wayne County's 2024 ballots"
+    },
+    {
+      "link": "https://apple.news/AWTEORfwGRCSkZoolCWraDg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-19 21:20:20",
+      "pub_time": "2026-04-19 21:06:16",
+      "publication": "NPR",
+      "author": "Chandelis Duster",
+      "headline": "Communities launch cleanup after severe weather and tornadoes churn across Midwest",
+      "article_headline": "Communities launch cleanup after severe weather and tornadoes churn across Midwest"
+    },
+    {
+      "link": "https://apple.news/AWTEORfwGRCSkZoolCWraDg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-19 21:20:20",
+      "pub_time": "2026-04-19 21:05:49",
+      "publication": "NPR",
+      "author": "Chandelis Duster",
+      "headline": "Communities launch cleanup after severe weather and tornadoes churn across Midwest",
+      "article_headline": "Communities launch cleanup after severe weather and tornadoes churn across Midwest"
+    },
+    {
+      "link": "https://apple.news/A-9qNdagRSaSxXoLwdm3rjA",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-19 21:20:20",
+      "pub_time": "2026-04-19 21:06:16",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Global travel is surging, but tourists aren’t coming to the U.S.",
+      "article_headline": "Global travel is surging, but tourists aren’t coming to the U.S."
+    }
+  ]
+}
