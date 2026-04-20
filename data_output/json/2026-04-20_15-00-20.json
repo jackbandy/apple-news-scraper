@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-20 15:00:20",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A0hIoFfFmTzKLG_sDvaydzQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 15:00:20",
+      "pub_time": "2026-04-20 14:00:22",
+      "publication": "The Washington Post",
+      "author": "Susannah George and Sammy Westfall",
+      "headline": "Iran talks on shaky footing after U.S. seizure of ship in Strait of Hormuz",
+      "article_headline": "Iran talks on shaky footing after U.S. seizure of ship in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AprmGSVniSI-vgOGfbDYRBQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 15:00:20",
+      "pub_time": "2026-04-20 14:00:50",
+      "publication": "Yahoo News",
+      "author": "Dylan Stableford",
+      "headline": "As police seek answers, details emerge about Louisiana gunman who killed 8 children",
+      "article_headline": "As police seek answers, details emerge about Louisiana gunman who killed 8 children"
+    },
+    {
+      "link": "https://apple.news/A-D8jWv43Rnq6iLpD1MZDYg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 15:00:20",
+      "pub_time": "",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump tariff refunds begin, but consumers likely to miss out",
+      "article_headline": "Trump tariff refunds begin, but consumers likely to miss out"
+    },
+    {
+      "link": "https://apple.news/A3dRmf7rJRKSY1SNNGo2-Uw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 15:00:20",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Singer D4vd charged with murder in death of 14-year-old Celeste Rivas Hernandez",
+      "article_headline": "Singer D4vd charged with murder in slaying of 14-year-old Celeste Rivas Hernandez"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 15:00:20",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "John Korir, Sharon Lokedi win Boston Marathon for back-to-back men’s and women’s titles",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 15:00:20",
+      "pub_time": "2026-04-20 14:02:23",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Why so many people are leaving California — and what happens when they move",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AoWzdxcYzSgWmKBFUlimjoQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-20 15:00:20",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Trump wanted peace talks. Now the U.S. has seized an Iranian ship.",
+      "article_headline": ""
+    }
+  ]
+}

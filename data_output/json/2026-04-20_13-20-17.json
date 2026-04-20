@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-20 13:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A0hIoFfFmTzKLG_sDvaydzQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 13:20:17",
+      "pub_time": "2026-04-20 12:20:19",
+      "publication": "The Washington Post",
+      "author": "Sammy Westfall and Susannah George",
+      "headline": "Iran talks on shaky footing after U.S. seizure of ship in Strait of Hormuz",
+      "article_headline": "Iran talks on shaky footing after U.S. seizure of ship in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AprmGSVniSI-vgOGfbDYRBQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 13:20:17",
+      "pub_time": "2026-04-20 12:20:47",
+      "publication": "Yahoo News",
+      "author": "Dylan Stableford",
+      "headline": "As police seek answers, details emerge about Louisiana gunman who killed 8 children",
+      "article_headline": "As police seek answers, details emerge about Louisiana gunman who killed 8 children"
+    },
+    {
+      "link": "https://apple.news/A-D8jWv43Rnq6iLpD1MZDYg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 13:20:17",
+      "pub_time": "",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump tariff refunds begin, but consumers likely to miss out",
+      "article_headline": "Trump tariff refunds begin, but consumers likely to miss out"
+    },
+    {
+      "link": "https://apple.news/AEh0Qe1DHTu6vuPZxQfSYkw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 13:20:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "FBI Director Kash Patel sues The Atlantic, claiming false reporting about drinking, absences",
+      "article_headline": "FBI Director Kash Patel sues The Atlantic, claiming false reporting about drinking, absences"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 13:20:17",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "D4vd charged with murder in slaying of 14-year-old Celeste Rivas Hernandez",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 13:20:17",
+      "pub_time": "2026-04-20 12:22:20",
+      "publication": "The Washington Post",
+      "author": "Clara Ence Morse and Gregory S. Schneider",
+      "headline": "Largely secret donors pour millions into election that could tip Congress",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AoWzdxcYzSgWmKBFUlimjoQ",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-20 13:20:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Trump wanted peace talks. Now the U.S. has seized an Iranian ship.",
+      "article_headline": ""
+    }
+  ]
+}

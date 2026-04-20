@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-20 15:20:23",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A0hIoFfFmTzKLG_sDvaydzQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 15:20:23",
+      "pub_time": "2026-04-20 15:15:25",
+      "publication": "The Washington Post",
+      "author": "Susannah George and Sammy Westfall",
+      "headline": "Iran talks on shaky footing after U.S. seizure of ship in Strait of Hormuz",
+      "article_headline": "Iran talks on shaky footing after U.S. seizure of ship in Strait of Hormuz"
+    },
+    {
+      "link": "https://apple.news/AcS9YZky3QiqYE4detCNBfg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 15:20:23",
+      "pub_time": "2026-04-20 15:15:53",
+      "publication": "NBC News",
+      "author": "Minyvonne Burke",
+      "headline": "What to know about the Louisiana rampage that left 8 children dead and 2 women injured",
+      "article_headline": "What to know about the Louisiana rampage that left 8 children dead and 2 women injured"
+    },
+    {
+      "link": "https://apple.news/AcS9YZky3QiqYE4detCNBfg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 15:20:23",
+      "pub_time": "2026-04-20 15:15:26",
+      "publication": "NBC News",
+      "author": "Minyvonne Burke",
+      "headline": "What to know about the Louisiana rampage that left 8 children dead and 2 women injured",
+      "article_headline": "What to know about the Louisiana rampage that left 8 children dead and 2 women injured"
+    },
+    {
+      "link": "https://apple.news/AygN8VZOcSSm-ue5tueeTDg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 15:20:23",
+      "pub_time": "",
+      "publication": "Bloomberg",
+      "author": "",
+      "headline": "As measles takes a toll on kids, many anti-vaxxers have change of heart",
+      "article_headline": "As measles takes a toll on kids, many anti-vaxxers have change of heart"
+    },
+    {
+      "link": "https://apple.news/A3dRmf7rJRKSY1SNNGo2-Uw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-20 15:20:23",
+      "pub_time": "",
+      "publication": "Los Angeles Times",
+      "author": "",
+      "headline": "Singer D4vd charged with murder in death of 14-year-old Celeste Rivas Hernandez",
+      "article_headline": "Singer D4vd charged with murder in slaying of 14-year-old Celeste Rivas Hernandez"
+    },
+    {
+      "link": "https://apple.news/Aolno8bdmTdaPjj9DafE1oQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-20 15:20:23",
+      "pub_time": "2026-04-20 15:15:54",
+      "publication": "The Weather Channel",
+      "author": "",
+      "headline": "A “megaquake” warning was issued in Japan — but what is a megaquake?",
+      "article_headline": "A “megaquake” warning was issued in Japan — but what is a megaquake?"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 15:20:23",
+      "pub_time": "2026-04-20 15:15:21",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Why so many people are leaving California — and what happens when they move",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
