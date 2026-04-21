@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-21 03:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Alo_iN79XRZef-1h_cehitw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-21 03:00:17",
+      "pub_time": "2026-04-21 00:00:19",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump says U.S. will not lift Hormuz blockade until deal made with Iran",
+      "article_headline": "Trump says U.S. will not lift Hormuz blockade until deal made with Iran"
+    },
+    {
+      "link": "https://apple.news/Adlk2RMNAQMq1Iu-PbkHpVQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-21 03:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump’s Federal Reserve chair nominee to face tough hearing before Senate panel",
+      "article_headline": "Trump’s Federal Reserve chair nominee to face tough hearing before Senate panel"
+    },
+    {
+      "link": "https://apple.news/ARnSyfEmYQgedg8CVilGj_g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-21 03:00:17",
+      "pub_time": "2026-04-21 00:01:19",
+      "publication": "POLITICO",
+      "author": "Josh Gerstein",
+      "headline": "Supreme Court takes up another clash between religious and LGBTQ rights",
+      "article_headline": "Supreme Court takes up another clash between religious and LGBTQ rights"
+    },
+    {
+      "link": "https://apple.news/A2CP-xey8Q0e5aPr3Wx5V7w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-21 03:00:17",
+      "pub_time": "2026-04-21 00:01:47",
+      "publication": "FRANCE 24 English",
+      "author": "",
+      "headline": "Shooting at Mexico’s Teotihuacan pyramid leaves 1 Canadian tourist dead, 13 other people injured",
+      "article_headline": "Shooting at Mexico’s Teotihuacan pyramid leaves 1 Canadian tourist dead, 13 other people injured"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-21 03:00:17",
+      "pub_time": "2026-04-21 00:02:19",
+      "publication": "The Washington Post",
+      "author": "Rachel Roubein",
+      "headline": "What counts as soda and candy? SNAP users face new MAHA bans.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-21 03:00:17",
+      "pub_time": "2026-04-21 00:02:19",
+      "publication": "Slate",
+      "author": "Josh Levin",
+      "headline": "He was blamed for the Oklahoma City bombing. It became an unrelenting nightmare.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Af-y2l2Q9RhOudm4-rEbSTg?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1REQkRFQ3hxa01jV1I0cTVfUmpkdmF3I25mZl9paWQ%3D",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-21 03:00:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "What happens to your brain when you crash out",
+      "article_headline": ""
+    }
+  ]
+}

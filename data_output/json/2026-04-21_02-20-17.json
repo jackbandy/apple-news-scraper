@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-21 02:20:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Alo_iN79XRZef-1h_cehitw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-21 02:20:17",
+      "pub_time": "2026-04-21 00:20:19",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Trump says U.S. will not lift Hormuz blockade until deal made with Iran",
+      "article_headline": "Trump says U.S. will not lift Hormuz blockade until deal made with Iran"
+    },
+    {
+      "link": "https://apple.news/Adlk2RMNAQMq1Iu-PbkHpVQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-21 02:20:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump’s Federal Reserve chair nominee to face tough hearing before Senate panel",
+      "article_headline": "Trump’s Federal Reserve chair nominee to face tough hearing before Senate panel"
+    },
+    {
+      "link": "https://apple.news/ARnSyfEmYQgedg8CVilGj_g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-21 02:20:17",
+      "pub_time": "2026-04-21 00:21:18",
+      "publication": "POLITICO",
+      "author": "Josh Gerstein",
+      "headline": "Supreme Court takes up another clash between religious and LGBTQ rights",
+      "article_headline": "Supreme Court takes up another clash between religious and LGBTQ rights"
+    },
+    {
+      "link": "https://apple.news/A2CP-xey8Q0e5aPr3Wx5V7w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-21 02:20:17",
+      "pub_time": "2026-04-21 00:21:46",
+      "publication": "FRANCE 24 English",
+      "author": "",
+      "headline": "Shooting at Mexico’s Teotihuacan pyramid leaves 1 Canadian tourist dead, 13 other people injured",
+      "article_headline": "Shooting at Mexico’s Teotihuacan pyramid leaves 1 Canadian tourist dead, 13 other people injured"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-21 02:20:17",
+      "pub_time": "2026-04-21 00:22:19",
+      "publication": "The Washington Post",
+      "author": "Rachel Roubein",
+      "headline": "What counts as soda and candy? SNAP users face new MAHA bans.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-21 02:20:17",
+      "pub_time": "2026-04-21 00:22:19",
+      "publication": "Slate",
+      "author": "Josh Levin",
+      "headline": "He was blamed for the Oklahoma City bombing. It became an unrelenting nightmare.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/APiCRXt9jSumZUZsPDEPG7A",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-21 02:20:17",
+      "pub_time": "2026-04-20 18:22:24",
+      "publication": "TheStreet",
+      "author": "Laura Grace Tarpley",
+      "headline": "Zillow predicts change in home values, housing market",
+      "article_headline": "Zillow predicts change in home values, housing market"
+    },
+    {
+      "link": "https://apple.news/A57P6X-XvRT2R-g0OVQLG9Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-21 02:20:17",
+      "pub_time": "2026-04-20 08:22:52",
+      "publication": "CNBC",
+      "author": "Henna Pryor, Contributor",
+      "headline": "Stop saying 'how was your weekend?' Do this instead, says public speaking expert: 'It doesn't have to be deep'",
+      "article_headline": "Stop saying 'how was your weekend?' Do this instead, says public speaking expert: 'It doesn't have to be deep'"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-21 02:20:17",
+      "pub_time": "2026-04-20 05:23:26",
+      "publication": "",
+      "author": "Ashlea Ebeling and Annie Ng",
+      "headline": "If You Think Divorce Is Messy, Try Splitting Up When You’re Not Married",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AW2cRuhlzSNORKw0YKoUv0g",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-21 02:20:17",
+      "pub_time": "2026-04-20 09:23:26",
+      "publication": "Popular Mechanics",
+      "author": "Emma Frederickson",
+      "headline": "The Hair Loss “Fix” Might Not Be a Drug After All",
+      "article_headline": "The Hair Loss “Fix” Might Not Be a Drug After All"
+    },
+    {
+      "link": "https://apple.news/AchrbAEFmSfOSfWoUhEKn_Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-21 02:20:17",
+      "pub_time": "2026-04-20 22:24:25",
+      "publication": "POLITICO",
+      "author": "Associated Press",
+      "headline": "Mexico’s Sheinbaum demands explanation after US officials die after operation in Chihuahua",
+      "article_headline": "Mexico’s Sheinbaum demands explanation after US officials die after operation in Chihuahua"
+    }
+  ]
+}
