@@ -1,0 +1,120 @@
+{
+  "run_time": "2026-04-21 16:00:17",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/ALktfvtSSStGzzDtdqn2LnA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-21 16:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump extends Iran ceasefire indefinitely with peace talks in limbo, LIVE",
+      "article_headline": "Trump Extends Iran Cease-Fire Indefinitely With Peace Talks in Limbo"
+    },
+    {
+      "link": "https://apple.news/APYfJRXD-THak28wB_-MJ8w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-21 16:00:17",
+      "pub_time": "",
+      "publication": "The 19th News",
+      "author": "",
+      "headline": "Rep. Sheila Cherfilus-McCormick resigns from Congress amid expulsion threat",
+      "article_headline": "Rep. Sheila Cherfilus-McCormick resigns from Congress amid expulsion threat"
+    },
+    {
+      "link": "https://apple.news/AzzmY7I3WRZupWByKTEbkaA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-21 16:00:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "3 takeaways as Trump’s pick to lead the Fed faces a confirmation fight",
+      "article_headline": "3 takeaways as Trump’s pick to lead the Fed faces a confirmation fight"
+    },
+    {
+      "link": "https://apple.news/ANLsdnBwBRwK9MkxS76nCZw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-21 16:00:17",
+      "pub_time": "2026-04-21 15:31:46",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Role of U.S. officials killed in Mexico car crash under scrutiny",
+      "article_headline": "Role of U.S. officials killed in Mexico car crash under scrutiny"
+    },
+    {
+      "link": "https://apple.news/ANLsdnBwBRwK9MkxS76nCZw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-21 16:00:17",
+      "pub_time": "2026-04-21 15:31:18",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Role of U.S. officials killed in Mexico car crash under scrutiny",
+      "article_headline": "Role of U.S. officials killed in Mexico car crash under scrutiny"
+    },
+    {
+      "link": "https://apple.news/Ax1HbAYhmTliwJtbSjVZ5DQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-21 16:00:17",
+      "pub_time": "",
+      "publication": "Florida Phoenix",
+      "author": "",
+      "headline": "Florida investigating whether ChatGPT is criminally liable for mass shooting on college campus",
+      "article_headline": "Florida investigating whether ChatGPT is criminally liable for mass shooting on college campus"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-21 16:00:17",
+      "pub_time": "2026-04-21 15:32:13",
+      "publication": "The Wall Street Journal",
+      "author": "John Jurgensen",
+      "headline": "The new king of ‘Jeopardy!’ is the nicest champ ever",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-04-21 16:00:17",
+      "pub_time": "",
+      "publication": "BBC Science Focus Magazine",
+      "author": "",
+      "headline": "Exercise isn’t the key to burning fat. Here’s what is.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-04-21 16:00:17",
+      "pub_time": "",
+      "publication": "BBC Wildlife Magazine",
+      "author": "",
+      "headline": "A massive oceanic creature has been caught on film in the South China Sea",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-04-21 16:00:17",
+      "pub_time": "",
+      "publication": "Consumer Reports",
+      "author": "",
+      "headline": "Eight cars you should never buy, according to experts",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

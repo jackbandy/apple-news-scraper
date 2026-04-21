@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-21 13:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AoVWPhcgtR-Cj4sZuCaZC5Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-21 13:00:17",
+      "pub_time": "2026-04-21 12:26:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "As U.S.-Iran ceasefire deadline nears, uncertainty hangs over possible talks",
+      "article_headline": "As US-Iran ceasefire deadline nears, uncertainty hangs over possible talks"
+    },
+    {
+      "link": "https://apple.news/AIxCM03RLTXyw86oNblJP0A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-21 13:00:17",
+      "pub_time": "",
+      "publication": "Military Times",
+      "author": "",
+      "headline": "Hegseth ends mandatory flu vaccines for U.S. troops",
+      "article_headline": "Hegseth ends mandatory flu vaccines for U.S. troops"
+    },
+    {
+      "link": "https://apple.news/AuCnQPJJZR8afIAC8T62Xig",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-21 13:00:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Fed nominee Kevin Warsh grilled by Senate panel, with confirmation still in limbo",
+      "article_headline": "Fed nominee Kevin Warsh grilled by Senate panel, with confirmation still in limbo"
+    },
+    {
+      "link": "https://apple.news/AVhWxOvndSdO2umUBgMMT2w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-21 13:00:17",
+      "pub_time": "2026-04-21 12:26:45",
+      "publication": "Fox News",
+      "author": "Adam Pack",
+      "headline": "Indicted Rep. Sheila Cherfilus-McCormick says she will not resign as expulsion vote looms",
+      "article_headline": "Indicted Rep. Sheila Cherfilus-McCormick says she will not resign as expulsion vote looms"
+    },
+    {
+      "link": "https://apple.news/AVhWxOvndSdO2umUBgMMT2w",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-21 13:00:17",
+      "pub_time": "2026-04-21 12:26:19",
+      "publication": "Fox News",
+      "author": "Adam Pack",
+      "headline": "Indicted Rep. Sheila Cherfilus-McCormick says she will not resign as expulsion vote looms",
+      "article_headline": "Indicted Rep. Sheila Cherfilus-McCormick says she will not resign as expulsion vote looms"
+    },
+    {
+      "link": "https://apple.news/AC_ClBN8AS8uBx5TgJvPtpg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-21 13:00:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "“Is it life? We can’t tell”: NASA’s Curiosity rover finds organic molecules on Mars",
+      "article_headline": "“Is it life? We can’t tell”: NASA’s Curiosity rover finds organic molecules on Mars"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-21 13:00:17",
+      "pub_time": "2026-04-21 12:27:14",
+      "publication": "Bloomberg Businessweek",
+      "author": "Momoka Yokoyama, Kanoko Matsuyama, and Yui Hasebe",
+      "headline": "The restaurant that’s barely raised prices since 1973",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-21 13:00:17",
+      "pub_time": "2026-04-21 07:03:20",
+      "publication": "",
+      "author": "Pernell Quilon",
+      "headline": "\"It Was Totally Normal Back Then\": Older Adults Are Revealing The Normal '70s Things Would Be Super Weird Today",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/APiCRXt9jSumZUZsPDEPG7A",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-21 13:00:17",
+      "pub_time": "2026-04-21 09:03:37",
+      "publication": "TheStreet",
+      "author": "Laura Grace Tarpley",
+      "headline": "Zillow predicts change in home values, housing market",
+      "article_headline": "Zillow predicts change in home values, housing market"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-21 13:00:17",
+      "pub_time": "2026-04-21 05:04:03",
+      "publication": "",
+      "author": "Dalvin Brown and Annie Ng",
+      "headline": "What It’s Actually Like to Downshift Your Life After Divorce",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-21 13:00:17",
+      "pub_time": "2026-04-21 10:04:03",
+      "publication": "",
+      "author": "",
+      "headline": "NATO intercepts Russian bombers and fighter jets over Baltic Sea",
+      "article_headline": ""
+    }
+  ]
+}
