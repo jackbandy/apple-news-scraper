@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-20 20:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AmMN6nRPIRzqhazBeGjc2-w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 20:00:17",
+      "pub_time": "2026-04-20 19:00:20",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi, Jana Choukeir, and Steve Holland",
+      "headline": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire",
+      "article_headline": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire"
+    },
+    {
+      "link": "https://apple.news/AHRTSp0KxR7aA-649m1jo0A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 20:00:17",
+      "pub_time": "2026-04-20 19:00:47",
+      "publication": "CNBC",
+      "author": "Jonathan Vanian, Jennifer Elias, and Kif Leswing",
+      "headline": "Apple taps John Ternus as CEO to succeed Tim Cook, who will become chairman",
+      "article_headline": "Apple taps John Ternus as CEO to replace Tim Cook, who will become chairman"
+    },
+    {
+      "link": "https://apple.news/AZ2Foz4IbQY2VC3dyGXuBKA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 20:00:17",
+      "pub_time": "2026-04-20 19:01:14",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley and Meryl Kornfield",
+      "headline": "Labor Secretary Lori Chavez-DeRemer will resign amid misconduct allegations",
+      "article_headline": "Labor Secretary Lori Chavez-DeRemer will resign amid misconduct allegations"
+    },
+    {
+      "link": "https://apple.news/AJa4mQjx4QFWOMn2NocIZuQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 20:00:17",
+      "pub_time": "2026-04-20 19:01:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Louisiana community is struggling to understand after man killed 8 children",
+      "article_headline": "Louisiana community is struggling to understand after man killed 8 children"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 20:00:17",
+      "pub_time": "",
+      "publication": "San Antonio Express-News",
+      "author": "",
+      "headline": "Spurs’ Victor Wembanyama named NBA Defensive Player of the Year, the league’s youngest ever",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 20:00:17",
+      "pub_time": "2026-04-20 19:02:19",
+      "publication": "Slate",
+      "author": "Josh Levin",
+      "headline": "He was blamed for the Oklahoma City bombing. It became an unrelenting nightmare.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AW2cRuhlzSNORKw0YKoUv0g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-20 20:00:17",
+      "pub_time": "2026-04-20 09:02:25",
+      "publication": "Popular Mechanics",
+      "author": "Emma Frederickson",
+      "headline": "The Hair Loss “Fix” Might Not Be a Drug After All",
+      "article_headline": "The Hair Loss “Fix” Might Not Be a Drug After All"
+    },
+    {
+      "link": "https://apple.news/AP6lBM72cTUKkK3BszWIcPg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-20 20:00:17",
+      "pub_time": "2026-04-20 12:02:58",
+      "publication": "BuzzFeed",
+      "author": "Abby Zinman",
+      "headline": "\"I Almost Died Both Times I Tried It\": 27 Common Health Trends That Actually Ended Up Ruining People's Lives",
+      "article_headline": "\"I Almost Died Both Times I Tried It\": 27 Common Health Trends That Actually Ended Up Ruining People's Lives"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-20 20:00:17",
+      "pub_time": "2026-04-20 05:03:25",
+      "publication": "",
+      "author": "Ashlea Ebeling and Annie Ng",
+      "headline": "If You Think Divorce Is Messy, Try Splitting Up When You’re Not Married",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A57P6X-XvRT2R-g0OVQLG9Q",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-20 20:00:17",
+      "pub_time": "2026-04-20 09:03:25",
+      "publication": "CNBC",
+      "author": "Henna Pryor, Contributor",
+      "headline": "Stop saying 'how was your weekend?' Do this instead, says public speaking expert: 'It doesn't have to be deep'",
+      "article_headline": "Stop saying 'how was your weekend?' Do this instead, says public speaking expert: 'It doesn't have to be deep'"
+    },
+    {
+      "link": "https://apple.news/AHipSvumgT3W1Y87sFrl4ZA?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1R4N21zOVFrQlJoR29SUGIzS3RadlBBI25mZl9paWQ%3D",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-20 20:00:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "The most popular way to use cannabis in 2026",
+      "article_headline": ""
+    }
+  ]
+}

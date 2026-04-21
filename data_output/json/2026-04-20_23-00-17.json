@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-20 23:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AmMN6nRPIRzqhazBeGjc2-w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 23:00:17",
+      "pub_time": "2026-04-20 21:00:19",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi, Jana Choukeir, and Steve Holland",
+      "headline": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire",
+      "article_headline": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire"
+    },
+    {
+      "link": "https://apple.news/AZ2Foz4IbQY2VC3dyGXuBKA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 23:00:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Labor Secretary Lori Chavez-DeRemer will resign amid misconduct allegations",
+      "article_headline": "Labor Secretary Lori Chavez-DeRemer will resign amid misconduct allegations"
+    },
+    {
+      "link": "https://apple.news/A6BX8G5r1TNK52nIOg5aJjw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 23:00:17",
+      "pub_time": "2026-04-20 21:01:19",
+      "publication": "The Wall Street Journal",
+      "author": "Rolfe Winkler",
+      "headline": "Tim Cook to step down as Apple names new CEO",
+      "article_headline": "Tim Cook to Step Down as Apple Names New CEO"
+    },
+    {
+      "link": "https://apple.news/AeR2K2U_HRiaVTwQf3XbjTA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 23:00:17",
+      "pub_time": "2026-04-20 21:01:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Gunman shoots several tourists at historic pyramids in Mexico, killing a Canadian",
+      "article_headline": "Gunman shoots several tourists at historic pyramids in Mexico, killing a Canadian"
+    },
+    {
+      "link": "https://apple.news/ARnSyfEmYQgedg8CVilGj_g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-20 23:00:17",
+      "pub_time": "2026-04-20 21:02:19",
+      "publication": "POLITICO",
+      "author": "Josh Gerstein",
+      "headline": "Supreme Court takes up another clash between religious and LGBTQ rights",
+      "article_headline": "Supreme Court takes up another clash between religious and LGBTQ rights"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 23:00:17",
+      "pub_time": "2026-04-20 21:02:47",
+      "publication": "Slate",
+      "author": "Josh Levin",
+      "headline": "He was blamed for the Oklahoma City bombing. It became an unrelenting nightmare.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AHipSvumgT3W1Y87sFrl4ZA?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1R4N21zOVFrQlJoR29SUGIzS3RadlBBI25mZl9paWQ%3D",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-20 23:00:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "The most popular way to use cannabis in 2026",
+      "article_headline": ""
+    }
+  ]
+}

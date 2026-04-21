@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-20 20:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AmMN6nRPIRzqhazBeGjc2-w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 20:20:17",
+      "pub_time": "2026-04-20 19:20:19",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi, Jana Choukeir, and Steve Holland",
+      "headline": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire",
+      "article_headline": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire"
+    },
+    {
+      "link": "https://apple.news/AHRTSp0KxR7aA-649m1jo0A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 20:20:17",
+      "pub_time": "2026-04-20 19:20:47",
+      "publication": "CNBC",
+      "author": "Jonathan Vanian, Jennifer Elias, and Kif Leswing",
+      "headline": "Apple taps John Ternus as CEO to succeed Tim Cook, who will become chairman",
+      "article_headline": "Apple taps John Ternus as CEO to replace Tim Cook, who will become chairman"
+    },
+    {
+      "link": "https://apple.news/AZ2Foz4IbQY2VC3dyGXuBKA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 20:20:17",
+      "pub_time": "2026-04-20 19:21:14",
+      "publication": "The Washington Post",
+      "author": "Lauren Kaori Gurley and Meryl Kornfield",
+      "headline": "Labor Secretary Lori Chavez-DeRemer will resign amid misconduct allegations",
+      "article_headline": "Labor Secretary Lori Chavez-DeRemer will resign amid misconduct allegations"
+    },
+    {
+      "link": "https://apple.news/AJa4mQjx4QFWOMn2NocIZuQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 20:20:17",
+      "pub_time": "2026-04-20 19:21:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Louisiana community is struggling to understand after man killed 8 children",
+      "article_headline": "Louisiana community is struggling to understand after man killed 8 children"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 20:20:17",
+      "pub_time": "",
+      "publication": "San Antonio Express-News",
+      "author": "",
+      "headline": "Spurs’ Victor Wembanyama named NBA Defensive Player of the Year, the league’s youngest ever",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 20:20:17",
+      "pub_time": "2026-04-20 19:22:19",
+      "publication": "Slate",
+      "author": "Josh Levin",
+      "headline": "He was blamed for the Oklahoma City bombing. It became an unrelenting nightmare.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AHipSvumgT3W1Y87sFrl4ZA?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1R4N21zOVFrQlJoR29SUGIzS3RadlBBI25mZl9paWQ%3D",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-20 20:20:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "The most popular way to use cannabis in 2026",
+      "article_headline": ""
+    }
+  ]
+}

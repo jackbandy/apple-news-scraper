@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-20 22:40:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AmMN6nRPIRzqhazBeGjc2-w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-20 22:40:18",
+      "pub_time": "2026-04-20 20:40:19",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi, Jana Choukeir, and Steve Holland",
+      "headline": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire",
+      "article_headline": "Fate of Iran peace talks uncertain as deadline approaches for end of ceasefire"
+    },
+    {
+      "link": "https://apple.news/AZ2Foz4IbQY2VC3dyGXuBKA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-20 22:40:18",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Labor Secretary Lori Chavez-DeRemer will resign amid misconduct allegations",
+      "article_headline": "Labor Secretary Lori Chavez-DeRemer will resign amid misconduct allegations"
+    },
+    {
+      "link": "https://apple.news/A6BX8G5r1TNK52nIOg5aJjw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-20 22:40:18",
+      "pub_time": "2026-04-20 20:41:19",
+      "publication": "The Wall Street Journal",
+      "author": "Rolfe Winkler",
+      "headline": "Tim Cook to step down as Apple names new CEO",
+      "article_headline": "Tim Cook to Step Down as Apple Names New CEO"
+    },
+    {
+      "link": "https://apple.news/AeR2K2U_HRiaVTwQf3XbjTA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-20 22:40:18",
+      "pub_time": "2026-04-20 20:41:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Shooting at pyramids north of Mexico City leaves 1 Canadian tourist dead, injures 6 people",
+      "article_headline": "Shooting at pyramids north of Mexico City leaves 1 Canadian tourist dead, injures 6 people"
+    },
+    {
+      "link": "https://apple.news/ARnSyfEmYQgedg8CVilGj_g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-20 22:40:18",
+      "pub_time": "2026-04-20 20:42:20",
+      "publication": "POLITICO",
+      "author": "Josh Gerstein",
+      "headline": "Supreme Court takes up another clash between religious and LGBTQ rights",
+      "article_headline": "Supreme Court takes up another clash between religious and LGBTQ rights"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 22:40:18",
+      "pub_time": "2026-04-20 20:42:47",
+      "publication": "Slate",
+      "author": "Josh Levin",
+      "headline": "He was blamed for the Oklahoma City bombing. It became an unrelenting nightmare.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-20 22:40:18",
+      "pub_time": "2026-04-20 15:43:11",
+      "publication": "People",
+      "author": "Colson Thayer",
+      "headline": "All 6 Cruise Ships Stuck in the Middle East Clear the Strait of Hormuz amid Ongoing Military Conflicts",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AaAfnZGkaSvWp6FBuMmO7Mg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-20 22:40:18",
+      "pub_time": "2026-04-20 05:43:28",
+      "publication": "The Telegraph",
+      "author": "Christopher Jasper",
+      "headline": "South Korea braces for an end to modern life as we know it",
+      "article_headline": "South Korea braces for an end to modern life as we know it"
+    },
+    {
+      "link": "https://apple.news/ASYVUrw9WTG-FOVdZkLElcw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-20 22:40:18",
+      "pub_time": "2026-04-20 09:43:55",
+      "publication": "Southern Living",
+      "author": "Kelsey Glennon",
+      "headline": "I Lived And Worked On Cruise Ships For Years, And This Is The Only Cruise Line I'd Vacation On",
+      "article_headline": "I Lived And Worked On Cruise Ships For Years, And This Is The Only Cruise Line I'd Vacation On"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-20 22:40:18",
+      "pub_time": "2026-04-20 08:44:28",
+      "publication": "",
+      "author": "Bailey Bujnosek",
+      "headline": "All About Michelle Pfeiffer’s Two Children (and Why Her Brand 'Henry Rose' Is a Tribute to Them)",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A3YssN9JwQAWT5mlKI7DXBw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-20 22:40:18",
+      "pub_time": "2026-04-20 12:44:28",
+      "publication": "Quartz",
+      "author": "Quartz Staff",
+      "headline": "7 luxury SUVs that are actually worth the money, according to Consumer Reports",
+      "article_headline": "7 luxury SUVs that are actually worth the money, according to Consumer Reports"
+    }
+  ]
+}
