@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-22 17:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A2-eSaeAgS7KcRckenFfkbw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-22 17:40:17",
+      "pub_time": "2026-04-22 17:33:19",
+      "publication": "Reuters",
+      "author": "Steve Holland, Parisa Hafezi, and Saad Sayeed",
+      "headline": "Iran seizes ships in Strait of Hormuz after Trump extends ceasefire",
+      "article_headline": "Iran seizes ships in Strait of Hormuz after Trump extends ceasefire"
+    },
+    {
+      "link": "https://apple.news/AE-SEsUDMStOQ8_RD5QZpkw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-22 17:40:17",
+      "pub_time": "2026-04-22 17:33:46",
+      "publication": "The Wall Street Journal",
+      "author": "Lara Seligman, Marcus Weisgerber, and Alexander Ward",
+      "headline": "Pete Hegseth fires Navy Secretary John Phelan",
+      "article_headline": "Pete Hegseth Fires Navy Secretary John Phelan"
+    },
+    {
+      "link": "https://apple.news/AE-SEsUDMStOQ8_RD5QZpkw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-22 17:40:17",
+      "pub_time": "2026-04-22 17:33:18",
+      "publication": "The Wall Street Journal",
+      "author": "Lara Seligman, Marcus Weisgerber, and Alexander Ward",
+      "headline": "Pete Hegseth fires Navy Secretary John Phelan",
+      "article_headline": "Pete Hegseth Fires Navy Secretary John Phelan"
+    },
+    {
+      "link": "https://apple.news/A8ZKEmC-ATN24_NbKroN0nQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-22 17:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Democrats win in Virginia but it won’t be the final say in a national redistricting competition",
+      "article_headline": "Democrats win in Virginia but it won’t be the final say in a national redistricting competition"
+    },
+    {
+      "link": "https://apple.news/A7NIxh_d_SE6r9Jp7KNTHIw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-22 17:40:17",
+      "pub_time": "2026-04-22 17:34:12",
+      "publication": "West Virginia Watch",
+      "author": "Amelia Ferrell Knisely and Lori Kersey",
+      "headline": "2 workers dead, dozens injured after chemical incident in West Virginia",
+      "article_headline": "Two workers dead, dozens injured after chemical incident in Kanawha County"
+    },
+    {
+      "link": "https://apple.news/A7NIxh_d_SE6r9Jp7KNTHIw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-22 17:40:17",
+      "pub_time": "2026-04-22 17:33:45",
+      "publication": "West Virginia Watch",
+      "author": "Amelia Ferrell Knisely and Lori Kersey",
+      "headline": "2 workers dead, dozens injured after chemical incident in West Virginia",
+      "article_headline": "Two workers dead, dozens injured after chemical incident in Kanawha County"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-22 17:40:17",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "This might be the biggest breakthrough in pancreatic cancer in decades",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AHNL-zVAfTg-s9sY5JitkaA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-22 17:40:17",
+      "pub_time": "2026-04-22 08:43:17",
+      "publication": "Real Simple",
+      "author": "Leslie Corona",
+      "headline": "Say Goodbye to Granite and Marble—This Countertop Material Will Be Everywhere This Year",
+      "article_headline": "Say Goodbye to Granite and Marble—This Countertop Material Will Be Everywhere This Year"
+    },
+    {
+      "link": "https://apple.news/Aqioozp12SqONtCSoTb6q3w",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-22 17:40:17",
+      "pub_time": "2026-04-22 09:43:50",
+      "publication": "TheStreet",
+      "author": "Jeffrey Quiggle",
+      "headline": "Fidelity sounds alarm on 401(k)s, IRAs",
+      "article_headline": "Fidelity sounds alarm on 401(k)s, IRAs"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-22 17:40:17",
+      "pub_time": "2026-04-22 01:44:17",
+      "publication": "",
+      "author": "Dillon Evans",
+      "headline": "A Toxicologist Is Urging You to Stop Using These Dish Soaps — and Which Ones to Buy Instead",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AkYicLZMxTe-v3DA7lz_xww",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-22 17:40:17",
+      "pub_time": "2026-04-22 16:44:17",
+      "publication": "NBC News",
+      "author": "Elizabeth Chuck",
+      "headline": "Biological parents of baby in IVF embryo mix-up have been identified, Florida couple says",
+      "article_headline": "Biological parents of baby in IVF embryo mix-up have been identified, Florida couple says"
+    }
+  ]
+}
