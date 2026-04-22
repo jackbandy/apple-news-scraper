@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-22 03:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AG6G-cslGRwGbYiDaJy-ENw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-22 03:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Virginia voters approve redistricting plan that could boost Democrats’ seats in Congress",
+      "article_headline": "Virginia voters approve redistricting plan that could boost Democrats’ seats in Congress"
+    },
+    {
+      "link": "https://apple.news/A2-eSaeAgS7KcRckenFfkbw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-22 03:40:17",
+      "pub_time": "2026-04-22 00:40:47",
+      "publication": "Reuters",
+      "author": "Steve Holland, Parisa Hafezi, and Jonathan Allen",
+      "headline": "Trump declares Iran ceasefire extension with peace talks in doubt",
+      "article_headline": "Trump declares Iran ceasefire extension with peace talks in doubt"
+    },
+    {
+      "link": "https://apple.news/Adx-SUvAoSZSi6mVan_1y8Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-22 03:40:17",
+      "pub_time": "2026-04-22 00:41:14",
+      "publication": "CNBC",
+      "author": "Justin Papp",
+      "headline": "Senate Republicans unveil immigration funding framework as DHS shutdown drags on",
+      "article_headline": "Senate Republicans unveil immigration funding framework as DHS shutdown drags on"
+    },
+    {
+      "link": "https://apple.news/Ay3kU2uquRCmpQxlUvdG1QQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-22 03:40:17",
+      "pub_time": "2026-04-22 00:41:47",
+      "publication": "The Guardian",
+      "author": "Harriet Barber",
+      "headline": "“We were terrified they were going to kill us”: fishermen who survived U.S. boat strike speak out",
+      "article_headline": "“We were terrified they were going to kill us”: fishermen who survived U.S. boat strike speak out"
+    },
+    {
+      "link": "https://apple.news/ABFkPF1Y0SkGNm1gnKb08Zg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-22 03:40:17",
+      "pub_time": "2026-04-22 00:42:20",
+      "publication": "NBC News",
+      "author": "Tyler Kingkade",
+      "headline": "Los Angeles becomes the first major school district to require screen time limits",
+      "article_headline": "Los Angeles becomes the first major school district to require screen time limits"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-22 03:40:17",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "The notorious mogul who turned Madison Square Garden into a surveillance state, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AFCRhNXszRvWjPseo5rVUGQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-22 03:40:17",
+      "pub_time": "2026-04-21 15:42:53",
+      "publication": "Entertainment Weekly",
+      "author": "Sharareh Drury",
+      "headline": "'The Lost Boys' star Jami Gertz, now a billionaire, makes rare public appearance",
+      "article_headline": "'The Lost Boys' star Jami Gertz, now a billionaire, makes rare public appearance"
+    },
+    {
+      "link": "https://apple.news/A7mOdDUUURk-00dU5PWpFuQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-22 03:40:17",
+      "pub_time": "2026-04-21 21:43:20",
+      "publication": "BuzzFeed",
+      "author": "Daniella Flores",
+      "headline": "People Are Sharing The \"Secret\" Habits That Actually Make Their Days 1000 Times Better, And It's Life-Changing",
+      "article_headline": "People Are Sharing The \"Secret\" Habits That Actually Make Their Days 1000 Times Better, And It's Life-Changing"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-22 03:40:17",
+      "pub_time": "2026-04-21 13:43:53",
+      "publication": "",
+      "author": "John.Higgins",
+      "headline": "The AirPods are Tim Cook’s most underrated achievement",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AmKc3pKNORIKybwVXmbmE5w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-22 03:40:17",
+      "pub_time": "2026-04-21 05:43:53",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "I Tried The '6-6-6' Walking Challenge, And It Got Me Out Of An Exercise Rut",
+      "article_headline": "I Tried The '6-6-6' Walking Challenge, And It Got Me Out Of An Exercise Rut"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-22 03:40:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Southern Living, RECIPE, 15 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

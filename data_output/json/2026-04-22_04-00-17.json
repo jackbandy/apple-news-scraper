@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-22 04:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AG6G-cslGRwGbYiDaJy-ENw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-22 04:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Virginia voters approve redistricting plan that could boost Democrats’ seats in Congress",
+      "article_headline": "Virginia voters approve redistricting plan that could boost Democrats’ seats in Congress"
+    },
+    {
+      "link": "https://apple.news/A2-eSaeAgS7KcRckenFfkbw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-22 04:00:17",
+      "pub_time": "2026-04-22 00:00:46",
+      "publication": "Reuters",
+      "author": "Steve Holland, Parisa Hafezi, and Jonathan Allen",
+      "headline": "Trump declares Iran ceasefire extension with peace talks in doubt",
+      "article_headline": "Trump declares Iran ceasefire extension with peace talks in doubt"
+    },
+    {
+      "link": "https://apple.news/Adx-SUvAoSZSi6mVan_1y8Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-22 04:00:17",
+      "pub_time": "2026-04-22 00:01:13",
+      "publication": "CNBC",
+      "author": "Justin Papp",
+      "headline": "Senate Republicans unveil immigration funding framework as DHS shutdown drags on",
+      "article_headline": "Senate Republicans unveil immigration funding framework as DHS shutdown drags on"
+    },
+    {
+      "link": "https://apple.news/Ay3kU2uquRCmpQxlUvdG1QQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-22 04:00:17",
+      "pub_time": "2026-04-22 00:01:47",
+      "publication": "The Guardian",
+      "author": "Harriet Barber",
+      "headline": "“We were terrified they were going to kill us”: fishermen who survived U.S. boat strike speak out",
+      "article_headline": "“We were terrified they were going to kill us”: fishermen who survived U.S. boat strike speak out"
+    },
+    {
+      "link": "https://apple.news/ABFkPF1Y0SkGNm1gnKb08Zg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-22 04:00:17",
+      "pub_time": "2026-04-22 00:02:20",
+      "publication": "NBC News",
+      "author": "Tyler Kingkade",
+      "headline": "Los Angeles becomes the first major school district to require screen time limits",
+      "article_headline": "Los Angeles becomes the first major school district to require screen time limits"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-22 04:00:17",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "The notorious mogul who turned Madison Square Garden into a surveillance state, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-22 04:00:17",
+      "pub_time": "2026-04-22 02:03:20",
+      "publication": "Apple News Plus",
+      "author": "Olivia Cigliano",
+      "headline": "Real Simple, Quince's Wedding Guest Dresses Look Luxe With ’Minimal Effort'—Shop Wrinkle-Free and Petite-Friendly Picks From $40",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
