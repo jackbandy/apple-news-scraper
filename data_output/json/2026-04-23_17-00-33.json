@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-23 17:00:33",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AXODJetmlQ4S-nI9EClBEGw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-23 17:00:33",
+      "pub_time": "2026-04-23 16:57:35",
+      "publication": "Bloomberg",
+      "author": "Salma El Wardany, Ben Bartenstein, Mirette Magdy, and Patrick Sykes",
+      "headline": "Trump’s messaging blitz divides advisers as Iran talks teeter",
+      "article_headline": "Trump’s messaging blitz divides advisers as Iran talks teeter"
+    },
+    {
+      "link": "https://apple.news/AUTxzTmzvQjCmF38IW_-HcA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-23 17:00:33",
+      "pub_time": "2026-04-23 16:58:03",
+      "publication": "Axios",
+      "author": "Barak Ravid",
+      "headline": "Israel-Lebanon ceasefire extended by three weeks, Trump says",
+      "article_headline": "Israel-Lebanon ceasefire extended by three weeks, Trump says"
+    },
+    {
+      "link": "https://apple.news/AGHG5SudESQaORou5HZUIFw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-23 17:00:33",
+      "pub_time": "2026-04-23 16:58:30",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "NTSB report reveals reveals firefighter at New York’s LaGuardia Airport heard “stop, stop” before deadly crash",
+      "article_headline": "NTSB report reveals reveals firefighter at New York’s LaGuardia Airport heard “stop, stop” before deadly crash"
+    },
+    {
+      "link": "https://apple.news/AUTxzTmzvQjCmF38IW_-HcA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-23 17:00:33",
+      "pub_time": "2026-04-23 16:58:03",
+      "publication": "Axios",
+      "author": "Barak Ravid",
+      "headline": "Israel-Lebanon ceasefire extended by three weeks, Trump says",
+      "article_headline": "Israel-Lebanon ceasefire extended by three weeks, Trump says"
+    },
+    {
+      "link": "https://apple.news/AGHG5SudESQaORou5HZUIFw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-23 17:00:33",
+      "pub_time": "2026-04-23 16:58:30",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "NTSB report reveals reveals firefighter at New York’s LaGuardia Airport heard “stop, stop” before deadly crash",
+      "article_headline": "NTSB report reveals reveals firefighter at New York’s LaGuardia Airport heard “stop, stop” before deadly crash"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-23 17:00:33",
+      "pub_time": "2026-04-23 16:58:57",
+      "publication": "Philadelphia Inquirer",
+      "author": "Craig R. McCoy and Bob Fernandez",
+      "headline": "“A punch in the gut”: After years of waiting, many opioid victims will be shut out of Purdue settlement",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-23 17:00:33",
+      "pub_time": "2026-04-23 16:58:03",
+      "publication": "Philadelphia Inquirer",
+      "author": "Craig R. McCoy and Bob Fernandez",
+      "headline": "“A punch in the gut”: After years of waiting, many opioid victims will be shut out of Purdue settlement",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
