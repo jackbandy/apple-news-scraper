@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-23 08:00:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AOJfPNIn-TJSA_64riZSd8A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-23 08:00:14",
+      "pub_time": "2026-04-23 07:37:16",
+      "publication": "Reuters",
+      "author": "Parisa Hafezi and Mubasher Bukhari",
+      "headline": "Iran shows off its control over the Strait of Hormuz after peace talks collapse",
+      "article_headline": "Iran shows off its control over strait after collapse of peace talks"
+    },
+    {
+      "link": "https://apple.news/AE-SEsUDMStOQ8_RD5QZpkw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-23 08:00:14",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Pete Hegseth fires Navy Secretary John Phelan",
+      "article_headline": "Pete Hegseth Fires Navy Secretary John Phelan"
+    },
+    {
+      "link": "https://apple.news/AdkOfsy3UShmBckD9IMb2fQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-23 08:00:14",
+      "pub_time": "2026-04-23 07:37:15",
+      "publication": "POLITICO",
+      "author": "Jordain Carney and Jennifer Scholtes",
+      "headline": "Senate Republicans clear go-it-alone path to pass ICE funding",
+      "article_headline": "Senate Republicans clear go-it-alone path to pass ICE funding"
+    },
+    {
+      "link": "https://apple.news/AYxPk1-d3TJSOF7ysjHVtJw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-23 08:00:14",
+      "pub_time": "2026-04-23 07:37:43",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump reclassifies state-licensed medical marijuana as less dangerous",
+      "article_headline": "Trump reclassifies state-licensed medical marijuana as less dangerous"
+    },
+    {
+      "link": "https://apple.news/AdkOfsy3UShmBckD9IMb2fQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-23 08:00:14",
+      "pub_time": "2026-04-23 07:37:16",
+      "publication": "POLITICO",
+      "author": "Jordain Carney and Jennifer Scholtes",
+      "headline": "Senate Republicans clear go-it-alone path to pass ICE funding",
+      "article_headline": "Senate Republicans clear go-it-alone path to pass ICE funding"
+    },
+    {
+      "link": "https://apple.news/AYxPk1-d3TJSOF7ysjHVtJw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-23 08:00:14",
+      "pub_time": "2026-04-23 07:37:44",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump reclassifies state-licensed medical marijuana as less dangerous",
+      "article_headline": "Trump reclassifies state-licensed medical marijuana as less dangerous"
+    },
+    {
+      "link": "https://apple.news/ACKBCYqflQ_24iH9RH-Capw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-23 08:00:14",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The unflattering secrets revealed so far in Elon Musk’s latest legal feud",
+      "article_headline": "The unflattering secrets revealed so far in Elon Musk’s latest legal feud"
+    }
+  ]
+}
