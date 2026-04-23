@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-22 18:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A2-eSaeAgS7KcRckenFfkbw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-22 18:40:17",
+      "pub_time": "2026-04-22 18:02:18",
+      "publication": "Reuters",
+      "author": "Steve Holland, Parisa Hafezi, and Saad Sayeed",
+      "headline": "Iran seizes ships in Strait of Hormuz after Trump extends ceasefire",
+      "article_headline": "Iran seizes ships in Strait of Hormuz after Trump extends ceasefire"
+    },
+    {
+      "link": "https://apple.news/AE-SEsUDMStOQ8_RD5QZpkw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-22 18:40:17",
+      "pub_time": "2026-04-22 18:02:45",
+      "publication": "The Wall Street Journal",
+      "author": "Lara Seligman, Marcus Weisgerber, and Alexander Ward",
+      "headline": "Pete Hegseth fires Navy Secretary John Phelan",
+      "article_headline": "Pete Hegseth Fires Navy Secretary John Phelan"
+    },
+    {
+      "link": "https://apple.news/AE-SEsUDMStOQ8_RD5QZpkw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-22 18:40:17",
+      "pub_time": "2026-04-22 18:02:18",
+      "publication": "The Wall Street Journal",
+      "author": "Lara Seligman, Marcus Weisgerber, and Alexander Ward",
+      "headline": "Pete Hegseth fires Navy Secretary John Phelan",
+      "article_headline": "Pete Hegseth Fires Navy Secretary John Phelan"
+    },
+    {
+      "link": "https://apple.news/A8ZKEmC-ATN24_NbKroN0nQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-22 18:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Democrats win in Virginia, but it won’t be the final say in a national redistricting competition",
+      "article_headline": "Democrats win in Virginia, but it won’t be the final say in a national redistricting competition"
+    },
+    {
+      "link": "https://apple.news/A7NIxh_d_SE6r9Jp7KNTHIw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-22 18:40:17",
+      "pub_time": "2026-04-22 18:03:12",
+      "publication": "West Virginia Watch",
+      "author": "Amelia Ferrell Knisely and Lori Kersey",
+      "headline": "2 workers dead, dozens injured after chemical incident in West Virginia",
+      "article_headline": "Two workers dead, dozens injured after chemical incident in Kanawha County"
+    },
+    {
+      "link": "https://apple.news/A7NIxh_d_SE6r9Jp7KNTHIw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-22 18:40:17",
+      "pub_time": "2026-04-22 18:02:44",
+      "publication": "West Virginia Watch",
+      "author": "Amelia Ferrell Knisely and Lori Kersey",
+      "headline": "2 workers dead, dozens injured after chemical incident in West Virginia",
+      "article_headline": "Two workers dead, dozens injured after chemical incident in Kanawha County"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-22 18:40:17",
+      "pub_time": "",
+      "publication": "National Geographic",
+      "author": "",
+      "headline": "This might be the biggest breakthrough in pancreatic cancer in decades",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

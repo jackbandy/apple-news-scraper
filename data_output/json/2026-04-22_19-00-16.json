@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-04-22 19:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A2-eSaeAgS7KcRckenFfkbw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-22 19:00:16",
+      "pub_time": "2026-04-22 18:41:18",
+      "publication": "Reuters",
+      "author": "Steve Holland, Parisa Hafezi, and Saad Sayeed",
+      "headline": "Iran seizes ships in Strait of Hormuz after Trump extends ceasefire",
+      "article_headline": "Iran seizes ships in Strait of Hormuz after Trump extends ceasefire"
+    },
+    {
+      "link": "https://apple.news/A11ryyKb4Qjebxeo8xJYtfw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-22 19:00:16",
+      "pub_time": "2026-04-22 18:41:45",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe and Tara Copp",
+      "headline": "John Phelan out as Navy secretary after 13 months",
+      "article_headline": "John Phelan out as Navy secretary after 13 months"
+    },
+    {
+      "link": "https://apple.news/Asqp3InLtQO2C3gbG4kEPhA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-22 19:00:16",
+      "pub_time": "2026-04-22 18:42:13",
+      "publication": "The Wall Street Journal",
+      "author": "Liz Essley Whyte",
+      "headline": "Lawmakers grilled RFK Jr. 7 times in a week. Here are the key takeaways.",
+      "article_headline": "Lawmakers grilled RFK Jr. 7 times in a week. Here are the key takeaways."
+    },
+    {
+      "link": "https://apple.news/A11ryyKb4Qjebxeo8xJYtfw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-22 19:00:16",
+      "pub_time": "2026-04-22 18:41:46",
+      "publication": "The Washington Post",
+      "author": "Dan Lamothe and Tara Copp",
+      "headline": "John Phelan out as Navy secretary after 13 months",
+      "article_headline": "John Phelan out as Navy secretary after 13 months"
+    },
+    {
+      "link": "https://apple.news/Asqp3InLtQO2C3gbG4kEPhA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-22 19:00:16",
+      "pub_time": "2026-04-22 18:42:13",
+      "publication": "The Wall Street Journal",
+      "author": "Liz Essley Whyte",
+      "headline": "Lawmakers grilled RFK Jr. 7 times in a week. Here are the key takeaways.",
+      "article_headline": "Lawmakers grilled RFK Jr. 7 times in a week. Here are the key takeaways."
+    },
+    {
+      "link": "https://apple.news/AsaqTEMgZQRS-NsnzKDRxZw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-22 19:00:16",
+      "pub_time": "2026-04-22 18:42:41",
+      "publication": "ABC News",
+      "author": "Bill Hutchinson",
+      "headline": "Man charged with supplying gun to Louisiana father who allegedly killed 8 children",
+      "article_headline": "Man charged with supplying gun to Louisiana father who allegedly killed 8 children"
+    },
+    {
+      "link": "https://apple.news/A22iml4UESBqpfSltL_yzSw",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-22 19:00:16",
+      "pub_time": "2026-04-22 18:43:09",
+      "publication": "Grist",
+      "author": "",
+      "headline": "A deadly bacteria is creeping up the Atlantic Coast. How worried should you be?",
+      "article_headline": "A deadly bacteria is creeping up the Atlantic Coast. How worried should you be?"
+    },
+    {
+      "link": "https://apple.news/AHNL-zVAfTg-s9sY5JitkaA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-22 19:00:16",
+      "pub_time": "2026-04-22 09:04:18",
+      "publication": "Real Simple",
+      "author": "Leslie Corona",
+      "headline": "Say Goodbye to Granite and Marble—This Countertop Material Will Be Everywhere This Year",
+      "article_headline": "Say Goodbye to Granite and Marble—This Countertop Material Will Be Everywhere This Year"
+    },
+    {
+      "link": "https://apple.news/AMwmyOq6-Qq-9R0BjeRVVHA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-22 19:00:16",
+      "pub_time": "2026-04-22 07:04:45",
+      "publication": "VinePair",
+      "author": "",
+      "headline": "Costco’s Kirkland Liquor Is Made by Major Distilleries. Here’s Who’s Behind Every Bottle.",
+      "article_headline": "Costco’s Kirkland Liquor Is Made by Major Distilleries. Here’s Who’s Behind Every Bottle."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-22 19:00:16",
+      "pub_time": "2026-04-21 19:05:19",
+      "publication": "",
+      "author": "Dalvin Brown and Annie Ng",
+      "headline": "What It’s Actually Like to Downshift Your Life After Divorce",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aqioozp12SqONtCSoTb6q3w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-22 19:00:16",
+      "pub_time": "2026-04-22 10:05:19",
+      "publication": "TheStreet",
+      "author": "Jeffrey Quiggle",
+      "headline": "Fidelity sounds alarm on 401(k)s, IRAs",
+      "article_headline": "Fidelity sounds alarm on 401(k)s, IRAs"
+    }
+  ]
+}
