@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-24 13:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AprsTYsAyQKGkFA71SH8GWA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-24 13:20:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "DOJ drops investigation into Fed Chair Powell, clearing path for Warsh’s confirmation",
+      "article_headline": "Justice Department drops investigation into Federal Reserve and Jerome Powell"
+    },
+    {
+      "link": "https://apple.news/AyNwgd7INRpaj9IrnU21sVw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-24 13:20:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister",
+      "article_headline": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran's foreign minister"
+    },
+    {
+      "link": "https://apple.news/ApxCOT3QETnGofUF6A1wZZw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-24 13:20:16",
+      "pub_time": "2026-04-24 12:22:19",
+      "publication": "The Times of Israel",
+      "author": "",
+      "headline": "Netanyahu reveals prostate-cancer treatment, which he underwent without informing public",
+      "article_headline": "Netanyahu reveals prostate-cancer treatment, which he underwent without informing public"
+    },
+    {
+      "link": "https://apple.news/A-eSnGyCrTX6lI6pvW8UXHA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-24 13:20:16",
+      "pub_time": "2026-04-24 12:22:46",
+      "publication": "Reuters",
+      "author": "Gerardo Arbaiza and Emily Green",
+      "headline": "In El Salvador, shackled prisoners watch their mass trial on a big screen",
+      "article_headline": "In El Salvador, shackled prisoners watch their mass trial on a big screen"
+    },
+    {
+      "link": "https://apple.news/ApxCOT3QETnGofUF6A1wZZw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-24 13:20:16",
+      "pub_time": "2026-04-24 12:22:19",
+      "publication": "The Times of Israel",
+      "author": "",
+      "headline": "Netanyahu reveals prostate-cancer treatment, which he underwent without informing public",
+      "article_headline": "Netanyahu reveals prostate-cancer treatment, which he underwent without informing public"
+    },
+    {
+      "link": "https://apple.news/A-eSnGyCrTX6lI6pvW8UXHA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-24 13:20:16",
+      "pub_time": "2026-04-24 12:22:46",
+      "publication": "Reuters",
+      "author": "Gerardo Arbaiza and Emily Green",
+      "headline": "In El Salvador, shackled prisoners watch their mass trial on a big screen",
+      "article_headline": "In El Salvador, shackled prisoners watch their mass trial on a big screen"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-24 13:20:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The quarterback succession plan that stunned the NFL draft",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

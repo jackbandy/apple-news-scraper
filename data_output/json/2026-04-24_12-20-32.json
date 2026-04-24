@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-24 12:20:32",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AprsTYsAyQKGkFA71SH8GWA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-24 12:20:32",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "DOJ drops investigation into Fed Chair Powell, clearing path for Warsh’s confirmation",
+      "article_headline": "DOJ drops investigation into Fed Chair Powell, clearing path for Warsh’s confirmation"
+    },
+    {
+      "link": "https://apple.news/AyNwgd7INRpaj9IrnU21sVw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-24 12:20:32",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Top Iran diplomat traveling to Pakistan for talks on ceasefire with U.S.",
+      "article_headline": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran's foreign minister"
+    },
+    {
+      "link": "https://apple.news/ApxCOT3QETnGofUF6A1wZZw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-24 12:20:32",
+      "pub_time": "2026-04-24 11:21:34",
+      "publication": "The Times of Israel",
+      "author": "",
+      "headline": "Netanyahu reveals prostate-cancer treatment, which he underwent without informing public",
+      "article_headline": "Netanyahu reveals prostate-cancer treatment, which he underwent without informing public"
+    },
+    {
+      "link": "https://apple.news/A-eSnGyCrTX6lI6pvW8UXHA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-24 12:20:32",
+      "pub_time": "2026-04-24 11:22:00",
+      "publication": "Reuters",
+      "author": "Gerardo Arbaiza and Emily Green",
+      "headline": "In El Salvador, shackled prisoners watch their mass trial on a big screen",
+      "article_headline": "In El Salvador, shackled prisoners watch their mass trial on a big screen"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-24 12:20:32",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The quarterback succession plan that stunned the NFL draft",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-24 12:20:32",
+      "pub_time": "2026-04-24 11:22:32",
+      "publication": "The San Francisco Standard",
+      "author": "Emily Landes",
+      "headline": "Why empty nesters are flocking back to San Francisco (while they can still afford to)",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A9it7WgWDQ1qTSQTkP8MM_w",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-24 12:20:32",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Iran’s leaders are holding out against Trump. Is this why?",
+      "article_headline": ""
+    }
+  ]
+}

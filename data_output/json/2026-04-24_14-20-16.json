@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-24 14:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AprsTYsAyQKGkFA71SH8GWA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-24 14:20:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "DOJ drops investigation into Fed Chair Powell, clearing path for Warsh’s confirmation",
+      "article_headline": "Justice Department drops investigation into Federal Reserve and Jerome Powell"
+    },
+    {
+      "link": "https://apple.news/AyNwgd7INRpaj9IrnU21sVw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-24 14:20:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran’s foreign minister",
+      "article_headline": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran's foreign minister"
+    },
+    {
+      "link": "https://apple.news/Ag8XMjeHpRRatgEAkyxQrZw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-24 14:20:16",
+      "pub_time": "2026-04-24 14:03:17",
+      "publication": "CBS News",
+      "author": "Jacob Rosen",
+      "headline": "DOJ reinstates firing squads, pentobarbital for federal executions",
+      "article_headline": "DOJ reinstates firing squads, pentobarbital for federal executions"
+    },
+    {
+      "link": "https://apple.news/A-eSnGyCrTX6lI6pvW8UXHA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-24 14:20:16",
+      "pub_time": "2026-04-24 14:03:45",
+      "publication": "Reuters",
+      "author": "Gerardo Arbaiza and Emily Green",
+      "headline": "In El Salvador, shackled prisoners watch their mass trial on a big screen",
+      "article_headline": "In El Salvador, shackled prisoners watch their mass trial on a big screen"
+    },
+    {
+      "link": "https://apple.news/Ag8XMjeHpRRatgEAkyxQrZw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-24 14:20:16",
+      "pub_time": "2026-04-24 14:03:17",
+      "publication": "CBS News",
+      "author": "Jacob Rosen",
+      "headline": "DOJ reinstates firing squads, pentobarbital for federal executions",
+      "article_headline": "DOJ reinstates firing squads, pentobarbital for federal executions"
+    },
+    {
+      "link": "https://apple.news/A-eSnGyCrTX6lI6pvW8UXHA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-24 14:20:16",
+      "pub_time": "2026-04-24 14:03:45",
+      "publication": "Reuters",
+      "author": "Gerardo Arbaiza and Emily Green",
+      "headline": "In El Salvador, shackled prisoners watch their mass trial on a big screen",
+      "article_headline": "In El Salvador, shackled prisoners watch their mass trial on a big screen"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-24 14:20:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "How Fernando Mendoza won over John Spytek, Tom Brady, and the Raiders brass",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
