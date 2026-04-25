@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-25 04:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AixrzNsJeROuRa0kKO86nHg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-25 04:00:17",
+      "pub_time": "2026-04-25 00:00:18",
+      "publication": "Reuters",
+      "author": "Saad Sayeed, Ariba Shahid, and Steve Holland",
+      "headline": "Iran's foreign minister arrives in Pakistan, Trump expects offer satisfying US demands",
+      "article_headline": "Iran's foreign minister arrives in Pakistan, Trump expects offer satisfying US demands"
+    },
+    {
+      "link": "https://apple.news/AGh2nAk-DRzqMVGOt9FaVCw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-25 04:00:17",
+      "pub_time": "2026-04-25 00:00:45",
+      "publication": "The Washington Post",
+      "author": "Mark Berman",
+      "headline": "Trump administration moves to add firing squad to federal execution methods",
+      "article_headline": "Trump administration moves to add firing squad to federal execution methods"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-25 04:00:17",
+      "pub_time": "2026-04-25 00:01:19",
+      "publication": "The Christian Science Monitor",
+      "author": "Ghada Abdulfattah and Taylor Luck",
+      "headline": "In Gaza, rare elections put hope, and talk of Palestinian unity, on the ballot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAwYhJ0itSyi548HGZcS6Jg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-25 04:00:17",
+      "pub_time": "2026-04-25 00:01:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House",
+      "article_headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House"
+    },
+    {
+      "link": "https://apple.news/AbpAQ3PlLTMuNYBPppQyYoA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-25 04:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Grading every pick in the second and third rounds of the NFL draft",
+      "article_headline": "2026 NFL Draft grades for Rounds 2 and 3: Carson Beck pick an A-minus; Jets, Lions get A’s"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-25 04:00:17",
+      "pub_time": "",
+      "publication": "Rolling Stone",
+      "author": "",
+      "headline": "Texas is leading the charge to turn an African psychedelic into a lifesaving therapy, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Af-9K_YYpQTyZofEFkuhmmQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-25 04:00:17",
+      "pub_time": "2026-04-24 16:02:24",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Tim Cook says Apple Maps release was a 'really big mistake'",
+      "article_headline": "Tim Cook says Apple Maps release was a 'really big mistake'"
+    },
+    {
+      "link": "https://apple.news/AmtCQlXfSQGSzIagQGT6W9Q",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-25 04:00:17",
+      "pub_time": "2026-04-24 13:02:51",
+      "publication": "Southern Living",
+      "author": "Arricca Elin SanSone",
+      "headline": "How To Get Rid Of Ants In Your House Once And For All",
+      "article_headline": "How To Get Rid Of Ants In Your House Once And For All"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-25 04:00:17",
+      "pub_time": "2026-04-24 04:03:25",
+      "publication": "",
+      "author": "Thomas Westerholm",
+      "headline": "Woman gives dire warning to travelers heading to Europe: \"Be prepared\"",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AYljSG-h4R-Wvar8A0FuPMA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-25 04:00:17",
+      "pub_time": "2026-04-24 18:03:25",
+      "publication": "TheStreet",
+      "author": "Veronika Bondarenko",
+      "headline": "Another airline cancels all summer flights from city over fuel costs",
+      "article_headline": "Another airline cancels all summer flights from city over fuel costs"
+    },
+    {
+      "link": "https://apple.news/Am_UJe2srSUuV06uj7Frlrw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-25 04:00:17",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "A life hack for the ultrawealthy is going mainstream",
+      "article_headline": "A life hack for the ultrawealthy is going mainstream"
+    }
+  ]
+}
