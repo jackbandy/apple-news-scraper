@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-04-24 22:20:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ahb0Erq7ZSWGMs_Cmpw4xCg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-24 22:20:18",
+      "pub_time": "2026-04-24 21:20:19",
+      "publication": "The Washington Post",
+      "author": "Natalie Allison, John Hudson, and Karen DeYoung",
+      "headline": "Iran talks to resume this weekend without Vance",
+      "article_headline": "Iran talks to resume this weekend without Vance"
+    },
+    {
+      "link": "https://apple.news/ABCm3WSSFQGOMhTDqbXR7-w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-24 22:20:18",
+      "pub_time": "2026-04-24 21:20:47",
+      "publication": "The Texas Tribune",
+      "author": "Alejandro Serrano",
+      "headline": "Texas police can arrest people suspected of entering country illegally, federal court rules",
+      "article_headline": "Texas police can arrest people suspected of entering country illegally, federal court rules"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-24 22:20:18",
+      "pub_time": "2026-04-24 21:21:20",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Osipovich and Krystal Hur",
+      "headline": "Arrest of U.S. soldier signals Polymarket’s wild-west days are ending",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AYX80Cn-YRPeST0cmd3sZdg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-24 22:20:18",
+      "pub_time": "2026-04-24 21:21:20",
+      "publication": "The Guardian",
+      "author": "Sam Levin",
+      "headline": "Police across the U.S. worry officers are being misidentified as ICE agents, records show",
+      "article_headline": "Police across the U.S. worry officers are being misidentified as ICE agents, records show"
+    },
+    {
+      "link": "https://apple.news/ABsbIV2IzSbmsnNRsEZstYg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-24 22:20:18",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "How debris from past hurricanes is fueling raging wildfires in the South",
+      "article_headline": "How debris from past hurricanes is fueling raging wildfires in the South"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-24 22:20:18",
+      "pub_time": "",
+      "publication": "Rolling Stone",
+      "author": "",
+      "headline": "Texas is leading the charge to turn an African psychedelic into a lifesaving therapy, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-24 22:20:18",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Southern Living, RECIPE, 15 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

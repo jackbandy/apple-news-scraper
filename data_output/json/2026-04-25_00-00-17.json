@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-25 00:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AixrzNsJeROuRa0kKO86nHg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-25 00:00:17",
+      "pub_time": "2026-04-24 23:55:19",
+      "publication": "Reuters",
+      "author": "Saad Sayeed, Ariba Shahid, and Steve Holland",
+      "headline": "Iran's foreign minister arrives in Pakistan, Trump expects offer satisfying US demands",
+      "article_headline": "Iran's foreign minister arrives in Pakistan, Trump expects offer satisfying US demands"
+    },
+    {
+      "link": "https://apple.news/AGh2nAk-DRzqMVGOt9FaVCw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-25 00:00:17",
+      "pub_time": "2026-04-24 23:55:46",
+      "publication": "The Washington Post",
+      "author": "Mark Berman",
+      "headline": "Trump administration moves to add firing squad to federal execution methods",
+      "article_headline": "Trump administration moves to add firing squad to federal execution methods"
+    },
+    {
+      "link": "https://apple.news/AGh2nAk-DRzqMVGOt9FaVCw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-25 00:00:17",
+      "pub_time": "2026-04-24 23:54:19",
+      "publication": "The Washington Post",
+      "author": "Mark Berman",
+      "headline": "Trump administration moves to add firing squad to federal execution methods",
+      "article_headline": "Trump administration moves to add firing squad to federal execution methods"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-25 00:00:17",
+      "pub_time": "2026-04-24 23:54:47",
+      "publication": "The Christian Science Monitor",
+      "author": "Ghada Abdulfattah and Taylor Luck",
+      "headline": "In Gaza, rare elections put hope, and talk of Palestinian unity, on the ballot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAwYhJ0itSyi548HGZcS6Jg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-25 00:00:17",
+      "pub_time": "2026-04-24 23:54:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House",
+      "article_headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-25 00:00:17",
+      "pub_time": "2026-04-24 23:54:18",
+      "publication": "The Christian Science Monitor",
+      "author": "Ghada Abdulfattah and Taylor Luck",
+      "headline": "In Gaza, rare elections put hope, and talk of Palestinian unity, on the ballot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAwYhJ0itSyi548HGZcS6Jg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-25 00:00:17",
+      "pub_time": "2026-04-24 23:54:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House",
+      "article_headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House"
+    }
+  ]
+}

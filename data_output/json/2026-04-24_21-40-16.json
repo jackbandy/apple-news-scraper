@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-24 21:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ahb0Erq7ZSWGMs_Cmpw4xCg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-24 21:40:16",
+      "pub_time": "2026-04-24 21:03:18",
+      "publication": "The Washington Post",
+      "author": "Natalie Allison, John Hudson, and Karen DeYoung",
+      "headline": "Iran talks to resume this weekend without Vance",
+      "article_headline": "Iran talks to resume this weekend without Vance"
+    },
+    {
+      "link": "https://apple.news/ABCm3WSSFQGOMhTDqbXR7-w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-24 21:40:16",
+      "pub_time": "2026-04-24 21:03:45",
+      "publication": "The Texas Tribune",
+      "author": "Alejandro Serrano",
+      "headline": "Texas police can arrest people suspected of entering country illegally, federal court rules",
+      "article_headline": "Texas police can arrest people suspected of entering country illegally, federal court rules"
+    },
+    {
+      "link": "https://apple.news/ABCm3WSSFQGOMhTDqbXR7-w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-24 21:40:16",
+      "pub_time": "2026-04-24 21:03:18",
+      "publication": "The Texas Tribune",
+      "author": "Alejandro Serrano",
+      "headline": "Texas police can arrest people suspected of entering country illegally, federal court rules",
+      "article_headline": "Texas police can arrest people suspected of entering country illegally, federal court rules"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-24 21:40:16",
+      "pub_time": "2026-04-24 21:03:46",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Osipovich and Krystal Hur",
+      "headline": "Arrest of U.S. soldier signals Polymarket’s wild-west days are ending",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AYX80Cn-YRPeST0cmd3sZdg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-24 21:40:16",
+      "pub_time": "2026-04-24 21:03:46",
+      "publication": "The Guardian",
+      "author": "Sam Levin",
+      "headline": "Police across the U.S. worry officers are being misidentified as ICE agents, records show",
+      "article_headline": "Police across the U.S. worry officers are being misidentified as ICE agents, records show"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-24 21:40:16",
+      "pub_time": "2026-04-24 21:03:19",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Osipovich and Krystal Hur",
+      "headline": "Arrest of U.S. soldier signals Polymarket’s wild-west days are ending",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AYX80Cn-YRPeST0cmd3sZdg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-24 21:40:16",
+      "pub_time": "2026-04-24 21:03:19",
+      "publication": "The Guardian",
+      "author": "Sam Levin",
+      "headline": "Police across the U.S. worry officers are being misidentified as ICE agents, records show",
+      "article_headline": "Police across the U.S. worry officers are being misidentified as ICE agents, records show"
+    }
+  ]
+}

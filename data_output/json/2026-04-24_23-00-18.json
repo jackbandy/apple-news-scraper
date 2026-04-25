@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-24 23:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ahb0Erq7ZSWGMs_Cmpw4xCg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-24 23:00:18",
+      "pub_time": "2026-04-24 22:38:19",
+      "publication": "The Washington Post",
+      "author": "Natalie Allison, John Hudson, and Karen DeYoung",
+      "headline": "Iran talks to resume this weekend without Vance",
+      "article_headline": "Iran talks to resume this weekend without Vance"
+    },
+    {
+      "link": "https://apple.news/ABCm3WSSFQGOMhTDqbXR7-w",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-24 23:00:18",
+      "pub_time": "2026-04-24 22:38:47",
+      "publication": "The Texas Tribune",
+      "author": "Alejandro Serrano",
+      "headline": "Texas police can arrest people suspected of entering country illegally, federal court rules",
+      "article_headline": "Texas police can arrest people suspected of entering country illegally, federal court rules"
+    },
+    {
+      "link": "https://apple.news/ABCm3WSSFQGOMhTDqbXR7-w",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-24 23:00:18",
+      "pub_time": "2026-04-24 22:38:20",
+      "publication": "The Texas Tribune",
+      "author": "Alejandro Serrano",
+      "headline": "Texas police can arrest people suspected of entering country illegally, federal court rules",
+      "article_headline": "Texas police can arrest people suspected of entering country illegally, federal court rules"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-24 23:00:18",
+      "pub_time": "2026-04-24 22:38:48",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Osipovich and Krystal Hur",
+      "headline": "Arrest of U.S. soldier signals Polymarket’s wild-west days are ending",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ABsbIV2IzSbmsnNRsEZstYg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-24 23:00:18",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "How debris from past hurricanes is fueling raging wildfires in the South",
+      "article_headline": "How debris from past hurricanes is fueling raging wildfires in the South"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-24 23:00:18",
+      "pub_time": "2026-04-24 22:38:21",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Osipovich and Krystal Hur",
+      "headline": "Arrest of U.S. soldier signals Polymarket’s wild-west days are ending",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AbpAQ3PlLTMuNYBPppQyYoA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-24 23:00:18",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Grading every pick in the second and third rounds of the NFL draft",
+      "article_headline": "2026 NFL Draft grades for Rounds 2 and 3: Carson Beck pick an A-minus; Jets, Lions get A’s"
+    }
+  ]
+}
