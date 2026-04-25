@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-25 12:40:14",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AepUaVbHPTBS3Vp06wNBP5Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-25 12:40:14",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump says U.S. envoys’ trip for Iran peace talks is canceled, LIVE",
+      "article_headline": "Trump Cancels U.S. Envoys' Trip to Pakistan for Iran Peace Talks"
+    },
+    {
+      "link": "https://apple.news/AMW4phSyVQy6IImCCDwAsVQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-25 12:40:14",
+      "pub_time": "2026-04-25 11:40:43",
+      "publication": "The Washington Post",
+      "author": "Ian Duncan",
+      "headline": "White House pushed out new AI official after just 4 days on the job",
+      "article_headline": "White House pushed out new AI official after just four days on the job"
+    },
+    {
+      "link": "https://apple.news/AOz6lBpZzTF65qnew39f0BQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-25 12:40:14",
+      "pub_time": "2026-04-25 11:41:10",
+      "publication": "NBC News",
+      "author": "Casey Wooten",
+      "headline": "Trump set to attend his first White House Correspondents’ Dinner as president",
+      "article_headline": "Trump set to attend his first White House Correspondents’ Dinner as president"
+    },
+    {
+      "link": "https://apple.news/AvYA8e6KVStycjOVTkB6doQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-25 12:40:14",
+      "pub_time": "2026-04-25 11:41:44",
+      "publication": "The Trace",
+      "author": "Jennifer Mascia",
+      "headline": "Devastating shootings in Louisiana and Virginia follow this pattern. It’s more common than people know.",
+      "article_headline": "Devastating shootings in Louisiana and Virginia follow this pattern. It’s more common than people know."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-25 12:40:14",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "The untouchable assets of this year’s NFL Draft? The 2027 first-round picks",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-25 12:40:14",
+      "pub_time": "2026-04-25 11:42:17",
+      "publication": "Vox",
+      "author": "Sara Herschander",
+      "headline": "Why America’s HIV epidemic hasn’t ended",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AREYhNcEdS-qvyOPKgTg_lA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-25 12:40:14",
+      "pub_time": "",
+      "publication": "NBC 5 Chicago",
+      "author": "",
+      "headline": "Local News, Chicago, “All hazards” possible during severe weather threat on Monday after cool weekend",
+      "article_headline": "'All hazards' possible during severe weather threat on Monday after cool weekend"
+    }
+  ]
+}
