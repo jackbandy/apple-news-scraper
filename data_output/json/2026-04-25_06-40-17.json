@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-25 06:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AixrzNsJeROuRa0kKO86nHg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-25 06:40:17",
+      "pub_time": "2026-04-25 06:05:18",
+      "publication": "Reuters",
+      "author": "Saad Sayeed, Ariba Shahid, and Steve Holland",
+      "headline": "Iran’s foreign minister arrives in Pakistan, Trump expects offer satisfying U.S. demands",
+      "article_headline": "Iran's foreign minister arrives in Pakistan, Trump expects offer satisfying US demands"
+    },
+    {
+      "link": "https://apple.news/AGh2nAk-DRzqMVGOt9FaVCw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-25 06:40:17",
+      "pub_time": "2026-04-25 06:05:46",
+      "publication": "The Washington Post",
+      "author": "Mark Berman",
+      "headline": "Trump administration moves to add firing squad to federal execution methods",
+      "article_headline": "Trump administration moves to add firing squad to federal execution methods"
+    },
+    {
+      "link": "https://apple.news/AGh2nAk-DRzqMVGOt9FaVCw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-25 06:40:17",
+      "pub_time": "2026-04-25 06:05:18",
+      "publication": "The Washington Post",
+      "author": "Mark Berman",
+      "headline": "Trump administration moves to add firing squad to federal execution methods",
+      "article_headline": "Trump administration moves to add firing squad to federal execution methods"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-25 06:40:17",
+      "pub_time": "2026-04-25 06:05:46",
+      "publication": "The Christian Science Monitor",
+      "author": "Ghada Abdulfattah and Taylor Luck",
+      "headline": "In Gaza, rare elections put hope, and talk of Palestinian unity, on the ballot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAwYhJ0itSyi548HGZcS6Jg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-25 06:40:17",
+      "pub_time": "2026-04-25 06:05:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House",
+      "article_headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-25 06:40:17",
+      "pub_time": "2026-04-25 06:05:19",
+      "publication": "The Christian Science Monitor",
+      "author": "Ghada Abdulfattah and Taylor Luck",
+      "headline": "In Gaza, rare elections put hope, and talk of Palestinian unity, on the ballot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAwYhJ0itSyi548HGZcS6Jg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-25 06:40:17",
+      "pub_time": "2026-04-25 06:05:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House",
+      "article_headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House"
+    },
+    {
+      "link": "https://apple.news/A5akNH66RT3uKJKsuKViayQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-25 06:40:17",
+      "pub_time": "2026-04-24 07:42:52",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "Wake Up Every Night At 3AM? You May Have This Sleeping Condition",
+      "article_headline": "Wake Up Every Night At 3AM? You May Have This Sleeping Condition"
+    },
+    {
+      "link": "https://apple.news/A93KHc8bVTFKp2UmvX1T3Iw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-25 06:40:17",
+      "pub_time": "2026-04-24 15:43:26",
+      "publication": "Good Housekeeping",
+      "author": "Madeleine Haase",
+      "headline": "Doctors Say This Simple Trick Can Help Clear Chest Congestion Fast",
+      "article_headline": "Doctors Say This Simple Trick Can Help Clear Chest Congestion Fast"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-25 06:40:17",
+      "pub_time": "2026-04-24 06:43:54",
+      "publication": "",
+      "author": "Mikaela Ruland",
+      "headline": "The Road Trip Between Yellowstone and Glacier Is One of the Best in America",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A0dlB8J4aQniM62iBiputtg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-25 06:40:17",
+      "pub_time": "2026-04-24 17:43:54",
+      "publication": "TheStreet",
+      "author": "Damilola Esebame and Celine Provini",
+      "headline": "Fidelity breaks down the $15B scam gutting savers",
+      "article_headline": "Fidelity breaks down the $15B scam gutting savers"
+    }
+  ]
+}

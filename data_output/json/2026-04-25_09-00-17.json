@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-25 09:00:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AixrzNsJeROuRa0kKO86nHg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-25 09:00:17",
+      "pub_time": "2026-04-25 08:15:19",
+      "publication": "Reuters",
+      "author": "Saad Sayeed, Ariba Shahid, and Steve Holland",
+      "headline": "Iran’s foreign minister arrives in Pakistan, Trump expects offer satisfying U.S. demands",
+      "article_headline": "Iran's foreign minister arrives in Pakistan, Trump expects offer satisfying US demands"
+    },
+    {
+      "link": "https://apple.news/AMW4phSyVQy6IImCCDwAsVQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-25 09:00:17",
+      "pub_time": "2026-04-25 08:15:46",
+      "publication": "The Washington Post",
+      "author": "Ian Duncan",
+      "headline": "White House pushed out new AI official after just 4 days on the job",
+      "article_headline": "White House pushed out new AI official after just four days on the job"
+    },
+    {
+      "link": "https://apple.news/AMW4phSyVQy6IImCCDwAsVQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-25 09:00:17",
+      "pub_time": "2026-04-25 08:15:19",
+      "publication": "The Washington Post",
+      "author": "Ian Duncan",
+      "headline": "White House pushed out new AI official after just 4 days on the job",
+      "article_headline": "White House pushed out new AI official after just four days on the job"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-25 09:00:17",
+      "pub_time": "2026-04-25 08:15:47",
+      "publication": "The Christian Science Monitor",
+      "author": "Ghada Abdulfattah and Taylor Luck",
+      "headline": "In Gaza, rare elections put hope, and talk of Palestinian unity, on the ballot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAwYhJ0itSyi548HGZcS6Jg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-25 09:00:17",
+      "pub_time": "2026-04-25 08:15:47",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House",
+      "article_headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-25 09:00:17",
+      "pub_time": "2026-04-25 08:15:20",
+      "publication": "The Christian Science Monitor",
+      "author": "Ghada Abdulfattah and Taylor Luck",
+      "headline": "In Gaza, rare elections put hope, and talk of Palestinian unity, on the ballot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AAwYhJ0itSyi548HGZcS6Jg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-25 09:00:17",
+      "pub_time": "2026-04-25 08:15:20",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House",
+      "article_headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House"
+    },
+    {
+      "link": "https://apple.news/AO0emYMN8QJKxOHeV3Ib0Gg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-25 09:00:17",
+      "pub_time": "2026-04-25 01:03:34",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "Not Cardio Or Weights: The 'Neglected' Exercise Type That Helps Us Age Better",
+      "article_headline": "Not Cardio Or Weights: The 'Neglected' Exercise Type That Helps Us Age Better"
+    },
+    {
+      "link": "https://apple.news/AqKatEPjVS3iRvSzZUtLlUA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-25 09:00:17",
+      "pub_time": "2026-04-25 05:04:01",
+      "publication": "People",
+      "author": "Angela Andaloro",
+      "headline": "'Gilligan’s Island' Ended on an Unusual Note in 1967. Here’s Why the Beloved Series Never Got a Proper Finale",
+      "article_headline": "'Gilligan’s Island' Ended on an Unusual Note in 1967. Here’s Why the Beloved Series Never Got a Proper Finale"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-25 09:00:17",
+      "pub_time": "2026-04-24 12:04:34",
+      "publication": "",
+      "author": "Jason Gay",
+      "headline": "The Mike Vrabel Situation Has Gotten Very Awkward in New England",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A2x-GGhkfS6CgDBwUTe3hig",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-25 09:00:17",
+      "pub_time": "2026-04-25 07:04:34",
+      "publication": "BuzzFeed",
+      "author": "Julia Corrigan",
+      "headline": "15 Of The Biggest Historical Lies People Somehow Still Believe, Despite All Evidence To The Contrary",
+      "article_headline": "15 Of The Biggest Historical Lies People Somehow Still Believe, Despite All Evidence To The Contrary"
+    }
+  ]
+}

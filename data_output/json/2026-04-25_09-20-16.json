@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-04-25 09:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ACYNXO11gTQaUezwvWL6amw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-25 09:20:16",
+      "pub_time": "2026-04-25 09:02:18",
+      "publication": "NPR",
+      "author": "Drew Hawkins",
+      "headline": "The rising cost of fertilizer and fuel prices is pushing some farmers to the brink",
+      "article_headline": "The rising cost of fertilizer and fuel prices is pushing some farmers to the brink"
+    },
+    {
+      "link": "https://apple.news/AMW4phSyVQy6IImCCDwAsVQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-25 09:20:16",
+      "pub_time": "2026-04-25 09:02:45",
+      "publication": "The Washington Post",
+      "author": "Ian Duncan",
+      "headline": "White House pushed out new AI official after just 4 days on the job",
+      "article_headline": "White House pushed out new AI official after just four days on the job"
+    },
+    {
+      "link": "https://apple.news/AOz6lBpZzTF65qnew39f0BQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-25 09:20:16",
+      "pub_time": "2026-04-25 09:03:13",
+      "publication": "NBC News",
+      "author": "Casey Wooten",
+      "headline": "Trump set to attend his first White House Correspondents’ Dinner as president",
+      "article_headline": "Trump set to attend his first White House Correspondents’ Dinner as president"
+    },
+    {
+      "link": "https://apple.news/AMW4phSyVQy6IImCCDwAsVQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-25 09:20:16",
+      "pub_time": "2026-04-25 09:02:46",
+      "publication": "The Washington Post",
+      "author": "Ian Duncan",
+      "headline": "White House pushed out new AI official after just 4 days on the job",
+      "article_headline": "White House pushed out new AI official after just four days on the job"
+    },
+    {
+      "link": "https://apple.news/AOz6lBpZzTF65qnew39f0BQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-25 09:20:16",
+      "pub_time": "2026-04-25 09:03:14",
+      "publication": "NBC News",
+      "author": "Casey Wooten",
+      "headline": "Trump set to attend his first White House Correspondents’ Dinner as president",
+      "article_headline": "Trump set to attend his first White House Correspondents’ Dinner as president"
+    },
+    {
+      "link": "https://apple.news/AAwYhJ0itSyi548HGZcS6Jg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-25 09:20:16",
+      "pub_time": "2026-04-25 09:02:41",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House",
+      "article_headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House"
+    },
+    {
+      "link": "https://apple.news/AAwYhJ0itSyi548HGZcS6Jg",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-25 09:20:16",
+      "pub_time": "2026-04-25 09:02:15",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House",
+      "article_headline": "How conspiracy theories about missing or dead scientists went from online forums to the White House"
+    },
+    {
+      "link": "https://apple.news/AO0emYMN8QJKxOHeV3Ib0Gg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-25 09:20:16",
+      "pub_time": "2026-04-25 01:24:30",
+      "publication": "HuffPost",
+      "author": "Amy Glover",
+      "headline": "Not Cardio Or Weights: The 'Neglected' Exercise Type That Helps Us Age Better",
+      "article_headline": "Not Cardio Or Weights: The 'Neglected' Exercise Type That Helps Us Age Better"
+    },
+    {
+      "link": "https://apple.news/AqKatEPjVS3iRvSzZUtLlUA",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-25 09:20:16",
+      "pub_time": "2026-04-25 05:24:57",
+      "publication": "People",
+      "author": "Angela Andaloro",
+      "headline": "'Gilligan’s Island' Ended on an Unusual Note in 1967. Here’s Why the Beloved Series Never Got a Proper Finale",
+      "article_headline": "'Gilligan’s Island' Ended on an Unusual Note in 1967. Here’s Why the Beloved Series Never Got a Proper Finale"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-25 09:20:16",
+      "pub_time": "2026-04-24 09:25:31",
+      "publication": "",
+      "author": "Sebastian Herrera",
+      "headline": "Microsoft Offers Its First Ever Buyouts to Shape Workforce Around AI Push",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A2x-GGhkfS6CgDBwUTe3hig",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-25 09:20:16",
+      "pub_time": "2026-04-25 06:25:31",
+      "publication": "BuzzFeed",
+      "author": "Julia Corrigan",
+      "headline": "15 Of The Biggest Historical Lies People Somehow Still Believe, Despite All Evidence To The Contrary",
+      "article_headline": "15 Of The Biggest Historical Lies People Somehow Still Believe, Despite All Evidence To The Contrary"
+    }
+  ]
+}
