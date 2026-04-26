@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-25 20:00:18",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ArfosVx7OTdC9RWE35kDIiA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-25 20:00:18",
+      "pub_time": "2026-04-25 19:56:20",
+      "publication": "DEVELOPING",
+      "author": "",
+      "headline": "The Associated Press, Trump evacuated after security incident at White House correspondents dinner; no sign of injuries",
+      "article_headline": "Trump evacuated after security incident at White House correspondents dinner; no sign of injuries"
+    },
+    {
+      "link": "https://apple.news/AykqDqxXXQEi-cgSQH-KbJA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-25 20:00:18",
+      "pub_time": "2026-04-25 19:56:47",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon, Laurence Norman, and Natalie Andrews",
+      "headline": "Aborted Pakistan trip leaves Trump with tough choices on Iran talks",
+      "article_headline": "Aborted Pakistan trip leaves Trump with tough choices on Iran talks"
+    },
+    {
+      "link": "https://apple.news/AtPvole58T8qodQkiOEgnHg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-25 20:00:18",
+      "pub_time": "2026-04-25 19:57:14",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "article_headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali"
+    },
+    {
+      "link": "https://apple.news/AykqDqxXXQEi-cgSQH-KbJA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-25 20:00:18",
+      "pub_time": "2026-04-25 19:56:46",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon, Laurence Norman, and Natalie Andrews",
+      "headline": "Aborted Pakistan trip leaves Trump with tough choices on Iran talks",
+      "article_headline": "Aborted Pakistan trip leaves Trump with tough choices on Iran talks"
+    },
+    {
+      "link": "https://apple.news/AtPvole58T8qodQkiOEgnHg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-25 20:00:18",
+      "pub_time": "2026-04-25 19:57:14",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "article_headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali"
+    },
+    {
+      "link": "https://apple.news/Az0pGlyA6RiuBtO3oud4orA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-25 20:00:18",
+      "pub_time": "2026-04-25 19:56:41",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres",
+      "article_headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres"
+    },
+    {
+      "link": "https://apple.news/Az0pGlyA6RiuBtO3oud4orA",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-25 20:00:18",
+      "pub_time": "2026-04-25 19:56:14",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres",
+      "article_headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres"
+    },
+    {
+      "link": "https://apple.news/AG22uf_npR46Gs1bW4M9wwQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-25 20:00:18",
+      "pub_time": "2026-04-25 06:04:31",
+      "publication": "HuffPost",
+      "author": "Sydni Ellis",
+      "headline": "This Sneaky App Is Probably Sucking Up Your iPhone Storage. Here's How To Free Up Space.",
+      "article_headline": "This Sneaky App Is Probably Sucking Up Your iPhone Storage. Here's How To Free Up Space."
+    },
+    {
+      "link": "https://apple.news/AWTawxzwBQ0qcz6DWuZuM6w",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-25 20:00:18",
+      "pub_time": "2026-04-25 10:05:04",
+      "publication": "Autoblog",
+      "author": "John Tallodi",
+      "headline": "Most Reliable Small SUVs That Will Last the Longest",
+      "article_headline": "Most Reliable Small SUVs That Will Last the Longest"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-25 20:00:18",
+      "pub_time": "2026-04-24 20:05:32",
+      "publication": "",
+      "author": "Allison Parshall",
+      "headline": "How geneticists uncovered a common root of two neurological diseases",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-25 20:00:18",
+      "pub_time": "2026-04-25 06:05:32",
+      "publication": "",
+      "author": "Korin Miller",
+      "headline": "Why Is No One Taking Baby Aspirin for Heart Disease Prevention Anymore?",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-25 23:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ALnVSiJiBS-mbTWXWqx0diw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-25 23:00:16",
+      "pub_time": "2026-04-25 22:00:18",
+      "publication": "Video",
+      "author": "Yoko Kubota, Melissa Korn, and Joseph Pisani",
+      "headline": "The Wall Street Journal, Shooter detained at White House Correspondents’ dinner, says Trump",
+      "article_headline": "Shooter Detained at White House Correspondents’ Dinner, Says Trump"
+    },
+    {
+      "link": "https://apple.news/A3JgzPz4aRzOGKHUCj-8GwQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-25 23:00:16",
+      "pub_time": "2026-04-25 22:00:45",
+      "publication": "Reuters",
+      "author": "Saad Sayeed, Ariba Shahid, and Steve Holland",
+      "headline": "Trump cancels envoys’ Pakistan trip, in blow to hopes for Iran war breakthrough",
+      "article_headline": "Trump cancels envoys’ Pakistan trip, in blow to hopes for Iran war breakthrough"
+    },
+    {
+      "link": "https://apple.news/Az0pGlyA6RiuBtO3oud4orA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-25 23:00:16",
+      "pub_time": "2026-04-25 22:01:12",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres",
+      "article_headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres"
+    },
+    {
+      "link": "https://apple.news/A8XnNDZofTv6HhQMXfHvNbg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-25 23:00:16",
+      "pub_time": "2026-04-25 22:01:45",
+      "publication": "Texas Monthly",
+      "author": "Josh Alvarez",
+      "headline": "The border wall is plowing through the Rio Grande Valley’s natural areas, threatening residents’ connection to the land",
+      "article_headline": "The border wall is plowing through the Rio Grande Valley’s natural areas, threatening residents’ connection to the land"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-25 23:00:16",
+      "pub_time": "",
+      "publication": "Sports Illustrated",
+      "author": "",
+      "headline": "Here are the instant draft grades for all 32 NFL teams",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-25 23:00:16",
+      "pub_time": "",
+      "publication": "New York Magazine",
+      "author": "",
+      "headline": "How did this prominent Manhattan art dealer get away with murder? , Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AG779czrEQyWDhoPZMeZo7w",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-25 23:00:16",
+      "pub_time": "",
+      "publication": "The unique power of  an American pope",
+      "author": "",
+      "headline": "What Pope Leo XIV’s papacy  means for U.S. politics.,  Play Now  30 min",
+      "article_headline": ""
+    }
+  ]
+}

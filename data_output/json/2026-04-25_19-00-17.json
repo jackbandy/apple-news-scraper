@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-25 19:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AykqDqxXXQEi-cgSQH-KbJA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-25 19:00:17",
+      "pub_time": "2026-04-25 18:40:19",
+      "publication": "The Wall Street Journal",
+      "author": "Benoit Faucon, Laurence Norman, and Natalie Andrews",
+      "headline": "Aborted Pakistan trip leaves Trump with tough choices on Iran talks",
+      "article_headline": "Aborted Pakistan trip leaves Trump with tough choices on Iran talks"
+    },
+    {
+      "link": "https://apple.news/A_QjHrMenSu2mFh4CE1ZWWA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-25 19:00:17",
+      "pub_time": "2026-04-25 18:40:46",
+      "publication": "NPR",
+      "author": "Ximena Bustillo",
+      "headline": "DHS starts deportation of woman whose loved one died in the Baltimore bridge collapse",
+      "article_headline": "DHS starts deportation of woman whose loved one died in the Baltimore bridge collapse"
+    },
+    {
+      "link": "https://apple.news/AtPvole58T8qodQkiOEgnHg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-25 19:00:17",
+      "pub_time": "2026-04-25 18:41:13",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "article_headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali"
+    },
+    {
+      "link": "https://apple.news/A_QjHrMenSu2mFh4CE1ZWWA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-25 19:00:17",
+      "pub_time": "2026-04-25 18:39:45",
+      "publication": "NPR",
+      "author": "Ximena Bustillo",
+      "headline": "DHS starts deportation of woman whose loved one died in the Baltimore bridge collapse",
+      "article_headline": "DHS starts deportation of woman whose loved one died in the Baltimore bridge collapse"
+    },
+    {
+      "link": "https://apple.news/AtPvole58T8qodQkiOEgnHg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-25 19:00:17",
+      "pub_time": "2026-04-25 18:40:13",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "article_headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali"
+    },
+    {
+      "link": "https://apple.news/Az0pGlyA6RiuBtO3oud4orA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-25 19:00:17",
+      "pub_time": "2026-04-25 18:40:40",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres",
+      "article_headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres"
+    },
+    {
+      "link": "https://apple.news/AAdK_PWjARHWpGr6F6ZvqrA",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-25 19:00:17",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Here are the instant draft grades for all 32 NFL teams",
+      "article_headline": "Here are the instant draft grades for all 32 NFL teams"
+    }
+  ]
+}

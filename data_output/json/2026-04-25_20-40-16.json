@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-25 20:40:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A1gWfMnnURNGvMr9zWMmOwg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-25 20:40:16",
+      "pub_time": "2026-04-25 20:38:18",
+      "publication": "DEVELOPING",
+      "author": "",
+      "headline": "Reuters, Trump safe after being rushed from White House Correspondents’ dinner, shooter in custody",
+      "article_headline": "Trump safe after being rushed from White House correspondents dinner, shooter in custody"
+    },
+    {
+      "link": "https://apple.news/AtPvole58T8qodQkiOEgnHg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-25 20:40:16",
+      "pub_time": "2026-04-25 20:38:51",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "article_headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali"
+    },
+    {
+      "link": "https://apple.news/AGk2wNj92SQS1ai7MDaz8qA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-25 20:40:16",
+      "pub_time": "2026-04-25 20:37:23",
+      "publication": "Video",
+      "author": "NBC News NOW",
+      "headline": "NBC News, President Trump cancels Witkoff, Kushner trip to Pakistan for Iran talks",
+      "article_headline": "President Trump cancels Witkoff, Kushner trip to Pakistan for Iran talks"
+    },
+    {
+      "link": "https://apple.news/AtPvole58T8qodQkiOEgnHg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-25 20:40:16",
+      "pub_time": "2026-04-25 20:37:50",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "article_headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali"
+    },
+    {
+      "link": "https://apple.news/Az0pGlyA6RiuBtO3oud4orA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-25 20:40:16",
+      "pub_time": "2026-04-25 20:38:18",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres",
+      "article_headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres"
+    },
+    {
+      "link": "https://apple.news/Az0pGlyA6RiuBtO3oud4orA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-25 20:40:16",
+      "pub_time": "2026-04-25 20:37:50",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres",
+      "article_headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres"
+    },
+    {
+      "link": "https://apple.news/AAdK_PWjARHWpGr6F6ZvqrA",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-25 20:40:16",
+      "pub_time": "",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Here are the instant draft grades for all 32 NFL teams",
+      "article_headline": "Here are the instant draft grades for all 32 NFL teams"
+    },
+    {
+      "link": "https://apple.news/AG22uf_npR46Gs1bW4M9wwQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-25 20:40:16",
+      "pub_time": "2026-04-25 06:44:05",
+      "publication": "HuffPost",
+      "author": "Sydni Ellis",
+      "headline": "This Sneaky App Is Probably Sucking Up Your iPhone Storage. Here's How To Free Up Space.",
+      "article_headline": "This Sneaky App Is Probably Sucking Up Your iPhone Storage. Here's How To Free Up Space."
+    },
+    {
+      "link": "https://apple.news/AWTawxzwBQ0qcz6DWuZuM6w",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-25 20:40:16",
+      "pub_time": "2026-04-25 09:44:38",
+      "publication": "Autoblog",
+      "author": "John Tallodi",
+      "headline": "Most Reliable Small SUVs That Will Last the Longest",
+      "article_headline": "Most Reliable Small SUVs That Will Last the Longest"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-25 20:40:16",
+      "pub_time": "2026-04-25 05:45:06",
+      "publication": "",
+      "author": "Kathleen Felton",
+      "headline": "So, you got bit by a tick. Here’s exactly what to do next.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-25 20:40:16",
+      "pub_time": "2026-04-25 06:45:06",
+      "publication": "",
+      "author": "Korin Miller",
+      "headline": "Why Is No One Taking Baby Aspirin for Heart Disease Prevention Anymore?",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

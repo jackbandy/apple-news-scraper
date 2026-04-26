@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-25 21:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A1gWfMnnURNGvMr9zWMmOwg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-25 21:00:18",
+      "pub_time": "2026-04-25 20:54:20",
+      "publication": "DEVELOPING",
+      "author": "",
+      "headline": "Reuters, Trump safe after being rushed from White House Correspondents’ dinner, shooter in custody",
+      "article_headline": "Trump safe after being rushed from White House correspondents dinner, shooter in custody"
+    },
+    {
+      "link": "https://apple.news/AtPvole58T8qodQkiOEgnHg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-25 21:00:18",
+      "pub_time": "2026-04-25 20:54:53",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "article_headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali"
+    },
+    {
+      "link": "https://apple.news/AGk2wNj92SQS1ai7MDaz8qA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-25 21:00:18",
+      "pub_time": "2026-04-25 20:54:25",
+      "publication": "Video",
+      "author": "NBC News NOW",
+      "headline": "NBC News, President Trump cancels Witkoff, Kushner trip to Pakistan for Iran talks",
+      "article_headline": "President Trump cancels Witkoff, Kushner trip to Pakistan for Iran talks"
+    },
+    {
+      "link": "https://apple.news/AtPvole58T8qodQkiOEgnHg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-25 21:00:18",
+      "pub_time": "2026-04-25 20:54:53",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "article_headline": "Explosions and gunfire as armed groups launch coordinated attacks across Mali"
+    },
+    {
+      "link": "https://apple.news/Az0pGlyA6RiuBtO3oud4orA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-25 21:00:18",
+      "pub_time": "2026-04-25 20:55:20",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres",
+      "article_headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres"
+    },
+    {
+      "link": "https://apple.news/Az0pGlyA6RiuBtO3oud4orA",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-25 21:00:18",
+      "pub_time": "2026-04-25 20:54:53",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres",
+      "article_headline": "2 Georgia wildfires destroy more than 120 homes, scorch over 40,000 acres"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-25 21:00:18",
+      "pub_time": "",
+      "publication": "Sports Illustrated",
+      "author": "",
+      "headline": "Here are the instant draft grades for all 32 NFL teams",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
