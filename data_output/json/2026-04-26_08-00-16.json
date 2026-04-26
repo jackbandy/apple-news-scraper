@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-26 08:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A1gWfMnnURNGvMr9zWMmOwg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-26 08:00:16",
+      "pub_time": "2026-04-26 07:08:17",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump safe after shooting at White House Correspondents’ dinner, suspect in custody, MORE DETAILS",
+      "article_headline": "Trump was likely target of shooting at White House Correspondents' dinner, says US official"
+    },
+    {
+      "link": "https://apple.news/A3Op90QmlRg-UnwSd3DeCbw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-26 08:00:16",
+      "pub_time": "2026-04-26 07:08:49",
+      "publication": "Axios",
+      "author": "Barak Ravid",
+      "headline": "Israel sent “Iron Dome” system and troops to UAE during Iran war",
+      "article_headline": "Israel sent “Iron Dome” system and troops to UAE during Iran war"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-26 08:00:16",
+      "pub_time": "2026-04-26 07:09:16",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Epstein victim who spoke out against trafficking is honored in Washington service",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A3Op90QmlRg-UnwSd3DeCbw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-26 08:00:16",
+      "pub_time": "2026-04-26 07:08:22",
+      "publication": "Axios",
+      "author": "Barak Ravid",
+      "headline": "Israel sent “Iron Dome” system and troops to UAE during Iran war",
+      "article_headline": "Israel sent “Iron Dome” system and troops to UAE during Iran war"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-26 08:00:16",
+      "pub_time": "2026-04-26 07:08:49",
+      "publication": "Miami Herald",
+      "author": "",
+      "headline": "Epstein victim who spoke out against trafficking is honored in Washington service",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AYCKGw5GoRKyyUHGK3F36-w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-26 08:00:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Sabastian Sawe finishes London Marathon in under two hours to obliterate men’s world record",
+      "article_headline": "Sabastian Sawe finishes London Marathon in under two hours to obliterate men’s world record"
+    },
+    {
+      "link": "https://apple.news/AcQKNWBk7RMiIpJHkYpZDqQ?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RVOXh4R1dSV1NQU011R0xGMTR0VF9BI25mZl9paWQ%3D",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-26 08:00:16",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Climate, A “jumping worm” spreads in the U.S. Plus, the race to drill to the Earth's core.",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/A1SP0KLJ3TBSEKXcQ-9jzeQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-26 08:00:16",
+      "pub_time": "2026-04-26 05:02:54",
+      "publication": "BuzzFeed",
+      "author": "Jake Farrington",
+      "headline": "28 Completely Basic Things People Can't Afford To Buy Anymore Because Companies Appear To Be Hell-Bent On Bleeding Their Consumers Dry",
+      "article_headline": "28 Completely Basic Things People Can't Afford To Buy Anymore Because Companies Appear To Be Hell-Bent On Bleeding Their Consumers Dry"
+    },
+    {
+      "link": "https://apple.news/AeeI7Dl62T6GO4INJdfoxKQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-26 08:00:16",
+      "pub_time": "2026-04-26 05:03:27",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "These 3 places are way 'overdue' for a direct hit from a hurricane",
+      "article_headline": "These 3 places are way 'overdue' for a direct hit from a hurricane"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-26 08:00:16",
+      "pub_time": "2026-04-25 08:03:55",
+      "publication": "",
+      "author": "Vivienne Ming",
+      "headline": "AI Is Cannibalizing Human Intelligence. Here’s How to Stop It.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A-Ei2hA4wTOCVu3TTN6NkGg",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-26 08:00:16",
+      "pub_time": "2026-04-25 22:03:55",
+      "publication": "Acme Packing Company",
+      "author": "",
+      "headline": "Packers draft grades Reacts survey: Grading the full 2026 class",
+      "article_headline": "Packers draft grades Reacts survey: Grading the full 2026 class"
+    }
+  ]
+}
