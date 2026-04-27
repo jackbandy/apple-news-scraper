@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-27 07:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AAiAO-1e9SGmmBYW2n0MCPA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-27 07:00:16",
+      "pub_time": "2026-04-27 06:46:17",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Suspect wrote of targeting Trump officials before correspondents’ dinner shooting, MORE DETAILS",
+      "article_headline": "Suspect wrote of targeting Trump officials before correspondents’ dinner shooting"
+    },
+    {
+      "link": "https://apple.news/AJQigVz4tSlSR7-neLaQXhQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-27 07:00:16",
+      "pub_time": "2026-04-27 06:46:49",
+      "publication": "Reuters",
+      "author": "Steve Holland and Asif Shahzad",
+      "headline": "Iranian foreign minister heads to Russia for support as Trump says “call us” to negotiate",
+      "article_headline": "Iranian foreign minister heads to Russia for support as Trump says “call us” to negotiate"
+    },
+    {
+      "link": "https://apple.news/AiSHY3ewJS9ub-ks24dyoxw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-27 07:00:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "King Charles steps into U.K.-Trump standoff just as new security concerns arise",
+      "article_headline": "King Charles steps into U.K.-Trump standoff just as new security concerns arise"
+    },
+    {
+      "link": "https://apple.news/AJQigVz4tSlSR7-neLaQXhQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-27 07:00:16",
+      "pub_time": "2026-04-27 06:46:50",
+      "publication": "Reuters",
+      "author": "Steve Holland and Asif Shahzad",
+      "headline": "Iranian foreign minister heads to Russia for support as Trump says “call us” to negotiate",
+      "article_headline": "Iranian foreign minister heads to Russia for support as Trump says “call us” to negotiate"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-27 07:00:16",
+      "pub_time": "2026-04-27 06:46:17",
+      "publication": "Los Angeles Times",
+      "author": "Seema Mehta",
+      "headline": "California billionaire-tax backers say they have enough signatures to qualify for the ballot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aj3eEX9QRS4iv2DSXXPERrA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-27 07:00:16",
+      "pub_time": "",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Unfounded health concerns are powering a solar backlash",
+      "article_headline": "Unfounded health concerns are powering a solar backlash"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-27 07:00:16",
+      "pub_time": "2026-04-27 06:45:50",
+      "publication": "Los Angeles Times",
+      "author": "Seema Mehta",
+      "headline": "California billionaire-tax backers say they have enough signatures to qualify for the ballot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AONG_mQx5TtuizqNlnwwWhQ",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-27 07:00:16",
+      "pub_time": "2026-04-26 08:02:55",
+      "publication": "BuzzFeed",
+      "author": "Daniella Flores",
+      "headline": "\"$150,000 A Year With An Annual Bonus\": 31 Jobs That Pay Really Well For Surprisingly Little Effort, According To The People Who Have Them",
+      "article_headline": "\"$150,000 A Year With An Annual Bonus\": 31 Jobs That Pay Really Well For Surprisingly Little Effort, According To The People Who Have Them"
+    },
+    {
+      "link": "https://apple.news/ACBJ3vP2-RLeq1mUzrO96vg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-27 07:00:16",
+      "pub_time": "2026-04-27 06:03:28",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "22 Buddhist monks arrested at airport after record drug bust",
+      "article_headline": "22 Buddhist monks arrested at airport after record drug bust"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-27 07:00:16",
+      "pub_time": "2026-04-26 07:03:56",
+      "publication": "",
+      "author": "Olivia Bria",
+      "headline": "After Using This Water Pitcher That Filters Out Forever Chemicals, I’ll Never Go Back to a Brita",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A3b-nM8FgQfej71eWXNupgQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-27 07:00:16",
+      "pub_time": "2026-04-27 05:03:56",
+      "publication": "People",
+      "author": "Alexandra Schonfeld",
+      "headline": "A Look at Ringo Starr and Barbara Bach's Early Days as the Long-Term Couple Marks Their 45th Wedding Anniversary",
+      "article_headline": "A Look at Ringo Starr and Barbara Bach's Early Days as the Long-Term Couple Marks Their 45th Wedding Anniversary"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-27 11:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aq_gJEbANTLWBwtEqY_AwjQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-27 11:00:17",
+      "pub_time": "2026-04-27 10:47:18",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "White House Correspondents’ dinner suspect to appear in court, MORE DETAILS",
+      "article_headline": "White House Correspondents’ dinner suspect to appear in court"
+    },
+    {
+      "link": "https://apple.news/AGWCjlwLKScyQ3M_qDm_yXA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-27 11:00:17",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "“It’s going to be a circus”: inside Mike Johnson’s grueling week",
+      "article_headline": "“It’s going to be a circus”: inside Mike Johnson’s grueling week"
+    },
+    {
+      "link": "https://apple.news/AYOZe3IYkQvO3dupZkluVtA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-27 11:00:17",
+      "pub_time": "2026-04-27 10:48:19",
+      "publication": "NBC News",
+      "author": "Alexander Smith",
+      "headline": "“Call us,” Trump tells Iran as Putin hosts Tehran’s top diplomat with peace talks stalled",
+      "article_headline": "“Call us,” Trump tells Iran as Putin hosts Tehran’s top diplomat with peace talks stalled"
+    },
+    {
+      "link": "https://apple.news/AYOZe3IYkQvO3dupZkluVtA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-27 11:00:17",
+      "pub_time": "2026-04-27 10:47:52",
+      "publication": "NBC News",
+      "author": "Alexander Smith",
+      "headline": "“Call us,” Trump tells Iran as Putin hosts Tehran’s top diplomat with peace talks stalled",
+      "article_headline": "“Call us,” Trump tells Iran as Putin hosts Tehran’s top diplomat with peace talks stalled"
+    },
+    {
+      "link": "https://apple.news/AjUwQfI7BTAe131KEvoHFtg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-27 11:00:17",
+      "pub_time": "2026-04-27 10:48:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Virginia Supreme Court considers whether to block voter-approved redistricting map favoring Democrats",
+      "article_headline": "Virginia Supreme Court considers whether to block voter-approved redistricting map favoring Democrats"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-27 11:00:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The $50 movie ticket has arrived",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AjUwQfI7BTAe131KEvoHFtg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-27 11:00:17",
+      "pub_time": "2026-04-27 10:47:52",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Virginia Supreme Court considers whether to block voter-approved redistricting map favoring Democrats",
+      "article_headline": "Virginia Supreme Court considers whether to block voter-approved redistricting map favoring Democrats"
+    }
+  ]
+}

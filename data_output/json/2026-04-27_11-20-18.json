@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-27 11:20:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aq_gJEbANTLWBwtEqY_AwjQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-27 11:20:18",
+      "pub_time": "2026-04-27 11:13:19",
+      "publication": "ABC News",
+      "author": "David Brennan",
+      "headline": "White House Correspondents’ dinner suspect to appear in court",
+      "article_headline": "White House Correspondents’ dinner suspect to appear in court"
+    },
+    {
+      "link": "https://apple.news/AYOZe3IYkQvO3dupZkluVtA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-27 11:20:18",
+      "pub_time": "2026-04-27 11:13:47",
+      "publication": "NBC News",
+      "author": "Alexander Smith",
+      "headline": "“Call us,” Trump tells Iran as Putin hosts Tehran’s top diplomat with peace talks stalled",
+      "article_headline": "“Call us,” Trump tells Iran as Putin hosts Tehran’s top diplomat with peace talks stalled"
+    },
+    {
+      "link": "https://apple.news/AYOZe3IYkQvO3dupZkluVtA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-27 11:20:18",
+      "pub_time": "2026-04-27 11:13:19",
+      "publication": "NBC News",
+      "author": "Alexander Smith",
+      "headline": "“Call us,” Trump tells Iran as Putin hosts Tehran’s top diplomat with peace talks stalled",
+      "article_headline": "“Call us,” Trump tells Iran as Putin hosts Tehran’s top diplomat with peace talks stalled"
+    },
+    {
+      "link": "https://apple.news/ApX5S2983TuWYUK9AgPWp3g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-27 11:20:18",
+      "pub_time": "",
+      "publication": "Fox News",
+      "author": "",
+      "headline": "Supreme Court hands GOP a redistricting win by striking down lower court’s block on Texas map",
+      "article_headline": "Supreme Court hands GOP a redistricting win by striking down lower court’s block on Texas map"
+    },
+    {
+      "link": "https://apple.news/AiSHY3ewJS9ub-ks24dyoxw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-27 11:20:18",
+      "pub_time": "2026-04-27 11:14:14",
+      "publication": "The Washington Post",
+      "author": "Michael Birnbaum and Steve Hendrix",
+      "headline": "King Charles’s rare state visit offers U.K. a chance to mend ties with Trump",
+      "article_headline": "King Charles’s rare state visit offers U.K. a chance to mend ties with Trump"
+    },
+    {
+      "link": "https://apple.news/AiSHY3ewJS9ub-ks24dyoxw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-27 11:20:18",
+      "pub_time": "2026-04-27 11:13:48",
+      "publication": "The Washington Post",
+      "author": "Michael Birnbaum and Steve Hendrix",
+      "headline": "King Charles’s rare state visit offers U.K. a chance to mend ties with Trump",
+      "article_headline": "King Charles’s rare state visit offers U.K. a chance to mend ties with Trump"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-27 11:20:18",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "The $50 movie ticket has arrived",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

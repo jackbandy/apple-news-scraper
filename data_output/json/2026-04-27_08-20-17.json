@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-27 08:20:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AAiAO-1e9SGmmBYW2n0MCPA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-27 08:20:17",
+      "pub_time": "2026-04-27 07:20:19",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Suspect wrote of targeting Trump officials before press-dinner attack, MORE DETAILS",
+      "article_headline": "Suspect wrote of targeting Trump officials before press-dinner attack"
+    },
+    {
+      "link": "https://apple.news/AJQigVz4tSlSR7-neLaQXhQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-27 08:20:17",
+      "pub_time": "2026-04-27 07:20:51",
+      "publication": "Reuters",
+      "author": "Steve Holland and Asif Shahzad",
+      "headline": "Iranian foreign minister heads to Russia for support as Trump says “call us” to negotiate",
+      "article_headline": "Iranian foreign minister heads to Russia for support as Trump says “call us” to negotiate"
+    },
+    {
+      "link": "https://apple.news/AiSHY3ewJS9ub-ks24dyoxw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-27 08:20:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "King Charles steps into U.K.-Trump standoff just as new security concerns arise",
+      "article_headline": "King Charles steps into U.K.-Trump standoff just as new security concerns arise"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-27 08:20:17",
+      "pub_time": "2026-04-27 07:21:52",
+      "publication": "Los Angeles Times",
+      "author": "Seema Mehta",
+      "headline": "California billionaire-tax backers say they have enough signatures to qualify for the ballot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aj3eEX9QRS4iv2DSXXPERrA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-27 08:20:17",
+      "pub_time": "",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Unfounded health concerns are powering a solar backlash",
+      "article_headline": "Unfounded health concerns are powering a solar backlash"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-27 08:20:17",
+      "pub_time": "2026-04-27 07:22:24",
+      "publication": "The Wall Street Journal",
+      "author": "Bojan Pancevski",
+      "headline": "Germany is reinventing itself as a weapons factory",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AA8MgG3PbQPeb5oc-zuZGow",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-27 08:20:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "How another shooter got so close to Trump",
+      "article_headline": ""
+    }
+  ]
+}

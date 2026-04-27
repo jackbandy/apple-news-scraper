@@ -1,0 +1,131 @@
+{
+  "run_time": "2026-04-27 09:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/Aq_gJEbANTLWBwtEqY_AwjQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-27 09:20:16",
+      "pub_time": "2026-04-27 08:37:17",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "White House Correspondents’ dinner suspect to appear in court, MORE DETAILS",
+      "article_headline": "White House Correspondents’ dinner suspect to appear in court"
+    },
+    {
+      "link": "https://apple.news/AGWCjlwLKScyQ3M_qDm_yXA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-27 09:20:16",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "“It’s going to be a circus”: inside Mike Johnson’s grueling week",
+      "article_headline": "“It’s going to be a circus”: inside Mike Johnson’s grueling week"
+    },
+    {
+      "link": "https://apple.news/Af9u153mCSOO8JA2uP9gbaA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-27 09:20:16",
+      "pub_time": "2026-04-27 08:38:16",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran offers to reopen Strait of Hormuz if U.S. lifts its blockade and the war ends, regional officials say",
+      "article_headline": "Iran offers to reopen Strait of Hormuz if U.S. lifts its blockade and the war ends, regional officials say"
+    },
+    {
+      "link": "https://apple.news/Af9u153mCSOO8JA2uP9gbaA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-27 09:20:16",
+      "pub_time": "2026-04-27 08:37:49",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran offers to reopen Strait of Hormuz if U.S. lifts its blockade and the war ends, regional officials say",
+      "article_headline": "Iran offers to reopen Strait of Hormuz if U.S. lifts its blockade and the war ends, regional officials say"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-27 09:20:16",
+      "pub_time": "2026-04-27 08:37:15",
+      "publication": "Los Angeles Times",
+      "author": "Seema Mehta",
+      "headline": "California billionaire-tax backers say they have enough signatures to qualify for the ballot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aj3eEX9QRS4iv2DSXXPERrA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-27 09:20:16",
+      "pub_time": "",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Unfounded health concerns are powering a solar backlash",
+      "article_headline": "Unfounded health concerns are powering a solar backlash"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-27 09:20:16",
+      "pub_time": "2026-04-27 08:36:48",
+      "publication": "Los Angeles Times",
+      "author": "Seema Mehta",
+      "headline": "California billionaire-tax backers say they have enough signatures to qualify for the ballot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ACBJ3vP2-RLeq1mUzrO96vg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-27 09:20:16",
+      "pub_time": "2026-04-27 05:22:53",
+      "publication": "CBS News",
+      "author": "",
+      "headline": "22 Buddhist monks arrested at airport after record drug bust",
+      "article_headline": "22 Buddhist monks arrested at airport after record drug bust"
+    },
+    {
+      "link": "https://apple.news/A3b-nM8FgQfej71eWXNupgQ",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-27 09:20:16",
+      "pub_time": "2026-04-27 05:23:21",
+      "publication": "People",
+      "author": "Alexandra Schonfeld",
+      "headline": "A Look at Ringo Starr and Barbara Bach's Early Days as the Long-Term Couple Marks Their 45th Wedding Anniversary",
+      "article_headline": "A Look at Ringo Starr and Barbara Bach's Early Days as the Long-Term Couple Marks Their 45th Wedding Anniversary"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-27 09:20:16",
+      "pub_time": "2026-04-26 09:23:55",
+      "publication": "",
+      "author": "Vivian Chung",
+      "headline": "6 Surprising Habits That Are Aging You Faster—and How to Break Them",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-27 09:20:16",
+      "pub_time": "2026-04-27 07:23:55",
+      "publication": "",
+      "author": "Mary Gaitskill",
+      "headline": "The Unexpected Delight of Getting Older",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

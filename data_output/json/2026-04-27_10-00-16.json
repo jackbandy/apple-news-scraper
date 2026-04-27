@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-27 10:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Aq_gJEbANTLWBwtEqY_AwjQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-27 10:00:16",
+      "pub_time": "2026-04-27 09:00:17",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "White House Correspondents’ dinner suspect to appear in court, MORE DETAILS",
+      "article_headline": "White House Correspondents’ dinner suspect to appear in court"
+    },
+    {
+      "link": "https://apple.news/AGWCjlwLKScyQ3M_qDm_yXA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-27 10:00:16",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "“It’s going to be a circus”: inside Mike Johnson’s grueling week",
+      "article_headline": "“It’s going to be a circus”: inside Mike Johnson’s grueling week"
+    },
+    {
+      "link": "https://apple.news/Af9u153mCSOO8JA2uP9gbaA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-27 10:00:16",
+      "pub_time": "2026-04-27 09:01:16",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Iran offers to reopen Strait of Hormuz if U.S. lifts its blockade and the war ends, regional officials say",
+      "article_headline": "Iran offers to reopen Strait of Hormuz if U.S. lifts its blockade and the war ends, regional officials say"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-27 10:00:16",
+      "pub_time": "2026-04-27 09:01:49",
+      "publication": "Los Angeles Times",
+      "author": "Seema Mehta",
+      "headline": "California billionaire-tax backers say they have enough signatures to qualify for the ballot",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Aj3eEX9QRS4iv2DSXXPERrA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-27 10:00:16",
+      "pub_time": "",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Unfounded health concerns are powering a solar backlash",
+      "article_headline": "Unfounded health concerns are powering a solar backlash"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-27 10:00:16",
+      "pub_time": "2026-04-27 09:02:21",
+      "publication": "The Wall Street Journal",
+      "author": "Bojan Pancevski",
+      "headline": "Germany is reinventing itself as a weapons factory",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AA8MgG3PbQPeb5oc-zuZGow",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-27 10:00:16",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "How another shooter got so close to Trump",
+      "article_headline": ""
+    }
+  ]
+}
