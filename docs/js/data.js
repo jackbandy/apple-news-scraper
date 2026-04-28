@@ -74,9 +74,14 @@ function populateFilters() {
   const sel  = document.getElementById('filter-pub');
   pubs.forEach(p => sel.appendChild(new Option(p, p)));
 
-  const n = stories.length;
-  document.getElementById('total-count').textContent =
-    `${n.toLocaleString()} unique stor${n === 1 ? 'y' : 'ies'}`;
+  const sectionCounts = { top: 0, trending: 0, reader_favorites: 0 };
+  stories.forEach(s => { if (s.section in sectionCounts) sectionCounts[s.section]++; });
+  const sectionLabels = { top: 'Top', trending: 'Trending', reader_favorites: 'Favorites' };
+  const rows = Object.keys(sectionCounts).map(sec =>
+    `<div class="stats-row"><span class="stats-label">${sectionLabels[sec]}</span><span class="stats-val">${sectionCounts[sec].toLocaleString()}</span></div>`
+  ).join('');
+  document.getElementById('total-count').innerHTML =
+    `<div class="stats-table">${rows}</div>`;
 }
 
 // Labels/sources that Apple News appends after a comma at the end
@@ -136,7 +141,7 @@ function getFiltered() {
     if (section && s.section !== section) return false;
     if (pub     && s.publication !== pub) return false;
     if (q       && !`${s.headline} ${s.publication}`.toLowerCase().includes(q)) return false;
-    if (edited  && !(s.section === 'top' && s.article_headline && s.headline !== s.article_headline && !s.headline.endsWith(s.article_headline))) return false;
+    if (edited  && !(s.section === 'top' && s.article_headline && headlinesWordDiffer(s.headline, s.article_headline, s.publication))) return false;
     if (hasLink && !s.link) return false;
     if (dateDays.length) {
       const minDate = dateDays[dateMinIdx];

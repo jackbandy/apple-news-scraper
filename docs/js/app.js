@@ -78,17 +78,17 @@ document.addEventListener('mousemove', e => {
   const idx = idxFromEvent(e);
   if (dragging === 'min') dateMinIdx = Math.min(idx, dateMaxIdx);
   else dateMaxIdx = Math.max(idx, dateMinIdx);
-  updateDateUI(); updateClearBtn(); render();
+  updateDateUI(); updateClearBtn();
 });
 document.addEventListener('touchmove', e => {
   if (!dragging) return;
   const idx = idxFromEvent(e);
   if (dragging === 'min') dateMinIdx = Math.min(idx, dateMaxIdx);
   else dateMaxIdx = Math.max(idx, dateMinIdx);
-  updateDateUI(); updateClearBtn(); render();
+  updateDateUI(); updateClearBtn();
 }, { passive: false });
-document.addEventListener('mouseup',  () => { dragging = null; });
-document.addEventListener('touchend', () => { dragging = null; });
+document.addEventListener('mouseup',  () => { if (dragging) render(); dragging = null; });
+document.addEventListener('touchend', () => { if (dragging) render(); dragging = null; });
 
 document.getElementById('date-track').addEventListener('click', e => {
   if (dragging) return;

@@ -28,7 +28,7 @@ from util.gestures import (
     tap, swipe, back_swipe, long_press_copy_link, get_article_headline,
 )
 from util.parsing import parse_cell_label, parse_pub_date
-from util.setup import wda_needs_rebuild, clear_wda_derived_data, wipe_app_data_folder
+from util.setup import wda_needs_reinstall, clear_wda_derived_data, wipe_app_data_folder
 
 from config import (
     device_name_and_os, device_os, udid,
@@ -42,6 +42,74 @@ from config import (
 
 LOCK_PATH = '/tmp/apple_news_scraper.lock'
 PENDING_PATH = '/tmp/get_stories_pending'  # signals verify_links_desktop.py to pause
+
+
+def _build_xcuitest_options(rebuild=False):
+    options = XCUITestOptions()
+    options.app = APP_PATH
+    options.device_name = device_name_and_os
+    options.udid = udid
+    options.platform_version = device_os
+    options.no_reset = True
+    options.set_capability('locationServicesEnabled', True)
+    options.set_capability('gpsEnabled', True)
+    # Tell Appium to use the prebuilt xctestrun file shipped with xcuitest-driver
+    # rather than compiling WDA from source.
+    #
+    # Background: the default behaviour (`usePrebuiltWDA` unset) runs
+    # `xcodebuild build-for-testing test-without-building -project ... -scheme ...`
+    # which compiles WDA from source. On Xcode 26 beta this fails (exit code 70)
+    # because the WebDriverAgentRunner scheme cannot resolve iOS 26.x simulator
+    # destinations. Even `usePrebuiltWDA=True` still fails because Appium uses
+    # `test-without-building -project ... -scheme ...` which validates the
+    # destination at startup.
+    #
+    # The only working invocation is `xcodebuild test-without-building -xctestrun
+    # <path>` which bypasses scheme resolution entirely. Appium uses that form
+    # only when `useXctestrunFile=True`; it then looks for the template xctestrun
+    # in `bootstrapPath`. By pointing `bootstrapPath` at the `Build/Products/`
+    # directory that ships with the xcuitest-driver package — which already
+    # contains `WebDriverAgentRunner_iphonesimulator26.4-arm64.xctestrun` and
+    # `Debug-iphonesimulator/WebDriverAgentRunner-Runner.app` — Appium finds the
+    # template, creates a per-device copy, and runs it directly.
+    _wda_products = os.path.expanduser(
+        '~/.appium/node_modules/appium-xcuitest-driver/node_modules/Build/Products'
+    )
+    options.set_capability('bootstrapPath', _wda_products)
+    options.set_capability('useXctestrunFile', True)
+    # Give Appium reasonable time to bring up WDA.
+    options.set_capability('wdaStartupRetries', 3)
+    options.set_capability('wdaStartupRetryInterval', 5000)
+    options.set_capability('wdaLaunchTimeout', 120000)      # 2 min
+    options.set_capability('wdaConnectionTimeout', 120000)  # 2 min
+    if rebuild:
+        # Force Appium to reinstall its prebuilt WDA bundle on the simulator.
+        options.set_capability('useNewWDA', True)
+    return options
+
+
+def _is_wda_connection_refused_error(exc):
+    message = str(exc)
+    return (
+        '127.0.0.1:8100' in message
+        and ('ECONNREFUSED' in message or 'WebDriverAgent session' in message)
+    )
+
+
+def _start_driver(rebuild=False, retry_on_wda_refusal=True):
+    options = _build_xcuitest_options(rebuild=rebuild)
+    try:
+        return webdriver.Remote(
+            command_executor='http://localhost:4723',
+            options=options,
+        )
+    except Exception as exc:
+        if retry_on_wda_refusal and not rebuild and _is_wda_connection_refused_error(exc):
+            print("WDA connection refused; clearing DerivedData and retrying with a fresh WDA...")
+            clear_wda_derived_data()
+            return _start_driver(rebuild=True, retry_on_wda_refusal=False)
+        raise
+
 
 def main():
     # Signal verify_links_desktop.py to finish its current link and pause.
@@ -111,35 +179,14 @@ def main():
 
     os.makedirs(output_folder, exist_ok=True)
 
-    rebuild = wda_needs_rebuild(udid)
-    if rebuild:
-        print("WDA DerivedData is stale or missing — clearing for rebuild")
+    reinstall = wda_needs_reinstall(udid)
+    if reinstall:
+        print("WDA bundle missing or version mismatch — will force reinstall")
         clear_wda_derived_data()
 
     print("Opening app...")
-    options = XCUITestOptions()
-    options.app = APP_PATH
-    options.device_name = device_name_and_os
-    options.udid = udid
-    options.platform_version = device_os
-    options.no_reset = True
-    options.set_capability('locationServicesEnabled', True)
-    options.set_capability('gpsEnabled', True)
-    if rebuild:
-        # Tell Appium not to reuse any cached WDA bundle; build fresh from source.
-        # This is only set when wda_needs_rebuild() detected a version mismatch,
-        # so normal runs pay no build overhead.
-        options.set_capability('usePrebuiltWDA', False)
-        # A fresh WDA build from source can take several minutes. Raise both
-        # timeouts so Appium doesn't give up before the build finishes.
-        options.set_capability('wdaLaunchTimeout', 300000)    # 5 min
-        options.set_capability('wdaConnectionTimeout', 300000)  # 5 min
-
     try:
-        driver = webdriver.Remote(
-            command_executor='http://localhost:4723',
-            options=options
-        )
+        driver = _start_driver(rebuild=reinstall)
     except Exception as e:
         print("Error connecting to Appium: {}".format(e))
         lock_fd.close()

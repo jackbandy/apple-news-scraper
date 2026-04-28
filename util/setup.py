@@ -6,39 +6,54 @@ from shutil import rmtree
 from glob import glob
 
 
-# Path where Appium stores the compiled WDA xctest bundle.
+# Path where Xcode caches WDA DerivedData from source builds.
 _WDA_DERIVED_DATA_PATTERN = os.path.expanduser(
     '~/Library/Developer/Xcode/DerivedData/WebDriverAgent-*'
 )
 
+# Appium ships a prebuilt WDA bundle alongside the xcuitest-driver package.
+# Its xctestrun files live at this path relative to the driver installation.
+# e.g. WebDriverAgentRunner_iphonesimulator26.4-arm64.xctestrun
+_APPIUM_PREBUILT_GLOB = os.path.expanduser(
+    '~/.appium/node_modules/appium-xcuitest-driver/node_modules/Build/Products/*.xctestrun'
+)
+
 # Appium embeds the target SDK in the xctestrun filename, e.g.:
-#   WebDriverAgentRunner_iphonesimulator26.2-arm64.xctestrun
+#   WebDriverAgentRunner_iphonesimulator26.4-arm64.xctestrun
 # We parse this to detect iOS SDK version mismatches before connecting.
-_XCTESTRUN_GLOB = os.path.join(_WDA_DERIVED_DATA_PATTERN, 'Build/Products/*.xctestrun')
+# Check both Appium's prebuilt location and any local DerivedData builds.
+def _all_xctestrun_files():
+    return glob(_APPIUM_PREBUILT_GLOB) + glob(
+        os.path.join(_WDA_DERIVED_DATA_PATTERN, 'Build/Products/*.xctestrun')
+    )
 
 
-def wda_needs_rebuild(target_udid):
-    '''Return True if WDA must be rebuilt before the next Appium session.
+def wda_needs_reinstall(target_udid):
+    '''Return True if Appium should reinstall WDA before the next session.
 
     Detection logic:
-      1. Look for a compiled WDA xctestrun file under Xcode DerivedData.
-         If none exists, WDA has never been built → needs build.
+      1. Collect xctestrun files from Appium's prebuilt bundle directory and
+         from Xcode DerivedData (if a local source build exists).
+         If none exist anywhere, WDA has never been set up → needs reinstall.
       2. Ask the simulator what iOS version it is running (xcrun simctl).
-      3. Compare that version to the SDK version embedded in the xctestrun
-         filename (e.g. "iphonesimulator26.2" → "26.2").
-         If they differ, the old bundle will crash when Appium tries to
-         start a session on the newer runtime → needs rebuild.
+      3. Compare that version to the SDK versions embedded in the xctestrun
+         filenames (e.g. "iphonesimulator26.4" → "26.4").
+         If none match, the cached bundle targets a different runtime → needs
+         reinstall.
 
-    When this function returns True, callers should:
-      - delete DerivedData via clear_wda_derived_data()
-      - set the Appium capability usePrebuiltWDA=False
+    When this function returns True, callers should set the Appium capability
+    useNewWDA=True so Appium reinstalls its prebuilt bundle on the simulator.
+    Do NOT set usePrebuiltWDA=False — building WDA from source requires the
+    WebDriverAgentRunner scheme to resolve simulator destinations, which may
+    fail on beta Xcode versions; the prebuilt bundle is more reliable.
 
     On any error (simctl unavailable, unexpected filename format, etc.)
-    returns False so as not to trigger an unnecessary rebuild.
+    returns False so as not to trigger an unnecessary reinstall.
     '''
-    xctestrun_files = glob(_XCTESTRUN_GLOB)
+    xctestrun_files = _all_xctestrun_files()
     if not xctestrun_files:
-        return True  # no build at all
+        print("wda_needs_reinstall: no xctestrun files found in Appium bundle or DerivedData")
+        return True
 
     # Ask the simulator for its current runtime version.
     try:
@@ -48,7 +63,7 @@ def wda_needs_rebuild(target_udid):
         )
         devices_json = json.loads(result.stdout)
     except Exception as e:
-        print("wda_needs_rebuild: could not query simctl ({}) — skipping rebuild check".format(e))
+        print("wda_needs_reinstall: could not query simctl ({}) — skipping check".format(e))
         return False
 
     # Find the runtime key for our target UDID.
@@ -65,29 +80,34 @@ def wda_needs_rebuild(target_udid):
             break
 
     if not sim_version:
-        print("wda_needs_rebuild: could not find simulator {} in simctl output — skipping rebuild check".format(target_udid))
+        print("wda_needs_reinstall: could not find simulator {} in simctl output — skipping check".format(target_udid))
         return False
 
-    # Check whether any existing xctestrun was compiled for the current SDK.
+    # Check whether any xctestrun was compiled for the current SDK.
     # Filename format: WebDriverAgentRunner_iphonesimulator<SDK>-<arch>.xctestrun
     for path in xctestrun_files:
         basename = os.path.basename(path)
         if 'iphonesimulator{}'.format(sim_version) in basename:
-            return False  # existing build matches current simulator version
+            return False  # a matching bundle exists
 
     # All found xctestrun files target a different SDK.
     built_versions = [os.path.basename(p) for p in xctestrun_files]
-    print("wda_needs_rebuild: simulator is iOS {} but WDA was built for: {}".format(
+    print("wda_needs_reinstall: simulator is iOS {} but WDA bundles are for: {}".format(
         sim_version, built_versions))
     return True
 
 
+# Keep the old name as an alias so existing callers (backfill scripts) still work.
+wda_needs_rebuild = wda_needs_reinstall
+
+
 def clear_wda_derived_data():
-    '''Delete all WDA DerivedData directories so Appium rebuilds from source.
+    '''Delete WDA DerivedData source-build directories.
 
     Safe to call even if no DerivedData exists (glob returns empty list).
-    Appium will rebuild WDA automatically on the next session when
-    usePrebuiltWDA=False is set in the capabilities.
+    This only removes locally built (from-source) artifacts in
+    ~/Library/Developer/Xcode/DerivedData/; it does NOT touch Appium's
+    prebuilt WDA bundle under ~/.appium/.
     '''
     for path in glob(_WDA_DERIVED_DATA_PATTERN):
         try:
