@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-28 16:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AAiIeGNvmQLmFSKEH-OX9kg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-28 16:40:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "James Comey indicted over 2025 social-media post allegedly threatening Trump",
+      "article_headline": "James Comey indicted over 2025 social-media post allegedly threatening Trump"
+    },
+    {
+      "link": "https://apple.news/Azmq2XuOSSu270YrRJGHtGA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-28 16:40:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "FCC orders review of ABC licenses after Jimmy Kimmel’s Melania Trump joke",
+      "article_headline": "FCC orders review of ABC licenses after Jimmy Kimmel’s Melania Trump joke"
+    },
+    {
+      "link": "https://apple.news/AOYEhevc_T2eOYixqMBs7Vg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-28 16:40:17",
+      "pub_time": "2026-04-28 16:32:34",
+      "publication": "NBC News",
+      "author": "Abigail Williams, Andrea Mitchell, and Dareh Gregorian",
+      "headline": "Trump’s picture is coming to some U.S. passports",
+      "article_headline": "Trump’s picture is coming to some U.S. passports"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 16:40:17",
+      "pub_time": "2026-04-28 16:33:02",
+      "publication": "Business Insider",
+      "author": "Andy Kiersz and Eliza Relman",
+      "headline": "Most NYC renters are struggling to afford housing. These maps show where it’s worst.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AhN6QmejjSraV8jlOqTpnQw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-28 16:40:17",
+      "pub_time": "2026-04-28 14:42:35",
+      "publication": "Kitchn",
+      "author": "Ann Taylor Pittman",
+      "headline": "After Testing 7 Ways for Storing Bananas, I Found a Winner That Made a Huge Difference",
+      "article_headline": "After Testing 7 Ways for Storing Bananas, I Found a Winner That Made a Huge Difference"
+    },
+    {
+      "link": "https://apple.news/AZG6CZp_8Rf6Hr6xdoNg70g",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-28 16:40:17",
+      "pub_time": "2026-04-28 14:43:07",
+      "publication": "EatingWell",
+      "author": "Lily Menk",
+      "headline": "16 Best Lunch Recipes for Better Gut Health",
+      "article_headline": "16 Best Lunch Recipes for Better Gut Health"
+    },
+    {
+      "link": "https://apple.news/A3igTPyQOSyOwWlpaLTGA3A",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-28 16:40:17",
+      "pub_time": "2026-04-28 12:43:35",
+      "publication": "Real Simple",
+      "author": "Morgan Noll",
+      "headline": "What the Bottom Drawer of Your Oven Is Really For—and How to Use It Properly",
+      "article_headline": "What the Bottom Drawer of Your Oven Is Really For—and How to Use It Properly"
+    }
+  ]
+}

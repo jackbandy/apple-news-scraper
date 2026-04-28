@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-04-28 17:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AAiIeGNvmQLmFSKEH-OX9kg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-28 17:40:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "James Comey indicted over 2025 social-media post allegedly threatening Trump",
+      "article_headline": "James Comey indicted over 2025 social-media post allegedly threatening Trump"
+    },
+    {
+      "link": "https://apple.news/AwlpWZD8PTJabWnqt4kiDIw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-28 17:40:17",
+      "pub_time": "2026-04-28 16:40:51",
+      "publication": "Los Angeles Times",
+      "author": "Ana Ceballos",
+      "headline": "King Charles becomes second British monarch to address Congress, but tensions shadow moment",
+      "article_headline": "King Charles is the second British monarch to address Congress, but tensions shadow the moment"
+    },
+    {
+      "link": "https://apple.news/ACkdUmmkdSxGa0EZG3JyLLg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-28 17:40:17",
+      "pub_time": "2026-04-28 16:41:19",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "U.S. soldier accused of using classified info to win $400,000 bet on Maduro’s capture pleads not guilty",
+      "article_headline": "U.S. soldier accused of using classified info to win $400,000 bet on Maduro’s capture pleads not guilty"
+    },
+    {
+      "link": "https://apple.news/AOYEhevc_T2eOYixqMBs7Vg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-28 17:40:17",
+      "pub_time": "2026-04-28 16:42:02",
+      "publication": "NBC News",
+      "author": "Abigail Williams, Andrea Mitchell, and Dareh Gregorian",
+      "headline": "Trump’s picture is coming to some U.S. passports",
+      "article_headline": "Trump’s picture is coming to some U.S. passports"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 17:40:17",
+      "pub_time": "2026-04-28 16:42:30",
+      "publication": "Business Insider",
+      "author": "Andy Kiersz and Eliza Relman",
+      "headline": "Most NYC renters are struggling to afford housing. These maps show where it’s worst.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 17:40:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Southern Living, RECIPE, 15 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 17:40:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "EatingWell, RECIPE, 20 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

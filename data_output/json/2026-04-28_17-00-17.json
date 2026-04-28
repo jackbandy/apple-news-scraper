@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-28 17:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AAiIeGNvmQLmFSKEH-OX9kg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-28 17:00:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "James Comey indicted over 2025 social-media post allegedly threatening Trump",
+      "article_headline": "James Comey indicted over 2025 social-media post allegedly threatening Trump"
+    },
+    {
+      "link": "https://apple.news/AwlpWZD8PTJabWnqt4kiDIw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-28 17:00:17",
+      "pub_time": "2026-04-28 16:33:51",
+      "publication": "Los Angeles Times",
+      "author": "Ana Ceballos",
+      "headline": "King Charles becomes second British monarch to address Congress, but tensions shadow moment",
+      "article_headline": "King Charles is the second British monarch to address Congress, but tensions shadow the moment"
+    },
+    {
+      "link": "https://apple.news/ACkdUmmkdSxGa0EZG3JyLLg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-28 17:00:17",
+      "pub_time": "2026-04-28 16:34:19",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "U.S. soldier accused of using classified info to win $400,000 bet on Maduro’s capture pleads not guilty",
+      "article_headline": "U.S. soldier accused of using classified info to win $400,000 bet on Maduro’s capture pleads not guilty"
+    },
+    {
+      "link": "https://apple.news/Azmq2XuOSSu270YrRJGHtGA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-28 17:00:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "FCC orders review of ABC licenses after Jimmy Kimmel’s Melania Trump joke",
+      "article_headline": "FCC orders review of ABC licenses after Jimmy Kimmel’s Melania Trump joke"
+    },
+    {
+      "link": "https://apple.news/AOYEhevc_T2eOYixqMBs7Vg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-28 17:00:17",
+      "pub_time": "2026-04-28 16:33:20",
+      "publication": "NBC News",
+      "author": "Abigail Williams, Andrea Mitchell, and Dareh Gregorian",
+      "headline": "Trump’s picture is coming to some U.S. passports",
+      "article_headline": "Trump’s picture is coming to some U.S. passports"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 17:00:17",
+      "pub_time": "2026-04-28 16:33:48",
+      "publication": "Business Insider",
+      "author": "Andy Kiersz and Eliza Relman",
+      "headline": "Most NYC renters are struggling to afford housing. These maps show where it’s worst.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AX5M1U_zIQUWo1NflwhNIGQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-28 17:00:17",
+      "pub_time": "2026-04-28 16:20:21",
+      "publication": "The Guardian",
+      "author": "David Smith",
+      "headline": "Mission accomplished as king’s speech to Congress goes down a storm",
+      "article_headline": "Mission accomplished as king’s speech to Congress goes down a storm"
+    }
+  ]
+}

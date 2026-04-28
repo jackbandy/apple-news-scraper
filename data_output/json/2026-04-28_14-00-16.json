@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-28 14:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ar7CD1WR2TKiobK7doR5iaQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-28 14:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "UAE’s OPEC exit deals major blow to cartel amid Middle East oil squeeze",
+      "article_headline": "U.A.E.’s OPEC Exit Deals Major Blow to Cartel Amid Middle East Oil Squeeze"
+    },
+    {
+      "link": "https://apple.news/A5VJf9NTFT92gzw0ryRBh3g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-28 14:00:16",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "Former FBI Director James Comey indicted again, this time over seashell Instagram post",
+      "article_headline": "Former FBI Director James Comey indicted again, this time over seashell Instagram post"
+    },
+    {
+      "link": "https://apple.news/At0b2zwjVRkSJpTh37Mc3ww",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-28 14:00:16",
+      "pub_time": "2026-04-28 13:23:18",
+      "publication": "Video",
+      "author": "Kathryn Watson",
+      "headline": "CBS News, King Charles heads to Capitol for speech to Congress after meeting with Trump",
+      "article_headline": "King Charles heads to Capitol for speech to Congress after meeting with Trump"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 14:00:16",
+      "pub_time": "2026-04-28 13:23:46",
+      "publication": "The Washington Post",
+      "author": "Adam Taylor",
+      "headline": "New State Department rules would deny visas to those who fear returning home",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ACZJ1YVcaTCuz6kvgfxOiRA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-28 14:00:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "Former NBA player Damon Jones pleads guilty to $10 million sports-betting and poker scams",
+      "article_headline": "Former NBA player Damon Jones pleads guilty to $10 million sports-betting and poker scams"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 14:00:16",
+      "pub_time": "2026-04-28 13:24:19",
+      "publication": "The Wall Street Journal",
+      "author": "Justin Lahart and Owen Tucker-Smith",
+      "headline": "Most Americans think the job market will get worse. Here’s why that matters.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AbrfscaKhTsqdPW5Aas-nSw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-28 14:00:16",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "A man is charged with trying to assassinate Trump. What to know.",
+      "article_headline": ""
+    }
+  ]
+}
