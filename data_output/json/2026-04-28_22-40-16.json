@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-28 22:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AtQ2qYf8nQwGiTQNl726d4Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-28 22:40:16",
+      "pub_time": "2026-04-28 21:40:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "James Comey indicted in probe over social-media post allegedly threatening Trump",
+      "article_headline": "James Comey indicted in probe over social-media post allegedly threatening Trump"
+    },
+    {
+      "link": "https://apple.news/AyBymffsoSfais8GvFImKng",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-28 22:40:16",
+      "pub_time": "2026-04-28 21:40:45",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "5 takeaways from King Charles’ historic address to Congress",
+      "article_headline": "5 takeaways from King Charles’ historic address to Congress"
+    },
+    {
+      "link": "https://apple.news/AHNL2ROs8QSqMnYLh2MOPKg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-28 22:40:16",
+      "pub_time": "2026-04-28 21:41:12",
+      "publication": "Reuters",
+      "author": "Patricia Zengerle",
+      "headline": "Senate blocks bid to prevent Trump from military action against Cuba",
+      "article_headline": "Senate blocks bid to prevent Trump from military action against Cuba"
+    },
+    {
+      "link": "https://apple.news/AyBymffsoSfais8GvFImKng",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-28 22:40:16",
+      "pub_time": "2026-04-28 20:41:45",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "5 takeaways from King Charles’ historic address to Congress",
+      "article_headline": "5 takeaways from King Charles’ historic address to Congress"
+    },
+    {
+      "link": "https://apple.news/AHNL2ROs8QSqMnYLh2MOPKg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-28 22:40:16",
+      "pub_time": "2026-04-28 20:42:12",
+      "publication": "Reuters",
+      "author": "Patricia Zengerle",
+      "headline": "Senate blocks bid to prevent Trump from military action against Cuba",
+      "article_headline": "Senate blocks bid to prevent Trump from military action against Cuba"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 22:40:16",
+      "pub_time": "2026-04-28 20:42:39",
+      "publication": "The Wall Street Journal",
+      "author": "Mike Cherney",
+      "headline": "U.S.-Iran war’s next casualty: global food",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ApqXMnxcVSy23xoticgB2jg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-28 22:40:16",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Purdue Pharma, maker of OxyContin, set to dissolve after judge approves criminal sentence",
+      "article_headline": "Purdue Pharma, maker of OxyContin, set to dissolve after judge approves criminal sentence"
+    }
+  ]
+}

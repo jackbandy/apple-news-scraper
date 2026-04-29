@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-28 21:00:20",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AtQ2qYf8nQwGiTQNl726d4Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-28 21:00:20",
+      "pub_time": "2026-04-28 20:41:22",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "James Comey indicted in probe over social-media post allegedly threatening Trump",
+      "article_headline": "James Comey indicted in probe over social-media post allegedly threatening Trump"
+    },
+    {
+      "link": "https://apple.news/AyBymffsoSfais8GvFImKng",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-28 21:00:20",
+      "pub_time": "2026-04-28 20:41:49",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "5 takeaways from King Charles’ historic address to Congress",
+      "article_headline": "5 takeaways from King Charles’ historic address to Congress"
+    },
+    {
+      "link": "https://apple.news/AHNL2ROs8QSqMnYLh2MOPKg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-28 21:00:20",
+      "pub_time": "2026-04-28 20:42:16",
+      "publication": "Reuters",
+      "author": "Patricia Zengerle",
+      "headline": "Senate blocks bid to prevent Trump from military action against Cuba",
+      "article_headline": "Senate blocks bid to prevent Trump from military action against Cuba"
+    },
+    {
+      "link": "https://apple.news/AyBymffsoSfais8GvFImKng",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-28 21:00:20",
+      "pub_time": "2026-04-28 20:41:49",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "5 takeaways from King Charles’ historic address to Congress",
+      "article_headline": "5 takeaways from King Charles’ historic address to Congress"
+    },
+    {
+      "link": "https://apple.news/AHNL2ROs8QSqMnYLh2MOPKg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-28 21:00:20",
+      "pub_time": "2026-04-28 20:42:16",
+      "publication": "Reuters",
+      "author": "Patricia Zengerle",
+      "headline": "Senate blocks bid to prevent Trump from military action against Cuba",
+      "article_headline": "Senate blocks bid to prevent Trump from military action against Cuba"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 21:00:20",
+      "pub_time": "2026-04-28 20:42:43",
+      "publication": "The Wall Street Journal",
+      "author": "Mike Cherney",
+      "headline": "U.S.-Iran war’s next casualty: global food",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 21:00:20",
+      "pub_time": "2026-04-28 20:41:48",
+      "publication": "The Wall Street Journal",
+      "author": "Mike Cherney",
+      "headline": "U.S.-Iran war’s next casualty: global food",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AlDJDTg-7Qz-_t6123Jh7Zg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-28 21:00:20",
+      "pub_time": "2026-04-28 14:02:54",
+      "publication": "Money",
+      "author": "Marc Guberti",
+      "headline": "Medicare Won't Cover It: 5 Common Health Expenses That May Blindside Retirees",
+      "article_headline": "Medicare Won't Cover It: 5 Common Health Expenses That May Blindside Retirees"
+    },
+    {
+      "link": "https://apple.news/AXjd5SPO_RSSF5iRHwd4r1g",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-28 21:00:20",
+      "pub_time": "2026-04-28 14:03:22",
+      "publication": "MarketWatch",
+      "author": "Venessa Wong",
+      "headline": "Americans are embracing this terrible car-buying habit. It’s costing them thousands of dollars.",
+      "article_headline": "Americans are embracing this terrible car-buying habit. It’s costing them thousands of dollars."
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-28 21:00:20",
+      "pub_time": "2026-04-28 07:03:56",
+      "publication": "",
+      "author": "Dylan Garret",
+      "headline": "Which Light Beer Actually Tastes Best? We Put America’s Favorites Head-to-Head",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AHowZ2U8bS--EW5VmOhyPbA",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-28 21:00:20",
+      "pub_time": "2026-04-28 18:03:56",
+      "publication": "Southern Living",
+      "author": "Kait Hanson",
+      "headline": "This Southern Airport Has The Longest Walk To Your Gate In The U.S.",
+      "article_headline": "This Southern Airport Has The Longest Walk To Your Gate In The U.S."
+    }
+  ]
+}

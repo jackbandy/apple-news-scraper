@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-04-28 23:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AtQ2qYf8nQwGiTQNl726d4Q",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-28 23:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "James Comey indicted in probe over social-media post allegedly threatening Trump",
+      "article_headline": "James Comey indicted in probe over social-media post allegedly threatening Trump"
+    },
+    {
+      "link": "https://apple.news/AyBymffsoSfais8GvFImKng",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-28 23:00:17",
+      "pub_time": "2026-04-28 22:56:50",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "5 takeaways from King Charles’ historic address to Congress",
+      "article_headline": "5 takeaways from King Charles’ historic address to Congress"
+    },
+    {
+      "link": "https://apple.news/AkWqJO6tgSbmdEi9tK4lqIA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-28 23:00:17",
+      "pub_time": "2026-04-28 22:57:17",
+      "publication": "Reuters",
+      "author": "Luc Cohen",
+      "headline": "Trump’s push for state voter rolls rebuffed by courts as midterms near",
+      "article_headline": "Trump’s push for state voter rolls rebuffed by courts as midterms near"
+    },
+    {
+      "link": "https://apple.news/AN625Rtc2Tf2IAVWu5Mc42Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-28 23:00:17",
+      "pub_time": "2026-04-28 22:57:45",
+      "publication": "The Christian Science Monitor",
+      "author": "Sarah Matusek",
+      "headline": "Supreme Court to decide on end of deportation protections for Haitians, Syrians",
+      "article_headline": "Supreme Court to decide on end of deportation protections for Haitians, Syrians"
+    },
+    {
+      "link": "https://apple.news/AN625Rtc2Tf2IAVWu5Mc42Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-28 23:00:17",
+      "pub_time": "2026-04-28 22:56:17",
+      "publication": "The Christian Science Monitor",
+      "author": "Sarah Matusek",
+      "headline": "Supreme Court to decide on end of deportation protections for Haitians, Syrians",
+      "article_headline": "Supreme Court to decide on end of deportation protections for Haitians, Syrians"
+    },
+    {
+      "link": "https://apple.news/ApqXMnxcVSy23xoticgB2jg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-28 23:00:17",
+      "pub_time": "",
+      "publication": "Video",
+      "author": "",
+      "headline": "CBS News, Purdue Pharma, maker of OxyContin, set to dissolve after judge approves criminal sentence",
+      "article_headline": "Purdue Pharma, maker of OxyContin, set to dissolve after judge approves criminal sentence"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-28 23:00:17",
+      "pub_time": "2026-04-28 22:57:12",
+      "publication": "Slate",
+      "author": "Alexander Sammon",
+      "headline": "Who is killing Florida’s oranges?",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
