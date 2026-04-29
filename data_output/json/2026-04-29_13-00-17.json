@@ -1,0 +1,83 @@
+{
+  "run_time": "2026-04-29 13:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AD7Cu_GkbTgy_EdO1hMNdoQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-29 13:00:17",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Supreme Court blocks Louisiana redistricting map, weakening key provision of Voting Rights Act, MORE SCOTUS NEWS",
+      "article_headline": "US Supreme Court guts key provision of Voting Rights Act"
+    },
+    {
+      "link": "https://apple.news/APioedFBuT6-AFbY25vu1jQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-29 13:00:17",
+      "pub_time": "2026-04-29 12:46:49",
+      "publication": "Axios",
+      "author": "Kate Santaliz",
+      "headline": "GOP infighting grinds House to a halt, leaving agenda in limbo",
+      "article_headline": "GOP infighting grinds House to a halt, leaving agenda in limbo"
+    },
+    {
+      "link": "https://apple.news/AYyJ_uPJIQHaCoGIo-xgzUw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-29 13:00:17",
+      "pub_time": "2026-04-29 12:47:17",
+      "publication": "The Guardian",
+      "author": "Anna Betts",
+      "headline": "Former Attorney General Pam Bondi to appear before House Oversight panel over Epstein files",
+      "article_headline": "Former Attorney General Pam Bondi to appear before House Oversight panel over Epstein files"
+    },
+    {
+      "link": "https://apple.news/APioedFBuT6-AFbY25vu1jQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-29 13:00:17",
+      "pub_time": "2026-04-29 12:45:51",
+      "publication": "Axios",
+      "author": "Kate Santaliz",
+      "headline": "GOP infighting grinds House to a halt, leaving agenda in limbo",
+      "article_headline": "GOP infighting grinds House to a halt, leaving agenda in limbo"
+    },
+    {
+      "link": "https://apple.news/AYyJ_uPJIQHaCoGIo-xgzUw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-29 13:00:17",
+      "pub_time": "2026-04-29 12:46:18",
+      "publication": "The Guardian",
+      "author": "Anna Betts",
+      "headline": "Former Attorney General Pam Bondi to appear before House Oversight panel over Epstein files",
+      "article_headline": "Former Attorney General Pam Bondi to appear before House Oversight panel over Epstein files"
+    },
+    {
+      "link": "https://apple.news/AIq1RfVstQEitEQZHyJJJCQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-29 13:00:17",
+      "pub_time": "2026-04-29 12:46:46",
+      "publication": "POLITICO",
+      "author": "Connor O'Brien and Leo Shane III",
+      "headline": "Pentagon official says Iran war has cost $25 billion",
+      "article_headline": "Pentagon official says Iran war has cost $25 billion"
+    },
+    {
+      "link": "https://apple.news/AJCGuLHOwQlaT9-HiRCyLJQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-29 13:00:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "Families sue OpenAI over Canadian mass shooter’s use of ChatGPT",
+      "article_headline": "Families sue OpenAI over Canadian mass shooter’s use of ChatGPT"
+    }
+  ]
+}
