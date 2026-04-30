@@ -1,0 +1,128 @@
+{
+  "run_time": "2026-04-30 06:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ArIWlQdSIS5WqlEaCFNBQtg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-30 06:00:16",
+      "pub_time": "2026-04-30 05:47:18",
+      "publication": "The Washington Post",
+      "author": "Michael Birnbaum, Karen DeYoung, and Susannah George",
+      "headline": "Trump, Iran are locked in a high-stakes standoff as oil prices hit a four-year high",
+      "article_headline": "Trump, Iran are locked in a high-stakes standoff as oil prices hit a four-year high"
+    },
+    {
+      "link": "https://apple.news/A6Z8d_zFnThiswVBY9vhXtA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-30 06:00:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Supreme Court weakens the Voting Rights Act and aids GOP efforts to control the House",
+      "article_headline": "Supreme Court weakens the Voting Rights Act and aids GOP efforts to control the House"
+    },
+    {
+      "link": "https://apple.news/AqPTAMNspT6CnRIjVekHHQw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-30 06:00:16",
+      "pub_time": "2026-04-30 05:47:18",
+      "publication": "Video",
+      "author": "Caitlin Yilek",
+      "headline": "CBS News, House adopts Senate-approved budget resolution to unlock ICE funding",
+      "article_headline": "House adopts Senate-approved budget resolution to unlock ICE funding"
+    },
+    {
+      "link": "https://apple.news/AFGGCOkJ6QqKwMSTF-3JoXQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-30 06:00:16",
+      "pub_time": "2026-04-30 05:47:46",
+      "publication": "The Guardian",
+      "author": "Jonathan Yerushalmy",
+      "headline": "Trump threatens to reduce troop numbers in Germany amid growing row with NATO allies",
+      "article_headline": "Trump threatens to reduce troop numbers in Germany amid growing row with NATO allies"
+    },
+    {
+      "link": "https://apple.news/AqPTAMNspT6CnRIjVekHHQw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-30 06:00:16",
+      "pub_time": "2026-04-30 05:47:20",
+      "publication": "Video",
+      "author": "Caitlin Yilek",
+      "headline": "CBS News, House adopts Senate-approved budget resolution to unlock ICE funding",
+      "article_headline": "House adopts Senate-approved budget resolution to unlock ICE funding"
+    },
+    {
+      "link": "https://apple.news/AFGGCOkJ6QqKwMSTF-3JoXQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-04-30 06:00:16",
+      "pub_time": "2026-04-30 05:47:47",
+      "publication": "The Guardian",
+      "author": "Jonathan Yerushalmy",
+      "headline": "Trump threatens to reduce troop numbers in Germany amid growing row with NATO allies",
+      "article_headline": "Trump threatens to reduce troop numbers in Germany amid growing row with NATO allies"
+    },
+    {
+      "link": "https://apple.news/AtJQxqsVdSCKhtoGQhXOqHQ",
+      "rank": 7,
+      "section": "top",
+      "run_time": "2026-04-30 06:00:16",
+      "pub_time": "2026-04-30 05:48:15",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Statue with Banksy’s signature appears in London",
+      "article_headline": "Statue with Banksy’s signature appears in London"
+    },
+    {
+      "link": "https://apple.news/AwOtgO-LsTWW434cpMNHXBw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-30 06:00:16",
+      "pub_time": "2026-04-29 18:04:20",
+      "publication": "The Guardian",
+      "author": "Sanya Mansoor",
+      "headline": "Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’",
+      "article_headline": "Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’"
+    },
+    {
+      "link": "https://apple.news/ADllc6rDQT9-ABu9aMfK-ng",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-30 06:00:16",
+      "pub_time": "2026-04-29 21:04:47",
+      "publication": "NBC News",
+      "author": "Lindsey Leake",
+      "headline": "Are you lying down? These 10-minute toe and core exercises can help improve balance",
+      "article_headline": "Are you lying down? These 10-minute toe and core exercises can help improve balance"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-30 06:00:16",
+      "pub_time": "2026-04-29 06:05:22",
+      "publication": "",
+      "author": "Ria Bhagwat",
+      "headline": "6 Hobbies That Naturally Boost Dopamine—and Your Mood, According to Psychologists",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AFWwEdygaQVGc4M2o6rnzBw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-30 06:00:16",
+      "pub_time": "2026-04-29 12:05:22",
+      "publication": "HuffPost",
+      "author": "Griffin Wynne and Marquaysa Battle",
+      "headline": "Meet The No-Scrub Spray That’s ‘Better Than A Pressure Washer’ By Miles",
+      "article_headline": "Meet The No-Scrub Spray That’s ‘Better Than A Pressure Washer’ By Miles"
+    }
+  ]
+}

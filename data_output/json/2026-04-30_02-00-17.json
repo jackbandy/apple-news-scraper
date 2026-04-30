@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-04-30 02:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/A6Z8d_zFnThiswVBY9vhXtA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-30 02:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Supreme Court weakens the Voting Rights Act and aids GOP efforts to control the House",
+      "article_headline": "Supreme Court weakens the Voting Rights Act and aids GOP efforts to control the House"
+    },
+    {
+      "link": "https://apple.news/A6qnKSlfLSh6mQZVr3g3rVw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-30 02:00:17",
+      "pub_time": "2026-04-30 01:00:46",
+      "publication": "Reuters",
+      "author": "Timothy Gardner",
+      "headline": "Trump holds talks on prolonged Iran blockade, urges Tehran to reach a deal",
+      "article_headline": "Trump holds talks on prolonged Iran blockade, urges Tehran to reach a deal"
+    },
+    {
+      "link": "https://apple.news/Agu8teegUSuOJm0BLkoa73A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-30 02:00:17",
+      "pub_time": "2026-04-30 01:01:23",
+      "publication": "Military Times",
+      "author": "Tanya Noury",
+      "headline": "Pentagon asks Congress to codify ‘Department of War,’ estimates $52 million cost",
+      "article_headline": "Pentagon asks Congress to codify ‘Department of War,’ estimates $52 million cost"
+    },
+    {
+      "link": "https://apple.news/A63fywxzSQTmtZk6MLG3lXg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-30 02:00:17",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Dozens of North Carolina houses have been lost to the sea. Some surviving homes are now being moved on wheels.",
+      "article_headline": "Dozens of North Carolina houses have been lost to the sea. Some surviving homes are now being moved on wheels."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-30 02:00:17",
+      "pub_time": "2026-04-30 01:02:22",
+      "publication": "The Wall Street Journal",
+      "author": "Christopher Kuo, Dean Seal, and Allison Pohle",
+      "headline": "“I can’t talk to anybody”: one air-traffic controller’s mental-health struggle",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ABVCBk6qWTk2WqlSXewCZQg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-30 02:00:17",
+      "pub_time": "2026-04-29 11:02:55",
+      "publication": "POLITICO",
+      "author": "Felicia Schwartz",
+      "headline": "Once-rising Trump aide sidelined from Iran, Ukraine work",
+      "article_headline": "Once-rising Trump aide sidelined from Iran, Ukraine work"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-30 02:00:17",
+      "pub_time": "2026-04-30 00:03:28",
+      "publication": "Barron’s",
+      "author": "Lauren R. Rublin",
+      "headline": "2 Things Matter Most in Picking Winning Stocks, Says This Market Pro",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "run_time": "2026-04-30 03:00:16",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/A6Z8d_zFnThiswVBY9vhXtA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-30 03:00:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Supreme Court weakens the Voting Rights Act and aids GOP efforts to control the House",
+      "article_headline": "Supreme Court weakens the Voting Rights Act and aids GOP efforts to control the House"
+    },
+    {
+      "link": "https://apple.news/A6qnKSlfLSh6mQZVr3g3rVw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-30 03:00:16",
+      "pub_time": "2026-04-30 01:00:45",
+      "publication": "Reuters",
+      "author": "Timothy Gardner",
+      "headline": "US seeks international help to reopen Strait of Hormuz as crude prices surge",
+      "article_headline": "US seeks international help to reopen Strait of Hormuz as crude prices surge"
+    },
+    {
+      "link": "https://apple.news/Agu8teegUSuOJm0BLkoa73A",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-30 03:00:16",
+      "pub_time": "2026-04-30 01:01:24",
+      "publication": "Military Times",
+      "author": "Tanya Noury",
+      "headline": "Pentagon asks Congress to codify ‘Department of War,’ estimates $52 million cost",
+      "article_headline": "Pentagon asks Congress to codify ‘Department of War,’ estimates $52 million cost"
+    },
+    {
+      "link": "https://apple.news/A63fywxzSQTmtZk6MLG3lXg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-30 03:00:16",
+      "pub_time": "",
+      "publication": "The Guardian",
+      "author": "",
+      "headline": "Dozens of North Carolina houses have been lost to the sea. Some surviving homes are now being moved on wheels.",
+      "article_headline": "Dozens of North Carolina houses have been lost to the sea. Some surviving homes are now being moved on wheels."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-30 03:00:16",
+      "pub_time": "2026-04-30 01:02:24",
+      "publication": "The Wall Street Journal",
+      "author": "Christopher Kuo, Dean Seal, and Allison Pohle",
+      "headline": "“I can’t talk to anybody”: one air-traffic controller’s mental-health struggle",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 1,
+      "section": "reader_favorites",
+      "run_time": "2026-04-30 03:00:16",
+      "pub_time": "",
+      "publication": "Men’s Health",
+      "author": "",
+      "headline": "Warning signs of prostate trouble — and what can help, Kevin Dupzyk",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 2,
+      "section": "reader_favorites",
+      "run_time": "2026-04-30 03:00:16",
+      "pub_time": "",
+      "publication": "The Atlantic",
+      "author": "",
+      "headline": "The worst airport in America, Ellen Cushing",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "reader_favorites",
+      "run_time": "2026-04-30 03:00:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "The questions to ask before going “no contact” with family, Joshua Coleman",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-30 03:00:16",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "America's Test Kitchen, RECIPE, 45 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-30 03:00:16",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Simply Recipes, RECIPE, 20 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
