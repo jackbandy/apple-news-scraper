@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-04-30 08:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AxusFRTHlTpKvNdG5Ya2oOw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-30 08:20:16",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "Republicans push to redraw maps after Supreme Court deals blow to Voting Rights Act",
+      "article_headline": "Republicans push to redraw maps after Supreme Court deals blow to Voting Rights Act"
+    },
+    {
+      "link": "https://apple.news/AdRefanHKTF-QLfM8gn2yKQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-30 08:20:16",
+      "pub_time": "2026-04-30 08:14:46",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. economy grew 2% from January to March, recovering from federal shutdown",
+      "article_headline": "U.S. economy grew 2% from January to March, recovering from federal shutdown"
+    },
+    {
+      "link": "https://apple.news/ArIWlQdSIS5WqlEaCFNBQtg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-30 08:20:16",
+      "pub_time": "2026-04-30 08:15:13",
+      "publication": "The Washington Post",
+      "author": "Michael Birnbaum, Karen DeYoung, and Susannah George",
+      "headline": "Trump, Iran are locked in a high-stakes standoff as oil prices hit a 4-year high",
+      "article_headline": "Trump, Iran are locked in a high-stakes standoff as oil prices hit a 4-year high"
+    },
+    {
+      "link": "https://apple.news/AdRefanHKTF-QLfM8gn2yKQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-30 08:20:16",
+      "pub_time": "2026-04-30 08:14:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "U.S. economy grew 2% from January to March, recovering from federal shutdown",
+      "article_headline": "U.S. economy grew 2% from January to March, recovering from federal shutdown"
+    },
+    {
+      "link": "https://apple.news/ArIWlQdSIS5WqlEaCFNBQtg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-30 08:20:16",
+      "pub_time": "2026-04-30 08:15:13",
+      "publication": "The Washington Post",
+      "author": "Michael Birnbaum, Karen DeYoung, and Susannah George",
+      "headline": "Trump, Iran are locked in a high-stakes standoff as oil prices hit a 4-year high",
+      "article_headline": "Trump, Iran are locked in a high-stakes standoff as oil prices hit a 4-year high"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-30 08:20:16",
+      "pub_time": "2026-04-30 08:15:40",
+      "publication": "Portland Press Herald",
+      "author": "",
+      "headline": "Maine Gov. Janet Mills suspends candidacy for U.S. Senate",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-30 08:20:16",
+      "pub_time": "2026-04-30 08:14:46",
+      "publication": "Portland Press Herald",
+      "author": "",
+      "headline": "Maine Gov. Janet Mills suspends candidacy for U.S. Senate",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AgOWA9HMuS2GBHSOxNL959g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-30 08:20:16",
+      "pub_time": "2026-04-29 15:22:51",
+      "publication": "Fast Company",
+      "author": "",
+      "headline": "This common travel habit is now banned on American Airlines flights",
+      "article_headline": "This common travel habit is now banned on American Airlines flights"
+    },
+    {
+      "link": "https://apple.news/AwOtgO-LsTWW434cpMNHXBw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-30 08:20:16",
+      "pub_time": "2026-04-29 17:23:25",
+      "publication": "The Guardian",
+      "author": "Sanya Mansoor",
+      "headline": "Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’",
+      "article_headline": "Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-30 08:20:16",
+      "pub_time": "2026-04-30 05:23:53",
+      "publication": "",
+      "author": "Ariana Eunjung Cha",
+      "headline": "Brain scans reveal 3 ADHD subtypes, including a more extreme form",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AWYT5xV8eQbe2Iq40ITMfTQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-30 08:20:16",
+      "pub_time": "2026-04-29 21:23:53",
+      "publication": "GIVEMESPORT",
+      "author": "Rosie Cowell",
+      "headline": "F1: Miami Grand Prix at Serious Risk of Being Cancelled",
+      "article_headline": "F1: Miami Grand Prix at Serious Risk of Being Cancelled"
+    }
+  ]
+}

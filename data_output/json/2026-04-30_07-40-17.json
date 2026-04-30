@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-04-30 07:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ArIWlQdSIS5WqlEaCFNBQtg",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-30 07:40:17",
+      "pub_time": "2026-04-30 06:40:18",
+      "publication": "The Washington Post",
+      "author": "Michael Birnbaum, Karen DeYoung, and Susannah George",
+      "headline": "Trump, Iran are locked in a high-stakes standoff as oil prices hit a 4-year high",
+      "article_headline": "Trump, Iran are locked in a high-stakes standoff as oil prices hit a 4-year high"
+    },
+    {
+      "link": "https://apple.news/Atrl7vVEpS1Sjm0Vyrko9xA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-30 07:40:17",
+      "pub_time": "",
+      "publication": "Axios",
+      "author": "",
+      "headline": "What a weakened Voting Rights Act means in today’s America",
+      "article_headline": "What a weakened Voting Rights Act means in today’s America"
+    },
+    {
+      "link": "https://apple.news/AVUDUpO59R4Ks7qihkR9jtQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-30 07:40:17",
+      "pub_time": "2026-04-30 06:41:19",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Hegseth faces a second day of lawmakers grilling him over the Iran war",
+      "article_headline": "Hegseth faces a second day of lawmakers grilling him over the Iran war"
+    },
+    {
+      "link": "https://apple.news/AFGGCOkJ6QqKwMSTF-3JoXQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-30 07:40:17",
+      "pub_time": "2026-04-30 06:41:47",
+      "publication": "The Guardian",
+      "author": "Jonathan Yerushalmy",
+      "headline": "Trump threatens to reduce troop numbers in Germany amid growing row with NATO allies",
+      "article_headline": "Trump threatens to reduce troop numbers in Germany amid growing row with NATO allies"
+    },
+    {
+      "link": "https://apple.news/AtJQxqsVdSCKhtoGQhXOqHQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-04-30 07:40:17",
+      "pub_time": "2026-04-30 06:42:20",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "Statue with Banksy’s signature appears in London",
+      "article_headline": "Statue with Banksy’s signature appears in London"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-30 07:40:17",
+      "pub_time": "2026-04-30 06:42:47",
+      "publication": "The Wall Street Journal",
+      "author": "Dawn Gilbertson",
+      "headline": "The simple travel scam that cost a seasoned traveler over $12,000",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A3KSdJVjRSxmFuThKaVbGcw",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-04-30 07:40:17",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Fed Chair Powell delivers surprises in his final announcement",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AgOWA9HMuS2GBHSOxNL959g",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-04-30 07:40:17",
+      "pub_time": "2026-04-29 15:43:24",
+      "publication": "Fast Company",
+      "author": "",
+      "headline": "This common travel habit is now banned on American Airlines flights",
+      "article_headline": "This common travel habit is now banned on American Airlines flights"
+    },
+    {
+      "link": "https://apple.news/AwOtgO-LsTWW434cpMNHXBw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-04-30 07:40:17",
+      "pub_time": "2026-04-29 17:43:52",
+      "publication": "The Guardian",
+      "author": "Sanya Mansoor",
+      "headline": "Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’",
+      "article_headline": "Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-04-30 07:40:17",
+      "pub_time": "2026-04-30 05:44:20",
+      "publication": "",
+      "author": "Ariana Eunjung Cha",
+      "headline": "Brain scans reveal 3 ADHD subtypes, including a more extreme form",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A-0CpU--GQqi-8C-oDbt8LQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-04-30 07:40:17",
+      "pub_time": "2026-04-30 06:44:26",
+      "publication": "Fox News",
+      "author": "Jessica Mekles",
+      "headline": "Disneyland cracks down on guests with sweeping new restrictions, sparking backlash",
+      "article_headline": "Disneyland cracks down on guests with sweeping new restrictions, sparking backlash"
+    }
+  ]
+}
