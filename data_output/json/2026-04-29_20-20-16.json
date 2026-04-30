@@ -1,0 +1,86 @@
+{
+  "run_time": "2026-04-29 20:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AZiuNa3PaSliWRhH7D22kfw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-04-29 20:20:16",
+      "pub_time": "",
+      "publication": "POLITICO",
+      "author": "",
+      "headline": "The Voting Rights Act is now a “dead letter” after latest Supreme Court decision",
+      "article_headline": "The Voting Rights Act is now a “dead letter” after latest Supreme Court decision"
+    },
+    {
+      "link": "https://apple.news/AWJYa_vHQQnuoUNHHUqzbyw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-04-29 20:20:16",
+      "pub_time": "2026-04-29 19:20:46",
+      "publication": "TIME",
+      "author": "Nik Popli",
+      "headline": "In hostile hearing, Democrats accuse Hegseth of misleading public on Iran war progress",
+      "article_headline": "In hostile hearing, Democrats accuse Hegseth of misleading public on Iran war progress"
+    },
+    {
+      "link": "https://apple.news/AThWovjuvT86kF0VTU7n4RQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-04-29 20:20:16",
+      "pub_time": "2026-04-29 19:21:13",
+      "publication": "NBC News",
+      "author": "Allie Canal",
+      "headline": "Powell will remain on Fed board until DOJ probe is over",
+      "article_headline": "Powell will remain on Fed board until DOJ probe is over"
+    },
+    {
+      "link": "https://apple.news/Ah_I4ea63TL-Ti63pbcEM6Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-04-29 20:20:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Saudi Arabia pulls funding from LIV Golf. Its star players face a painful road back.",
+      "article_headline": "Saudi Arabia pulls funding from LIV Golf. Its star players face a painful road back."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-29 20:20:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "Musk fights in court to portray himself as hero, not villain, in founding of OpenAI",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-29 20:20:16",
+      "pub_time": "2026-04-29 19:22:18",
+      "publication": "The Wall Street Journal",
+      "author": "Christopher Kuo, Dean Seal, and Allison Pohle",
+      "headline": "“I can’t talk to anybody”: one air-traffic controller’s mental-health struggle",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-04-29 20:20:16",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "Southern Living, RECIPE, 15 minutes",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
