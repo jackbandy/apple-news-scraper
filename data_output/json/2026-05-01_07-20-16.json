@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-01 07:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/Ardv5aXBvQf-NQIAvVR7ESw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-01 07:20:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Republicans say they will defer to Trump on the Iran war despite congressional deadline",
+      "article_headline": "Republicans say they will defer to Trump on the Iran war despite congressional deadline"
+    },
+    {
+      "link": "https://apple.news/A5R_H_rs3Q6SmgeP8m3qnYQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-01 07:20:16",
+      "pub_time": "2026-05-01 06:20:46",
+      "publication": "NPR",
+      "author": "Scott Neuman",
+      "headline": "Nationwide May Day protests expected to pick up the mantle of “No Kings”",
+      "article_headline": "Nationwide May Day protests expected to pick up the mantle of “No Kings”"
+    },
+    {
+      "link": "https://apple.news/AQbmKTiiMS-6SEBTYiZ4UQg",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-01 07:20:16",
+      "pub_time": "2026-05-01 06:21:13",
+      "publication": "ProPublica",
+      "author": "",
+      "headline": "Immigration scams surged as Trump’s sweeps lured desperate people to eager defrauders",
+      "article_headline": "Immigration scams surged as Trump’s sweeps lured desperate people to eager defrauders"
+    },
+    {
+      "link": "https://apple.news/AD9lWrpcnTz6S1hJnIZyHTg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-01 07:20:16",
+      "pub_time": "",
+      "publication": "WIRED",
+      "author": "",
+      "headline": "This summer, the American water crisis becomes real",
+      "article_headline": "This summer, the American water crisis becomes real"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 07:20:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Formula 1 Miami looks a lot like Super Bowl weekend. Fans are flocking.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 07:20:16",
+      "pub_time": "2026-05-01 06:22:18",
+      "publication": "The Wall Street Journal",
+      "author": "Rachel Wolfe",
+      "headline": "Where Americans are drawing the line on price increases",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AUZ2__0yNTZGvbcQ6gyUjxA",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-01 07:20:16",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "Trump hits a pivotal 60-day milestone in the Iran war",
+      "article_headline": ""
+    }
+  ]
+}
