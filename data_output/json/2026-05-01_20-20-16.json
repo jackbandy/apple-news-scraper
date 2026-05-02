@@ -1,0 +1,119 @@
+{
+  "run_time": "2026-05-01 20:20:16",
+  "story_count": 10,
+  "stories": [
+    {
+      "link": "https://apple.news/AKE_kjJyYRLCQncywMa4ehw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-01 20:20:16",
+      "pub_time": "2026-05-01 19:20:18",
+      "publication": "The Wall Street Journal",
+      "author": "Michael R. Gordon, Shelby Holliday, and Vera Bergengruen",
+      "headline": "Trump orders the withdrawal of 5,000 U.S. troops from Germany",
+      "article_headline": "Trump orders the withdrawal of 5,000 U.S. troops from Germany"
+    },
+    {
+      "link": "https://apple.news/AjR4k6U0QRJyD8piFgYa53g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-01 20:20:16",
+      "pub_time": "2026-05-01 19:20:45",
+      "publication": "The Guardian",
+      "author": "Lauren Gambino",
+      "headline": "President claims hostilities have ended in Iran in letter to congressional leaders",
+      "article_headline": "President claims hostilities have ended in Iran in letter to congressional leaders"
+    },
+    {
+      "link": "https://apple.news/AQT-zj4fYRpCeYf2NcT4jpA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-01 20:20:16",
+      "pub_time": "2026-05-01 19:21:13",
+      "publication": "POLITICO",
+      "author": "Alice Miranda Ollstein",
+      "headline": "Appeals court approves sweeping abortion-pill restrictions, teeing up Supreme Court showdown",
+      "article_headline": "Appeals court approves sweeping abortion-pill restrictions, teeing up Supreme Court showdown"
+    },
+    {
+      "link": "https://apple.news/AE5HOXAjsQEa2g54fFFdC8Q",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-01 20:20:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "White House gives Spirit Airlines final rescue proposal as carrier prepares to shut down",
+      "article_headline": "White House gives Spirit Airlines final rescue proposal as carrier prepares to shut down"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 20:20:16",
+      "pub_time": "2026-05-01 19:22:18",
+      "publication": "The Washington Post",
+      "author": "Naema Ahmed and Sarah Kaplan",
+      "headline": "The invisible force making food less nutritious",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 20:20:16",
+      "pub_time": "2026-05-01 19:22:18",
+      "publication": "The Wall Street Journal",
+      "author": "Zusha Elinson",
+      "headline": "How Silicon Valley’s brightest parents broke their own school",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AzzuF_rtVT3GQScP27cIkxA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-01 20:20:16",
+      "pub_time": "2026-05-01 05:22:24",
+      "publication": "Inc.",
+      "author": "MARCEL SCHWANTES",
+      "headline": "Warren Buffett Explained That the Greatest Measure of Success at the End of Your Life Comes Down to 1 Word",
+      "article_headline": "Warren Buffett Explained That the Greatest Measure of Success at the End of Your Life Comes Down to 1 Word"
+    },
+    {
+      "link": "https://apple.news/ArrG3YIVCTNm7XKCkxdSLeg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-01 20:20:16",
+      "pub_time": "2026-05-01 08:22:51",
+      "publication": "EatingWell",
+      "author": "Elizabeth Shaw, M.S., RDN, CPT",
+      "headline": "Cardiologists Reveal 3 Things That Are Quietly Impacting Your Cholesterol",
+      "article_headline": "Cardiologists Reveal 3 Things That Are Quietly Impacting Your Cholesterol"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-01 20:20:16",
+      "pub_time": "2026-04-30 20:23:24",
+      "publication": "",
+      "author": "Colson Thayer",
+      "headline": "Father Arrested and Banned for Life from Disney World After Allegedly Assaulting Cast Member During Character Meet-and-Greet",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AGD19rAkWQAiat3mEzgWFfw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-01 20:20:16",
+      "pub_time": "2026-05-01 08:23:24",
+      "publication": "HuffPost",
+      "author": "Jillian Wilson",
+      "headline": "If You Only Close Your Laptop Lid And Don't Shut It Down, We've Got Some Bad News For You",
+      "article_headline": "If You Only Close Your Laptop Lid And Don't Shut It Down, We've Got Some Bad News For You"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-01 22:20:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AKE_kjJyYRLCQncywMa4ehw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-01 22:20:17",
+      "pub_time": "2026-05-01 22:10:18",
+      "publication": "The Wall Street Journal",
+      "author": "Michael R. Gordon, Shelby Holliday, and Vera Bergengruen",
+      "headline": "Trump orders the withdrawal of 5,000 U.S. troops from Germany",
+      "article_headline": "Trump orders the withdrawal of 5,000 U.S. troops from Germany"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 22:20:17",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "2 more Southern states move toward adding Republican House seats",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AQT-zj4fYRpCeYf2NcT4jpA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-01 22:20:17",
+      "pub_time": "2026-05-01 22:10:51",
+      "publication": "POLITICO",
+      "author": "Alice Miranda Ollstein",
+      "headline": "Appeals court approves sweeping abortion-pill restrictions, teeing up Supreme Court showdown",
+      "article_headline": "Appeals court approves sweeping abortion-pill restrictions, teeing up Supreme Court showdown"
+    },
+    {
+      "link": "https://apple.news/AcPEue3kOQbWsD6xXqE6YlA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-01 22:20:17",
+      "pub_time": "2026-05-01 22:11:19",
+      "publication": "NPR",
+      "author": "Joel Rose",
+      "headline": "Passenger railroads see a sharp jump in ridership as gas prices climb",
+      "article_headline": "Passenger railroads see a sharp jump in ridership as gas prices climb"
+    },
+    {
+      "link": "https://apple.news/AQT-zj4fYRpCeYf2NcT4jpA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-01 22:20:17",
+      "pub_time": "2026-05-01 22:10:52",
+      "publication": "POLITICO",
+      "author": "Alice Miranda Ollstein",
+      "headline": "Appeals court approves sweeping abortion-pill restrictions, teeing up Supreme Court showdown",
+      "article_headline": "Appeals court approves sweeping abortion-pill restrictions, teeing up Supreme Court showdown"
+    },
+    {
+      "link": "https://apple.news/AcPEue3kOQbWsD6xXqE6YlA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-01 22:20:17",
+      "pub_time": "2026-05-01 22:11:19",
+      "publication": "NPR",
+      "author": "Joel Rose",
+      "headline": "Passenger railroads see a sharp jump in ridership as gas prices climb",
+      "article_headline": "Passenger railroads see a sharp jump in ridership as gas prices climb"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 22:20:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Pistons stun Magic to force Game 7 after Orlando’s monumental second-half collapse",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ArrG3YIVCTNm7XKCkxdSLeg",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-01 22:20:17",
+      "pub_time": "2026-05-01 08:23:23",
+      "publication": "EatingWell",
+      "author": "Elizabeth Shaw, M.S., RDN, CPT",
+      "headline": "Cardiologists Reveal 3 Things That Are Quietly Impacting Your Cholesterol",
+      "article_headline": "Cardiologists Reveal 3 Things That Are Quietly Impacting Your Cholesterol"
+    },
+    {
+      "link": "https://apple.news/ATBapKAHmRx64pjVAlmdPvg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-01 22:20:17",
+      "pub_time": "2026-05-01 12:23:51",
+      "publication": "People",
+      "author": "Ashlyn Robinette",
+      "headline": "Bride Is Awake and Off Life Support 3 Weeks After Honeymoon Nightmare in Japan",
+      "article_headline": "Bride Is Awake and Off Life Support 3 Weeks After Honeymoon Nightmare in Japan"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-01 22:20:17",
+      "pub_time": "2026-04-30 22:24:24",
+      "publication": "",
+      "author": "Rachael O'Connor",
+      "headline": "Tiny border collie puppies learning to herd sheep melt hearts: \"Working so hard\"",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A4AN-AgPkTEOsAFwFO2OfRQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-01 22:20:17",
+      "pub_time": "2026-05-01 12:24:24",
+      "publication": "TheStreet",
+      "author": "Joey Linn",
+      "headline": "Americans get blunt message on potential housing market crash",
+      "article_headline": "Americans get blunt message on potential housing market crash"
+    }
+  ]
+}

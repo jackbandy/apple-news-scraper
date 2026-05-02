@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-01 18:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AKE_kjJyYRLCQncywMa4ehw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-01 18:20:16",
+      "pub_time": "2026-05-01 18:10:18",
+      "publication": "The Wall Street Journal",
+      "author": "Michael R. Gordon, Shelby Holliday, and Vera Bergengruen",
+      "headline": "Trump orders the withdrawal of 5,000 U.S. troops from Germany",
+      "article_headline": "Trump orders the withdrawal of 5,000 U.S. troops from Germany"
+    },
+    {
+      "link": "https://apple.news/AjR4k6U0QRJyD8piFgYa53g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-01 18:20:16",
+      "pub_time": "2026-05-01 18:10:45",
+      "publication": "The Guardian",
+      "author": "Lauren Gambino",
+      "headline": "President claims hostilities have ended in Iran in letter to congressional leaders",
+      "article_headline": "President claims hostilities have ended in Iran in letter to congressional leaders"
+    },
+    {
+      "link": "https://apple.news/AjR4k6U0QRJyD8piFgYa53g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-01 18:20:16",
+      "pub_time": "2026-05-01 18:10:18",
+      "publication": "The Guardian",
+      "author": "Lauren Gambino",
+      "headline": "President claims hostilities have ended in Iran in letter to congressional leaders",
+      "article_headline": "President claims hostilities have ended in Iran in letter to congressional leaders"
+    },
+    {
+      "link": "https://apple.news/A_Nd-UngWRjWZBersUEBVkA?route=aHR0cHM6Ly9hcHBsZS5uZXdzL1RTbVBKSjlFeVNNdXdJRkUzODZ6SDZRI25mZl9paWQ%3D",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-01 18:20:16",
+      "pub_time": "",
+      "publication": "Apple News Spotlight",
+      "author": "",
+      "headline": "Politics, Takeaways from a landmark SCOTUS ruling, Vance and Cruz head to Iowa, and more of this week’s biggest politics stories, Apple News Editors",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AE5HOXAjsQEa2g54fFFdC8Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-01 18:20:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "White House gives Spirit Airlines final rescue proposal as carrier prepares to shut down",
+      "article_headline": "White House gives Spirit Airlines final rescue proposal as carrier prepares to shut down"
+    },
+    {
+      "link": "https://apple.news/A4Fn29Mg_T8SuS0DXQL8ERg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-01 18:20:16",
+      "pub_time": "2026-05-01 18:10:46",
+      "publication": "The 19th News",
+      "author": "Shefali Luthra",
+      "headline": "Court temporarily blocks nationwide access to abortion pills prescribed through telehealth",
+      "article_headline": "Court temporarily blocks nationwide access to abortion pills prescribed through telehealth"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 18:20:16",
+      "pub_time": "2026-05-01 18:11:13",
+      "publication": "The Wall Street Journal",
+      "author": "Zusha Elinson",
+      "headline": "How Silicon Valley’s brightest parents broke their own school",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

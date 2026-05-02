@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-01 19:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AKE_kjJyYRLCQncywMa4ehw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-01 19:20:16",
+      "pub_time": "2026-05-01 19:04:18",
+      "publication": "The Wall Street Journal",
+      "author": "Michael R. Gordon, Shelby Holliday, and Vera Bergengruen",
+      "headline": "Trump orders the withdrawal of 5,000 U.S. troops from Germany",
+      "article_headline": "Trump orders the withdrawal of 5,000 U.S. troops from Germany"
+    },
+    {
+      "link": "https://apple.news/AjR4k6U0QRJyD8piFgYa53g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-01 19:20:16",
+      "pub_time": "2026-05-01 19:04:45",
+      "publication": "The Guardian",
+      "author": "Lauren Gambino",
+      "headline": "President claims hostilities have ended in Iran in letter to congressional leaders",
+      "article_headline": "President claims hostilities have ended in Iran in letter to congressional leaders"
+    },
+    {
+      "link": "https://apple.news/AQT-zj4fYRpCeYf2NcT4jpA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-01 19:20:16",
+      "pub_time": "2026-05-01 19:05:13",
+      "publication": "POLITICO",
+      "author": "Alice Miranda Ollstein",
+      "headline": "Appeals court approves sweeping abortion-pill restrictions, teeing up Supreme Court showdown",
+      "article_headline": "Appeals court approves sweeping abortion-pill restrictions, teeing up Supreme Court showdown"
+    },
+    {
+      "link": "https://apple.news/AjR4k6U0QRJyD8piFgYa53g",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-01 19:20:16",
+      "pub_time": "2026-05-01 19:04:46",
+      "publication": "The Guardian",
+      "author": "Lauren Gambino",
+      "headline": "President claims hostilities have ended in Iran in letter to congressional leaders",
+      "article_headline": "President claims hostilities have ended in Iran in letter to congressional leaders"
+    },
+    {
+      "link": "https://apple.news/AQT-zj4fYRpCeYf2NcT4jpA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-01 19:20:16",
+      "pub_time": "2026-05-01 19:05:13",
+      "publication": "POLITICO",
+      "author": "Alice Miranda Ollstein",
+      "headline": "Appeals court approves sweeping abortion-pill restrictions, teeing up Supreme Court showdown",
+      "article_headline": "Appeals court approves sweeping abortion-pill restrictions, teeing up Supreme Court showdown"
+    },
+    {
+      "link": "https://apple.news/AE5HOXAjsQEa2g54fFFdC8Q",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-01 19:20:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "White House gives Spirit Airlines final rescue proposal as carrier prepares to shut down",
+      "article_headline": "White House gives Spirit Airlines final rescue proposal as carrier prepares to shut down"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-01 19:20:16",
+      "pub_time": "2026-05-01 19:04:14",
+      "publication": "The Washington Post",
+      "author": "Naema Ahmed and Sarah Kaplan",
+      "headline": "The invisible force making food less nutritious",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
