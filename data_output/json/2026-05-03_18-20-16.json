@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-03 18:20:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/AFPhsUD-BSoWROTbHjaDBLA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-03 18:20:16",
+      "pub_time": "2026-05-03 17:56:18",
+      "publication": "NBC News",
+      "author": "Mark Hodge, Kayla Hayempour, and Amina Kilpatrick",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AochA9ggjT1eA_QLMHCsosw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-03 18:20:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump says U.S. will “guide” stranded ships from Strait of Hormuz starting Monday",
+      "article_headline": "Trump says U.S. will “guide” stranded ships from Strait of Hormuz starting Monday"
+    },
+    {
+      "link": "https://apple.news/ANrEWCQhcQVWZGLSTDRiQtQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-03 18:20:16",
+      "pub_time": "2026-05-03 17:55:19",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "3 cruise-ship passengers dead from suspected hantavirus outbreak, WHO says",
+      "article_headline": "3 cruise-ship passengers dead from suspected hantavirus outbreak, WHO says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-03 18:20:16",
+      "pub_time": "2026-05-03 17:55:46",
+      "publication": "The Wall Street Journal",
+      "author": "Annie Linskey, C. Ryan Barber, and Maggie Severns",
+      "headline": "He rescued Trump from one assassination attempt. Now he has to answer for another.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AJSjXUmauQ9SBw0dCktf43w",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-03 18:20:16",
+      "pub_time": "",
+      "publication": "The Hollywood Reporter",
+      "author": "",
+      "headline": "‘Devil Wears Prada 2’ kicks off summer box office in fine fashion, with $234 million globally",
+      "article_headline": "Box Office Haute Couture: 'Devil Wears Prada 2' Officially Kicks Off Summer With Heavenly $77M in U.S., $234M Globally"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-03 18:20:16",
+      "pub_time": "",
+      "publication": "The Atavist Magazine",
+      "author": "",
+      "headline": "Colorado’s San Luis Valley was a poacher’s paradise. Then an undercover agent arrived., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADK0ST_tpRWOJy66phhgapA",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-03 18:20:16",
+      "pub_time": "",
+      "publication": "The real reason men are struggling",
+      "author": "",
+      "headline": "What their inner lives actually look like.,  Play Now  28 min",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AMLqzke1uT5-TBDRPii1pNw",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-03 18:20:16",
+      "pub_time": "2026-05-03 12:23:36",
+      "publication": "Popular Science",
+      "author": "Sarah Durn",
+      "headline": "The 1893 Chicago World’s Fair in 9 stunning color photos",
+      "article_headline": "The 1893 Chicago World’s Fair in 9 stunning color photos"
+    },
+    {
+      "link": "https://apple.news/AI0y-rhjdTtySZXQ0C_8Gmg",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-03 18:20:16",
+      "pub_time": "2026-05-03 13:24:04",
+      "publication": "People",
+      "author": "Ashley Vega",
+      "headline": "Man with Chromosome Abnormality Hands Out Surprise Gift to Every Passenger on His Flight, with a Very Special Goal in Mind",
+      "article_headline": "Man with Chromosome Abnormality Hands Out Surprise Gift to Every Passenger on His Flight, with a Very Special Goal in Mind"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-03 18:20:16",
+      "pub_time": "2026-05-03 05:24:31",
+      "publication": "",
+      "author": "Christa Sgobba",
+      "headline": "4 subtle signs you aren’t eating enough protein",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ah9oURyy7SbCFE8CW2_bXKQ",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-03 18:20:16",
+      "pub_time": "2026-05-03 07:24:37",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Beach homes under $400,000: This is the last affordable city on California’s coast",
+      "article_headline": "Beach homes under $400,000: This is the last affordable city on California’s coast"
+    }
+  ]
+}

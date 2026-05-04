@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-03 21:40:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AFPhsUD-BSoWROTbHjaDBLA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-03 21:40:17",
+      "pub_time": "2026-05-03 20:42:19",
+      "publication": "NBC News",
+      "author": "Mark Hodge, Kayla Hayempour, and Amina Kilpatrick",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AochA9ggjT1eA_QLMHCsosw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-03 21:40:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump says U.S. will “guide” stranded ships from Strait of Hormuz starting Monday",
+      "article_headline": "Trump says U.S. will “guide” stranded ships from Strait of Hormuz starting Monday"
+    },
+    {
+      "link": "https://apple.news/ANrEWCQhcQVWZGLSTDRiQtQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-03 21:40:17",
+      "pub_time": "2026-05-03 20:42:19",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "3 cruise-ship passengers dead from suspected hantavirus outbreak, WHO says",
+      "article_headline": "3 cruise-ship passengers dead from suspected hantavirus outbreak, WHO says"
+    },
+    {
+      "link": "https://apple.news/AyXiBrV4pQGGnRx3fI4F6jg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-03 21:40:17",
+      "pub_time": "2026-05-03 20:42:46",
+      "publication": "Fox News",
+      "author": "Greg Wehner",
+      "headline": "Rudy Giuliani hospitalized in critical but stable condition",
+      "article_headline": "Rudy Giuliani hospitalized in critical but stable condition"
+    },
+    {
+      "link": "https://apple.news/ANrEWCQhcQVWZGLSTDRiQtQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-03 21:40:17",
+      "pub_time": "2026-05-03 20:42:19",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "3 cruise-ship passengers dead from suspected hantavirus outbreak, WHO says",
+      "article_headline": "3 cruise-ship passengers dead from suspected hantavirus outbreak, WHO says"
+    },
+    {
+      "link": "https://apple.news/AyXiBrV4pQGGnRx3fI4F6jg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-03 21:40:17",
+      "pub_time": "2026-05-03 20:42:46",
+      "publication": "Fox News",
+      "author": "Greg Wehner",
+      "headline": "Rudy Giuliani hospitalized in critical but stable condition",
+      "article_headline": "Rudy Giuliani hospitalized in critical but stable condition"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-03 21:40:17",
+      "pub_time": "",
+      "publication": "Detroit Free Press",
+      "author": "",
+      "headline": "Pistons avoid first-round upset in decisive Game 7 win over the Magic",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

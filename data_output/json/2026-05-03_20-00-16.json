@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-03 20:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AFPhsUD-BSoWROTbHjaDBLA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-03 20:00:16",
+      "pub_time": "2026-05-03 19:00:18",
+      "publication": "NBC News",
+      "author": "Mark Hodge, Kayla Hayempour, and Amina Kilpatrick",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AochA9ggjT1eA_QLMHCsosw",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-03 20:00:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump says U.S. will “guide” stranded ships from Strait of Hormuz starting Monday",
+      "article_headline": "Trump says U.S. will “guide” stranded ships from Strait of Hormuz starting Monday"
+    },
+    {
+      "link": "https://apple.news/ANrEWCQhcQVWZGLSTDRiQtQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-03 20:00:16",
+      "pub_time": "2026-05-03 19:01:18",
+      "publication": "AFP News",
+      "author": "",
+      "headline": "3 cruise-ship passengers dead from suspected hantavirus outbreak, WHO says",
+      "article_headline": "3 cruise-ship passengers dead from suspected hantavirus outbreak, WHO says"
+    },
+    {
+      "link": "https://apple.news/AyXiBrV4pQGGnRx3fI4F6jg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-03 20:00:16",
+      "pub_time": "2026-05-03 19:01:46",
+      "publication": "Fox News",
+      "author": "Greg Wehner",
+      "headline": "Rudy Giuliani hospitalized in critical but stable condition",
+      "article_headline": "Rudy Giuliani hospitalized in critical but stable condition"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-03 20:00:16",
+      "pub_time": "2026-05-03 19:02:19",
+      "publication": "The Wall Street Journal",
+      "author": "Annie Linskey, C. Ryan Barber, and Maggie Severns",
+      "headline": "He rescued Trump from one assassination attempt. Now he has to answer for another.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-03 20:00:16",
+      "pub_time": "",
+      "publication": "The Atavist Magazine",
+      "author": "",
+      "headline": "Colorado’s San Luis Valley was a poacher’s paradise. Then an undercover agent arrived., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ADK0ST_tpRWOJy66phhgapA",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-03 20:00:16",
+      "pub_time": "",
+      "publication": "The real reason men are struggling",
+      "author": "",
+      "headline": "What their inner lives actually look like.,  Play Now  28 min",
+      "article_headline": ""
+    }
+  ]
+}
