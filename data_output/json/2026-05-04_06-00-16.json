@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-04 06:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AZvt50jK0SICka31_5-Ky9A",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-04 06:00:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump says U.S. to help ships stranded in Strait of Hormuz as tanker hit by projectiles",
+      "article_headline": "Iran says it turns back US warship from Strait of Hormuz, US official denies missile strike"
+    },
+    {
+      "link": "https://apple.news/Aeiu6ouo5SwumT-jVSpbzFA",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-04 06:00:16",
+      "pub_time": "2026-05-04 05:16:45",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Rudy Giuliani hospitalized in critical condition, his spokesman says",
+      "article_headline": "Rudy Giuliani hospitalized in critical condition, his spokesman says"
+    },
+    {
+      "link": "https://apple.news/Aeiu6ouo5SwumT-jVSpbzFA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-04 06:00:16",
+      "pub_time": "2026-05-04 05:16:17",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Rudy Giuliani hospitalized in critical condition, his spokesman says",
+      "article_headline": "Rudy Giuliani hospitalized in critical condition, his spokesman says"
+    },
+    {
+      "link": "https://apple.news/Am2L7ebAPR9-hCEAsWDvtTA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-04 06:00:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "AI finds signs of pancreatic cancer before tumors develop",
+      "article_headline": "AI finds signs of pancreatic cancer before tumors develop"
+    },
+    {
+      "link": "https://apple.news/AM4Xj8wWQQmWfqJIwRqCABw",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-04 06:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Why almost everyone loses — except a few sharks — on prediction markets",
+      "article_headline": "Why almost everyone loses — except a few sharks — on prediction markets"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 06:00:16",
+      "pub_time": "2026-05-04 05:16:45",
+      "publication": "Los Angeles Times",
+      "author": "Ian James",
+      "headline": "California, Arizona, and Nevada set new water-saving plan for the dwindling Colorado River",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 06:00:16",
+      "pub_time": "2026-05-04 05:16:45",
+      "publication": "National Geographic",
+      "author": "Pierpaolo Mittica and Simon Ostrovsky",
+      "headline": "Inside Chernobyl’s shadow community: what a nuclear disaster looks like 40 years on",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

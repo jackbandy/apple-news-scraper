@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-04 03:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AFPhsUD-BSoWROTbHjaDBLA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-04 03:40:16",
+      "pub_time": "2026-05-03 23:40:18",
+      "publication": "NBC News",
+      "author": "Mark Hodge, Kayla Hayempour, and Amina Kilpatrick",
+      "headline": "Here’s the biggest news you missed this weekend",
+      "article_headline": "Here’s the biggest news you missed this weekend"
+    },
+    {
+      "link": "https://apple.news/AZvt50jK0SICka31_5-Ky9A",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-04 03:40:16",
+      "pub_time": "",
+      "publication": "Reuters",
+      "author": "",
+      "headline": "Trump says U.S. to help ships stranded in Strait of Hormuz as tanker hit by projectiles",
+      "article_headline": "Iran warns US Navy to stay clear of Hormuz after Trump says US to help stranded ships"
+    },
+    {
+      "link": "https://apple.news/Aeiu6ouo5SwumT-jVSpbzFA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-04 03:40:16",
+      "pub_time": "2026-05-03 23:41:18",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Rudy Giuliani hospitalized in critical condition, his spokesman says",
+      "article_headline": "Rudy Giuliani hospitalized in critical condition, his spokesman says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 03:40:16",
+      "pub_time": "2026-05-03 23:41:45",
+      "publication": "The Minnesota Star Tribune",
+      "author": "",
+      "headline": "Mayo treated his cancer, but insurance denied coverage, leaving him with $76,000 in medical bills",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AHKhP_hjFQBqikvoy5qeJdA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-04 03:40:16",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Cavaliers overpower the Raptors in Game 7 of a tightly-contested series",
+      "article_headline": "Cavaliers overpower the Raptors in Game 7 of a tightly-contested series"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-04 03:40:16",
+      "pub_time": "",
+      "publication": "The Atavist Magazine",
+      "author": "",
+      "headline": "Colorado’s San Luis Valley was a poacher’s paradise. Then an undercover agent arrived., Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A1secnYuiRwGd-FgRMgp3Ug",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-04 03:40:16",
+      "pub_time": "2026-05-03 03:42:34",
+      "publication": "The Times of London",
+      "author": "",
+      "headline": "Tigers kill our husbands by the hundred, but we get the blame",
+      "article_headline": "Tigers kill our husbands by the hundred, but we get the blame"
+    }
+  ]
+}
