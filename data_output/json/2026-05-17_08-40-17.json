@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-05-17 08:40:17",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/A9pQiWnAuQxKU896yqMIdPQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-17 08:40:17",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Trump nemesis Sen. Bill Cassidy defeated in GOP primary",
+      "article_headline": "Trump nemesis Sen. Bill Cassidy defeated in GOP primary"
+    },
+    {
+      "link": "https://apple.news/AyeBFIellQL2A0kZR-a54pQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-17 08:40:17",
+      "pub_time": "",
+      "publication": "NPR",
+      "author": "",
+      "headline": "World Health Organization declares Ebola outbreak in Congo a global health emergency",
+      "article_headline": "World Health Organization declares Ebola outbreak in Congo a global health emergency"
+    },
+    {
+      "link": "https://apple.news/A43PEQhxYTF2qvtc-Vb0DaQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-17 08:40:17",
+      "pub_time": "2026-05-17 08:05:18",
+      "publication": "The Trace",
+      "author": "Jennifer Mascia",
+      "headline": "People might soon be able to ship handguns through the mail. Here’s why it matters.",
+      "article_headline": "People might soon be able to ship handguns through the mail. Here’s why it matters."
+    },
+    {
+      "link": "https://apple.news/AVqBIQcvMStGBYrMLgtCyRw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-17 08:40:17",
+      "pub_time": "2026-05-17 08:05:46",
+      "publication": "NBC News",
+      "author": "Mike Hixenbaugh",
+      "headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom",
+      "article_headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom"
+    },
+    {
+      "link": "https://apple.news/A43PEQhxYTF2qvtc-Vb0DaQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-17 08:40:17",
+      "pub_time": "2026-05-17 08:05:19",
+      "publication": "The Trace",
+      "author": "Jennifer Mascia",
+      "headline": "People might soon be able to ship handguns through the mail. Here’s why it matters.",
+      "article_headline": "People might soon be able to ship handguns through the mail. Here’s why it matters."
+    },
+    {
+      "link": "https://apple.news/AVqBIQcvMStGBYrMLgtCyRw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-17 08:40:17",
+      "pub_time": "2026-05-17 08:05:47",
+      "publication": "NBC News",
+      "author": "Mike Hixenbaugh",
+      "headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom",
+      "article_headline": "Families caring for disabled relatives face unthinkable choices as Medicaid cuts loom"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-17 08:40:17",
+      "pub_time": "2026-05-17 08:06:15",
+      "publication": "Vox",
+      "author": "Kenny Torrella",
+      "headline": "Millions of people voted for these animal welfare laws. Congress is trying to overturn them.",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/Ad7ijdCrFT6ODLjSNoRhmfA",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-17 08:40:17",
+      "pub_time": "2026-05-17 05:44:02",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "Tick bites surge, sending many to ER. Maps show where.",
+      "article_headline": "Tick bites surge, sending many to ER. Maps show where."
+    },
+    {
+      "link": "https://apple.news/ACfUkDDi9SviSBCATijGrpw",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-17 08:40:17",
+      "pub_time": "2026-05-17 06:44:35",
+      "publication": "BuzzFeed",
+      "author": "Jake Farrington",
+      "headline": "\"It Is Unthinkable In Europe\": 28 American Foods That People From Other Countries Think Are Absolutely Repulsive, And I Kind Of Agree With Them On A Few Of These",
+      "article_headline": "\"It Is Unthinkable In Europe\": 28 American Foods That People From Other Countries Think Are Absolutely Repulsive, And I Kind Of Agree With Them On A Few Of These"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-17 08:40:17",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "The startling effect coffee has on aging, Apple News Plus, Thomas Westerholm",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AypVAoDl0Ro2Hbs87HnE70g",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-17 08:40:17",
+      "pub_time": "2026-05-17 03:45:02",
+      "publication": "Fast Company",
+      "author": "",
+      "headline": "Cybersecurity experts warn: This common email habit is a gift to hackers",
+      "article_headline": "Cybersecurity experts warn: This common email habit is a gift to hackers"
+    }
+  ]
+}
