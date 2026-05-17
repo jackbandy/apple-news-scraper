@@ -1,0 +1,73 @@
+{
+  "run_time": "2026-05-17 16:20:14",
+  "story_count": 6,
+  "stories": [
+    {
+      "link": "https://apple.news/AMJCL4ERrR6-8iSN9OMCY5w",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-17 16:20:14",
+      "pub_time": "2026-05-17 15:39:16",
+      "publication": "Axios",
+      "author": "Barak Ravid",
+      "headline": "Trump warns Iran “clock is ticking” until U.S. launches harder strikes",
+      "article_headline": "Trump warns Iran “clock is ticking” until U.S. launches harder strikes"
+    },
+    {
+      "link": "https://apple.news/AZ5UEE3qkQAiP9BZrTjWvtg",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-17 16:20:14",
+      "pub_time": "2026-05-17 15:39:44",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "How worrying is the Ebola outbreak in DR Congo?",
+      "article_headline": "How worrying is the Ebola outbreak in DR Congo?"
+    },
+    {
+      "link": "https://apple.news/AVxKrpW2TTpe6oDJrvE6J9Q",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-17 16:20:14",
+      "pub_time": "2026-05-17 15:40:11",
+      "publication": "Idaho Statesman",
+      "author": "",
+      "headline": "Midair collision sparks crash at Idaho air show; crews ejected, “found safe”",
+      "article_headline": "Midair collision sparks crash at Idaho air show; crews ejected, ‘found safe’"
+    },
+    {
+      "link": "https://apple.news/AZ5UEE3qkQAiP9BZrTjWvtg",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-17 16:20:14",
+      "pub_time": "2026-05-17 15:39:43",
+      "publication": "BBC News",
+      "author": "",
+      "headline": "How worrying is the Ebola outbreak in DR Congo?",
+      "article_headline": "How worrying is the Ebola outbreak in DR Congo?"
+    },
+    {
+      "link": "https://apple.news/AVxKrpW2TTpe6oDJrvE6J9Q",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-17 16:20:14",
+      "pub_time": "2026-05-17 15:40:09",
+      "publication": "Idaho Statesman",
+      "author": "",
+      "headline": "Midair collision sparks crash at Idaho air show; crews ejected, “found safe”",
+      "article_headline": "Midair collision sparks crash at Idaho air show; crews ejected, ‘found safe’"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-17 16:20:14",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Thomas Massie’s lonely and expensive fight against Trump",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}
