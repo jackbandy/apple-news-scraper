@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-18 05:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AoHC0siydTmyVTfNZG4U1Aw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-18 05:00:17",
+      "pub_time": "2026-05-18 04:23:18",
+      "publication": "Reuters",
+      "author": "Tala Ramadan",
+      "headline": "UAE and Saudi Arabia report drone incidents as Iran war deadlock drags on",
+      "article_headline": "UAE and Saudi Arabia report drone incidents as Iran war deadlock drags on"
+    },
+    {
+      "link": "https://apple.news/ANmbhZYiiQPGyVMuxWBmpyQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-18 05:00:17",
+      "pub_time": "2026-05-18 04:23:45",
+      "publication": "STAT",
+      "author": "Helen Branswell",
+      "headline": "Americans in Congo believed to have been exposed to suspected Ebola cases amid outbreak",
+      "article_headline": "Americans in Congo believed to have been exposed to suspected Ebola cases amid outbreak"
+    },
+    {
+      "link": "https://apple.news/ANmbhZYiiQPGyVMuxWBmpyQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-18 05:00:17",
+      "pub_time": "2026-05-18 04:23:18",
+      "publication": "STAT",
+      "author": "Helen Branswell",
+      "headline": "Americans in Congo believed to have been exposed to suspected Ebola cases amid outbreak",
+      "article_headline": "Americans in Congo believed to have been exposed to suspected Ebola cases amid outbreak"
+    },
+    {
+      "link": "https://apple.news/A8hQML7DnQsuKkqB98wlVfA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-18 05:00:17",
+      "pub_time": "",
+      "publication": "ABC News",
+      "author": "",
+      "headline": "Ahead of Tuesday primary, GOP Rep. Massie says billionaires are trying to “buy” his seat",
+      "article_headline": "Ahead of Tuesday primary, GOP Rep. Massie says billionaires are trying to “buy” his seat"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 05:00:17",
+      "pub_time": "2026-05-18 04:24:13",
+      "publication": "The Washington Post",
+      "author": "Michelle Boorstein, Laura Meckler, and Mariana Alfaro",
+      "headline": "Trump-backed prayer festival on National Mall draws thousands: “We welcome Jesus!”",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 05:00:17",
+      "pub_time": "2026-05-18 04:23:18",
+      "publication": "The Washington Post",
+      "author": "Michelle Boorstein, Laura Meckler, and Mariana Alfaro",
+      "headline": "Trump-backed prayer festival on National Mall draws thousands: “We welcome Jesus!”",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AKHXOl4y8TxyQQJakijvfZQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-18 05:00:17",
+      "pub_time": "",
+      "publication": "The Athletic",
+      "author": "",
+      "headline": "Cavs blow out the Pistons in Game 7, setting up a showdown with the Knicks",
+      "article_headline": "Cavs, Donovan Mitchell dominate Pistons in Game 7, set up East showdown with Knicks"
+    }
+  ]
+}
