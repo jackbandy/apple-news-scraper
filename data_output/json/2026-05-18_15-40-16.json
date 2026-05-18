@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-18 15:40:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AsY9M1h7gRDe72SQZH8-WNQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-18 15:40:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Justice Department announces a $1.7 billion fund to compensate Trump allies in a deal to drop IRS suit",
+      "article_headline": "Justice Department announces a $1.7B fund to compensate Trump allies in a deal to drop IRS suit"
+    },
+    {
+      "link": "https://apple.news/AXdNw5IV9T6GdsCdota3jlQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-18 15:40:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Jury rejects Musk’s claims against OpenAI",
+      "article_headline": "Jury Rejects Musk’s Claims Against OpenAI"
+    },
+    {
+      "link": "https://apple.news/A0fKYnQtOT1me3Apub8Tj4g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-18 15:40:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "U.S. issues travel bans as Ebola outbreak fuels global alarm",
+      "article_headline": "U.S. issues travel bans as Ebola outbreak fuels global alarm"
+    },
+    {
+      "link": "https://apple.news/A-ms9ScsHSvi_CJ6iuFZYzQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-18 15:40:16",
+      "pub_time": "2026-05-18 15:06:45",
+      "publication": "The Minnesota Star Tribune",
+      "author": "",
+      "headline": "ICE agent charged in shooting of man in Minneapolis during Operation Metro Surge",
+      "article_headline": "ICE agent charged in shooting of immigrant during Operation Metro Surge"
+    },
+    {
+      "link": "https://apple.news/A-ms9ScsHSvi_CJ6iuFZYzQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-18 15:40:16",
+      "pub_time": "2026-05-18 15:06:17",
+      "publication": "The Minnesota Star Tribune",
+      "author": "",
+      "headline": "ICE agent charged in shooting of man in Minneapolis during Operation Metro Surge",
+      "article_headline": "ICE agent charged in shooting of immigrant during Operation Metro Surge"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 15:40:16",
+      "pub_time": "2026-05-18 15:06:44",
+      "publication": "Los Angeles Times",
+      "author": "Susanne Rust and Lila Seidman",
+      "headline": "As ocean temperatures spike, more dead seabirds are washing up on California shores",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 15:40:16",
+      "pub_time": "2026-05-18 15:06:44",
+      "publication": "The Atlantic",
+      "author": "Caitlin Dickerson",
+      "headline": "A new kind of family-separation crisis",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

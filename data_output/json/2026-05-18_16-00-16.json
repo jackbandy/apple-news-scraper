@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-18 16:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AsY9M1h7gRDe72SQZH8-WNQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-18 16:00:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Justice Department announces a $1.7 billion fund to compensate Trump allies in a deal to drop IRS suit",
+      "article_headline": "Justice Department announces a $1.7B fund to compensate Trump allies in a deal to drop IRS suit"
+    },
+    {
+      "link": "https://apple.news/AXdNw5IV9T6GdsCdota3jlQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-18 16:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Jury rejects Musk’s claims against OpenAI",
+      "article_headline": "Jury Rejects Musk’s Claims Against OpenAI"
+    },
+    {
+      "link": "https://apple.news/A0wBUr1IsS_m-yvsFfkq7AQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-18 16:00:16",
+      "pub_time": "",
+      "publication": "The Washington Post",
+      "author": "",
+      "headline": "EPA wants to repeal limits on “forever chemicals” in drinking water",
+      "article_headline": "EPA wants to repeal limits on “forever chemicals” in drinking water"
+    },
+    {
+      "link": "https://apple.news/A-ms9ScsHSvi_CJ6iuFZYzQ",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-18 16:00:16",
+      "pub_time": "2026-05-18 15:50:45",
+      "publication": "The Minnesota Star Tribune",
+      "author": "",
+      "headline": "ICE agent charged in shooting of man in Minneapolis during Operation Metro Surge",
+      "article_headline": "ICE agent charged in shooting of immigrant during Operation Metro Surge"
+    },
+    {
+      "link": "https://apple.news/A-ms9ScsHSvi_CJ6iuFZYzQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-18 16:00:16",
+      "pub_time": "2026-05-18 15:50:18",
+      "publication": "The Minnesota Star Tribune",
+      "author": "",
+      "headline": "ICE agent charged in shooting of man in Minneapolis during Operation Metro Surge",
+      "article_headline": "ICE agent charged in shooting of immigrant during Operation Metro Surge"
+    },
+    {
+      "link": "https://apple.news/AJ91G_tt6Qm2oqFYL2qUMsw",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-18 16:00:16",
+      "pub_time": "2026-05-18 15:50:45",
+      "publication": "The Athletic",
+      "author": "David Ornstein and Sam Lee",
+      "headline": "Pep Guardiola to leave Manchester City at the end of Premier League season",
+      "article_headline": "Pep Guardiola to leave Manchester City at the end of Premier League season"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 16:00:16",
+      "pub_time": "2026-05-18 15:51:12",
+      "publication": "The Atlantic",
+      "author": "Caitlin Dickerson",
+      "headline": "A new kind of family-separation crisis",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

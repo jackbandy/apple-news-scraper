@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-18 14:00:18",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AsY9M1h7gRDe72SQZH8-WNQ",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-18 14:00:18",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Justice Department announces a $1.7 billion fund to compensate Trump allies in a deal to drop IRS suit",
+      "article_headline": "Justice Department announces a $1.7B fund to compensate Trump allies in a deal to drop IRS suit"
+    },
+    {
+      "link": "https://apple.news/AXdNw5IV9T6GdsCdota3jlQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-18 14:00:18",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Jury unanimously rejects Elon Musk’s case against OpenAI",
+      "article_headline": "Jury Rejects Musk’s Claims Against OpenAI"
+    },
+    {
+      "link": "https://apple.news/A0fKYnQtOT1me3Apub8Tj4g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-18 14:00:18",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "U.S. issues travel bans as Ebola outbreak fuels global alarm",
+      "article_headline": "U.S. issues travel bans as Ebola outbreak fuels global alarm"
+    },
+    {
+      "link": "https://apple.news/A3fDP_Z-CRrCTIklOGFmsww",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-18 14:00:18",
+      "pub_time": "2026-05-18 13:56:03",
+      "publication": "The Hill",
+      "author": "Ellen Mitchell",
+      "headline": "Democrats are on the brink of a war-powers breakthrough",
+      "article_headline": "Democrats are on the brink of a war-powers breakthrough"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 14:00:18",
+      "pub_time": "2026-05-18 13:56:31",
+      "publication": "The New Yorker",
+      "author": "Rachel Monroe",
+      "headline": "The looming disaster of the border wall in Big Bend, Texas",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AwAJ3tqO8RUKIo2zRYEAw4A",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-18 14:00:18",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "How another Republican targeted by Trump lost a primary",
+      "article_headline": ""
+    },
+    {
+      "link": "https://apple.news/AwAJ3tqO8RUKIo2zRYEAw4A",
+      "rank": "audio",
+      "section": "top",
+      "run_time": "2026-05-18 14:00:18",
+      "pub_time": "",
+      "publication": "Apple News Today",
+      "author": "",
+      "headline": "How another Republican targeted by Trump lost a primary",
+      "article_headline": ""
+    }
+  ]
+}
