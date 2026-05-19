@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-18 20:40:13",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ASwAhXmE-Sru12I3TFY1STA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-18 20:40:13",
+      "pub_time": "2026-05-18 18:40:15",
+      "publication": "The Washington Post",
+      "author": "Mariana Alfaro and Karin Brulliard",
+      "headline": "3 killed in shooting at San Diego Islamic Center; 2 suspects also dead",
+      "article_headline": "3 killed in shooting at San Diego Islamic Center; 2 suspects also dead"
+    },
+    {
+      "link": "https://apple.news/A-kWvQkyWRY2gvojmiJYT9g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-18 20:40:13",
+      "pub_time": "2026-05-18 18:40:43",
+      "publication": "Reuters",
+      "author": "Steve Holland, Parisa Hafezi, and Ariba Shahid",
+      "headline": "Trump says he paused attack on Iran, signals a nuclear deal may be possible",
+      "article_headline": "Trump says he paused attack on Iran, signals a nuclear deal may be possible"
+    },
+    {
+      "link": "https://apple.news/ApO4vU9aLSZKwCUFoh1G_Uw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-18 20:40:13",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Justice Department creates unusual $1.8 billion “anti-weaponization fund”",
+      "article_headline": "Justice Department creates unusual $1.8 billion “anti-weaponization fund”"
+    },
+    {
+      "link": "https://apple.news/AnR5ZEV4jTQu62DYgOEbN4A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-18 20:40:13",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "American working in Congo tests positive for Ebola, CDC says",
+      "article_headline": "American working in Congo tests positive for Ebola, CDC says"
+    },
+    {
+      "link": "https://apple.news/A3zwGZwAETPqUu6DH_8BbjA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-18 20:40:13",
+      "pub_time": "2026-05-18 18:42:15",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Sandy Fire threatens homes, forces evacuations as fires burn across California",
+      "article_headline": "Sandy Fire threatens homes, forces evacuations as fires burn across California"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 20:40:13",
+      "pub_time": "",
+      "publication": "The Verge",
+      "author": "",
+      "headline": "The subletter that upended an L.A. woman’s life, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AOZAh3ijrTPGh21iJ9E60hQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-18 20:40:13",
+      "pub_time": "2026-05-18 18:42:56",
+      "publication": "InStyle",
+      "author": "Kyra Surgent",
+      "headline": "Amal Clooney, Tate McRae, and Bad Bunny Use the Damage-Reversing Brand Behind These $11 Nail Strengtheners",
+      "article_headline": "Amal Clooney, Tate McRae, and Bad Bunny Use the Damage-Reversing Brand Behind These $11 Nail Strengtheners"
+    }
+  ]
+}

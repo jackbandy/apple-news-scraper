@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-18 22:00:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ASwAhXmE-Sru12I3TFY1STA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-18 22:00:16",
+      "pub_time": "2026-05-18 21:00:18",
+      "publication": "The Washington Post",
+      "author": "Mariana Alfaro and Karin Brulliard",
+      "headline": "‘Heroic’ security guard among 3 killed in shooting at San Diego Islamic Center",
+      "article_headline": "‘Heroic’ security guard among 3 killed in shooting at San Diego Islamic Center"
+    },
+    {
+      "link": "https://apple.news/A-kWvQkyWRY2gvojmiJYT9g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-18 22:00:16",
+      "pub_time": "2026-05-18 21:00:46",
+      "publication": "Reuters",
+      "author": "Steve Holland, Parisa Hafezi, and Ariba Shahid",
+      "headline": "Trump says he paused attack on Iran, signals a nuclear deal may be possible",
+      "article_headline": "Trump says he paused attack on Iran, signals a nuclear deal may be possible"
+    },
+    {
+      "link": "https://apple.news/A6WPdoeU2QqWRs6lLoxY2pA",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-18 22:00:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "What to know about Trump’s $1.7 billion fund to compensate allies claiming political targeting",
+      "article_headline": "What to know about Trump’s $1.7 billion fund to compensate allies claiming political targeting"
+    },
+    {
+      "link": "https://apple.news/AnR5ZEV4jTQu62DYgOEbN4A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-18 22:00:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "American working in Congo tests positive for Ebola, CDC says",
+      "article_headline": "American working in Congo tests positive for Ebola, CDC says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 22:00:16",
+      "pub_time": "2026-05-18 21:02:19",
+      "publication": "Los Angeles Times",
+      "author": "Gavin J. Quinton and Libor Jany",
+      "headline": "Mark Fuhrman, police detective known for O.J. Simpson trial, dies at 74",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 22:00:16",
+      "pub_time": "",
+      "publication": "The Verge",
+      "author": "",
+      "headline": "The subletter that upended an L.A. woman’s life, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AGBcEK3pISWe3Psp7AKMoQg",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-18 22:00:16",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Chicago History Museum violated law after firing employees for unionizing, federal labor board alleges",
+      "article_headline": "Chicago History Museum violated law after firing employees for unionizing, federal labor board alleges"
+    },
+    {
+      "link": "https://apple.news/Ah4XB1VOnSoWlPPEpx2MB8Q",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-18 22:00:16",
+      "pub_time": "2026-05-18 16:03:23",
+      "publication": "Good Housekeeping",
+      "author": "Hannah Chenoweth and Lauren Manaker, M.S., R.D.N., L.D.",
+      "headline": "Doctors Warn You Should Never Take These Two Vitamins Together",
+      "article_headline": "Doctors Warn You Should Never Take These Two Vitamins Together"
+    },
+    {
+      "link": "https://apple.news/Aj3417ZyuQ5W7drxUbwig_g",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-18 22:00:16",
+      "pub_time": "2026-05-18 13:03:50",
+      "publication": "TMZ",
+      "author": "TMZ Staff",
+      "headline": "Meryl Streep and Martin Short Seen at London Restaurant Amid Split Rumors",
+      "article_headline": "Meryl Streep and Martin Short Seen at London Restaurant Amid Split Rumors"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-18 22:00:16",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "The startling effect coffee has on aging, Apple News Plus, Thomas Westerholm",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AuONvYYb8Q_GrQLdpqSH0Cw",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-18 22:00:16",
+      "pub_time": "2026-05-18 19:04:25",
+      "publication": "The Guardian",
+      "author": "Gavin Blair",
+      "headline": "‘Remain calm’: Japan is gripped by fears of a naphtha shortage. What is it and why are people worried?",
+      "article_headline": "‘Remain calm’: Japan is gripped by fears of a naphtha shortage. What is it and why are people worried?"
+    }
+  ]
+}

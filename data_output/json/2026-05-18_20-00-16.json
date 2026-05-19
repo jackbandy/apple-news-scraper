@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-18 20:00:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ASwAhXmE-Sru12I3TFY1STA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-18 20:00:16",
+      "pub_time": "2026-05-18 19:00:18",
+      "publication": "The Washington Post",
+      "author": "Mariana Alfaro and Karin Brulliard",
+      "headline": "3 killed in shooting at San Diego Islamic Center; 2 suspects also dead",
+      "article_headline": "3 killed in shooting at San Diego Islamic Center; 2 suspects also dead"
+    },
+    {
+      "link": "https://apple.news/A-kWvQkyWRY2gvojmiJYT9g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-18 20:00:16",
+      "pub_time": "2026-05-18 19:00:46",
+      "publication": "Reuters",
+      "author": "Steve Holland, Parisa Hafezi, and Ariba Shahid",
+      "headline": "Trump says he paused attack on Iran as negotiations continue",
+      "article_headline": "Trump says he paused attack on Iran as negotiations continue"
+    },
+    {
+      "link": "https://apple.news/ApO4vU9aLSZKwCUFoh1G_Uw",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-18 20:00:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Justice Department creates unusual $1.8 billion “anti-weaponization fund”",
+      "article_headline": "Justice Department creates unusual $1.8 billion “anti-weaponization fund”"
+    },
+    {
+      "link": "https://apple.news/AnR5ZEV4jTQu62DYgOEbN4A",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-18 20:00:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "American working in Congo tests positive for Ebola, CDC says",
+      "article_headline": "American working in Congo tests positive for Ebola, CDC says"
+    },
+    {
+      "link": "https://apple.news/A3zwGZwAETPqUu6DH_8BbjA",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-18 20:00:16",
+      "pub_time": "2026-05-18 19:02:19",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Sandy Fire threatens homes, forces evacuations as fires burn across California",
+      "article_headline": "Sandy Fire threatens homes, forces evacuations as fires burn across California"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 20:00:16",
+      "pub_time": "",
+      "publication": "The Verge",
+      "author": "",
+      "headline": "The subletter that upended an L.A. woman’s life, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/AGBcEK3pISWe3Psp7AKMoQg",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-18 20:00:16",
+      "pub_time": "",
+      "publication": "Chicago Sun-Times",
+      "author": "",
+      "headline": "Local News, Chicago, Chicago History Museum violated law after firing employees for unionizing, federal labor board alleges",
+      "article_headline": "Chicago History Museum violated law after firing employees for unionizing, federal labor board alleges"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "run_time": "2026-05-18 23:00:17",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/AIrvmeh1FQoyzx9xXdvI-yw",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-18 23:00:17",
+      "pub_time": "2026-05-18 22:27:18",
+      "publication": "USA TODAY",
+      "author": "",
+      "headline": "3 killed, 2 suspects dead in shooting at San Diego Islamic center",
+      "article_headline": "3 killed, 2 suspects dead in shooting at San Diego Islamic center"
+    },
+    {
+      "link": "https://apple.news/Aw_a6dZNnQs-p1BiQ05RLsQ",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-18 23:00:17",
+      "pub_time": "2026-05-18 22:27:46",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Summer Said, and Vera Bergengruen",
+      "headline": "Trump says he will hold off on Iran attack as “serious negotiations” are under way",
+      "article_headline": "Trump Says Planned Iran Attack On Hold After Gulf Leaders’ Request"
+    },
+    {
+      "link": "https://apple.news/Aw_a6dZNnQs-p1BiQ05RLsQ",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-18 23:00:17",
+      "pub_time": "2026-05-18 22:27:18",
+      "publication": "The Wall Street Journal",
+      "author": "Alexander Ward, Summer Said, and Vera Bergengruen",
+      "headline": "Trump says he will hold off on Iran attack as “serious negotiations” are under way",
+      "article_headline": "Trump Says Planned Iran Attack On Hold After Gulf Leaders’ Request"
+    },
+    {
+      "link": "https://apple.news/ABb-aixulRmyUAaBagmR-Ug",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-18 23:00:17",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "Trump administration plans to admit more white South Africans as refugees this year",
+      "article_headline": "Trump administration plans to admit more white South Africans as refugees this year"
+    },
+    {
+      "link": "https://apple.news/AJTzbnbHGRi2MSoQXClEMqQ",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-18 23:00:17",
+      "pub_time": "2026-05-18 22:28:12",
+      "publication": "Grist",
+      "author": "",
+      "headline": "Gas prices are rising. So is public transit ridership.",
+      "article_headline": "Gas prices are rising. So is public transit ridership."
+    },
+    {
+      "link": "https://apple.news/AJTzbnbHGRi2MSoQXClEMqQ",
+      "rank": 6,
+      "section": "top",
+      "run_time": "2026-05-18 23:00:17",
+      "pub_time": "2026-05-18 22:27:45",
+      "publication": "Grist",
+      "author": "",
+      "headline": "Gas prices are rising. So is public transit ridership.",
+      "article_headline": "Gas prices are rising. So is public transit ridership."
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 23:00:17",
+      "pub_time": "2026-05-18 22:28:12",
+      "publication": "Los Angeles Times",
+      "author": "Gavin J. Quinton and Libor Jany",
+      "headline": "Mark Fuhrman, police detective known for O.J. Simpson trial, dies at 74",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

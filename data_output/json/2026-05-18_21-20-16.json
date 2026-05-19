@@ -1,0 +1,85 @@
+{
+  "run_time": "2026-05-18 21:20:16",
+  "story_count": 7,
+  "stories": [
+    {
+      "link": "https://apple.news/ASwAhXmE-Sru12I3TFY1STA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-18 21:20:16",
+      "pub_time": "2026-05-18 20:54:18",
+      "publication": "The Washington Post",
+      "author": "Mariana Alfaro and Karin Brulliard",
+      "headline": "3 killed in shooting at San Diego Islamic Center; 2 suspects also dead",
+      "article_headline": "3 killed in shooting at San Diego Islamic Center; 2 suspects also dead"
+    },
+    {
+      "link": "https://apple.news/A-kWvQkyWRY2gvojmiJYT9g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-18 21:20:16",
+      "pub_time": "2026-05-18 20:54:45",
+      "publication": "Reuters",
+      "author": "Steve Holland, Parisa Hafezi, and Ariba Shahid",
+      "headline": "Trump says he paused attack on Iran, signals a nuclear deal may be possible",
+      "article_headline": "Trump says he paused attack on Iran, signals a nuclear deal may be possible"
+    },
+    {
+      "link": "https://apple.news/A-kWvQkyWRY2gvojmiJYT9g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-18 21:20:16",
+      "pub_time": "2026-05-18 20:54:18",
+      "publication": "Reuters",
+      "author": "Steve Holland, Parisa Hafezi, and Ariba Shahid",
+      "headline": "Trump says he paused attack on Iran, signals a nuclear deal may be possible",
+      "article_headline": "Trump says he paused attack on Iran, signals a nuclear deal may be possible"
+    },
+    {
+      "link": "https://apple.news/A6WPdoeU2QqWRs6lLoxY2pA",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-18 21:20:16",
+      "pub_time": "",
+      "publication": "The Associated Press",
+      "author": "",
+      "headline": "What to know about Trump’s $1.7 billion fund to compensate allies claiming political targeting",
+      "article_headline": "What to know about Trump’s $1.7 billion fund to compensate allies claiming political targeting"
+    },
+    {
+      "link": "https://apple.news/AnR5ZEV4jTQu62DYgOEbN4A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-18 21:20:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "American working in Congo tests positive for Ebola, CDC says",
+      "article_headline": "American working in Congo tests positive for Ebola, CDC says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 21:20:16",
+      "pub_time": "2026-05-18 20:54:44",
+      "publication": "Los Angeles Times",
+      "author": "Gavin J. Quinton and Libor Jany",
+      "headline": "Mark Fuhrman, police detective known for O.J. Simpson trial, dies at 74",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 21:20:16",
+      "pub_time": "",
+      "publication": "The Verge",
+      "author": "",
+      "headline": "The subletter that upended an L.A. woman’s life, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    }
+  ]
+}

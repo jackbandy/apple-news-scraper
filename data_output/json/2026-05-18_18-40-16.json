@@ -1,0 +1,130 @@
+{
+  "run_time": "2026-05-18 18:40:16",
+  "story_count": 11,
+  "stories": [
+    {
+      "link": "https://apple.news/ASwAhXmE-Sru12I3TFY1STA",
+      "rank": 1,
+      "section": "top",
+      "run_time": "2026-05-18 18:40:16",
+      "pub_time": "2026-05-18 18:28:18",
+      "publication": "The Washington Post",
+      "author": "Mariana Alfaro",
+      "headline": "3 killed in shooting at San Diego Islamic Center; 2 suspects also dead",
+      "article_headline": "3 killed in shooting at San Diego Islamic Center; 2 suspects also dead"
+    },
+    {
+      "link": "https://apple.news/A-kWvQkyWRY2gvojmiJYT9g",
+      "rank": 2,
+      "section": "top",
+      "run_time": "2026-05-18 18:40:16",
+      "pub_time": "2026-05-18 18:28:45",
+      "publication": "Reuters",
+      "author": "Steve Holland, Parisa Hafezi, and Ariba Shahid",
+      "headline": "Trump says he paused attack on Iran as negotiations continue",
+      "article_headline": "Trump says he paused attack on Iran as negotiations continue"
+    },
+    {
+      "link": "https://apple.news/A-kWvQkyWRY2gvojmiJYT9g",
+      "rank": 3,
+      "section": "top",
+      "run_time": "2026-05-18 18:40:16",
+      "pub_time": "2026-05-18 18:27:17",
+      "publication": "Reuters",
+      "author": "Steve Holland, Parisa Hafezi, and Ariba Shahid",
+      "headline": "Trump says he paused attack on Iran as negotiations continue",
+      "article_headline": "Trump says he paused attack on Iran as negotiations continue"
+    },
+    {
+      "link": "https://apple.news/ApO4vU9aLSZKwCUFoh1G_Uw",
+      "rank": 4,
+      "section": "top",
+      "run_time": "2026-05-18 18:40:16",
+      "pub_time": "",
+      "publication": "The Wall Street Journal",
+      "author": "",
+      "headline": "Justice Department creates unusual $1.8 billion “anti-weaponization fund”",
+      "article_headline": "Justice Department creates unusual $1.8 billion “anti-weaponization fund”"
+    },
+    {
+      "link": "https://apple.news/AnR5ZEV4jTQu62DYgOEbN4A",
+      "rank": 5,
+      "section": "top",
+      "run_time": "2026-05-18 18:40:16",
+      "pub_time": "",
+      "publication": "NBC News",
+      "author": "",
+      "headline": "American working in Congo tests positive for Ebola, CDC says",
+      "article_headline": "American working in Congo tests positive for Ebola, CDC says"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 18:40:16",
+      "pub_time": "2026-05-18 18:27:45",
+      "publication": "San Francisco Chronicle",
+      "author": "",
+      "headline": "Sandy Fire threatens homes, forces evacuations as fires burn across California",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "",
+      "rank": "plus",
+      "section": "top",
+      "run_time": "2026-05-18 18:40:16",
+      "pub_time": "",
+      "publication": "The Verge",
+      "author": "",
+      "headline": "The subletter that upended an L.A. woman’s life, Audio, 1 min",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/ALm69_bR4S8Wxn_CHs_wM-A",
+      "rank": 1,
+      "section": "trending",
+      "run_time": "2026-05-18 18:40:16",
+      "pub_time": "2026-05-18 18:21:20",
+      "publication": "TMZ",
+      "author": "TMZ Staff",
+      "headline": "O.J. Simpson Detective Mark Fuhrman Dead at 74",
+      "article_headline": "O.J. Simpson Detective Mark Fuhrman Dead at 74"
+    },
+    {
+      "link": "https://apple.news/AoYBCHjfGRSGVwcObze4V8A",
+      "rank": 2,
+      "section": "trending",
+      "run_time": "2026-05-18 18:40:16",
+      "pub_time": "2026-05-18 10:43:53",
+      "publication": "Southern Living",
+      "author": "Betsy Cribb Watson",
+      "headline": "4 Costly Home Improvements That Won’t Pay Off When You Sell, According To A Realtor",
+      "article_headline": "4 Costly Home Improvements That Won’t Pay Off When You Sell, According To A Realtor"
+    },
+    {
+      "link": "",
+      "rank": 3,
+      "section": "trending",
+      "run_time": "2026-05-18 18:40:16",
+      "pub_time": "",
+      "publication": "",
+      "author": "",
+      "headline": "The startling effect coffee has on aging, Apple News Plus, Thomas Westerholm",
+      "article_headline": "",
+      "link_status": "P"
+    },
+    {
+      "link": "https://apple.news/A0s0C615hQfSweYQrei_U0w",
+      "rank": 4,
+      "section": "trending",
+      "run_time": "2026-05-18 18:40:16",
+      "pub_time": "2026-05-18 14:44:21",
+      "publication": "Autoblog",
+      "author": "John Tallodi",
+      "headline": "The Highest-Rated SUV For 2026 Is Not The One You’d Expect",
+      "article_headline": "The Highest-Rated SUV For 2026 Is Not The One You’d Expect"
+    }
+  ]
+}
